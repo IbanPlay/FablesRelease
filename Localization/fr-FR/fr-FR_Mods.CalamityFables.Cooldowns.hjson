@@ -1,0 +1,22 @@
+ChaosState: Temps de recharge de téléportation
+PotionSickness: Temps de recharge de soin
+Electrocells: Temps de recharge de la déflagration des globules éléctriques
+PeculiarPotLife: Durabilité du pot bizzare
+WarpPod: Temps de recharge de la gousse de téléportation
+WarriorsAmphora: Temps de recharge de la téléportation à l'emplacement de la mort
+WulfrumBastionRecharge: Temps de recharge du bastion de Wulfrum
+WulfrumBastionDurability: Durabilité de l'exosquelette
+WulfrumRoverDriveDurability: Durabilité de la matrice de protection
+WulfrumRoverDriveRecharge: Temps de recharge de la matrice de protection
+// ShroomHookpointTimer: Mushroom Hookpoint Lifetime
+// SyringeReload: Syringe Reload
+// EncasedHits: Ice Block Durability
+// EncasedCooldown: Ice Block Cooldown
+
+SettingOption: {
+	Label: "Style de temps de recharge: "
+	Fancy: Classe
+	Square: Carré
+	Compact: Compacte
+	Disabled: Désactivé
+}

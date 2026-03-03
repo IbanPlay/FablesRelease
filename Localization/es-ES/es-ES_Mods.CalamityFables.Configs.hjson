@@ -1,0 +1,65 @@
+EntryTitle.CooldownDisplay: ""
+EntryTooltip.CooldownDisplay: ""
+
+FablesConfig: {
+	DisplayName: Configuración Principal
+
+	SectionTitle: {
+		Graphics: Efectos Visuales
+		UI: Interfáz de Usuario
+	}
+
+	VanillaCooldownDisplay: {
+		Tooltip: Hace que enfermedad de poción y estado de caos se muestren junto a los cooldowns y no en la lista de bufos.
+		Label: "[i:{0}] Mostrador de Enfriamiento para los debufos de Vanilla"
+	}
+
+	CooldownDisplay: {
+		Tooltip: ""
+		Label: Mostrador de Enfriamientos
+	}
+
+	ChromaticAbberationMultiplier: {
+		Tooltip: Multiplicador de fuerza para los efectos de aberración cromática usados por algunos objetos.
+		Label: "[i:{0}] Multiplicador de Aberración Crómatica"
+	}
+
+	ScreenshakeMultiplier: {
+		Tooltip: Multiplicador de fuerza para los efectos de temblor de pantalla del mod.
+		Label: "[i:{0}] Multiplicador de Temblor de Pantalla "
+	}
+
+	FluidSimVFXEnabled: {
+		Tooltip: Configura el uso de efectos visuales de humo o niebla, que pueden incurrir costos en el rendimiento para usuarios con gpus de gama baja
+		Label: "[i:{0}] Usa efectos visuales de humo/niebla"
+	}
+
+	ParticleLimit: {
+		Tooltip: Máxima cantidad de partículas que pueden existir al mismo tiempo. Puede causar que ciertos efectos sean menos visibles si se baja demasiado.
+		Label: "[i:{0}] Cantidad Máxima de Partículas"
+	}
+
+	BossIntroCardsActivated: {
+		Tooltip: Activa/Desactiva las tarjetas de introducción que aparecen al invocar un jefe.
+		Label: "[i:{0}] Tarjetas de Introducción de Jefes"
+	}
+}
+
+CalCompatConfig: {
+	DisplayName: Compatibilidad con Calamity
+
+	UseCalamityMusic: {
+		Tooltip: Si el mod de música de Calamity está activado, sonará el equivalente de Calamity del tema de Fables respectivo, si existe.
+		Label: "[i:{0}] Usar la música de calamity"
+	}
+
+	ReplaceCalamity: {
+		Tooltip: Elimina el contenido de Calamity si Fables tiene un equivalente. Los objetos de calamity que usen contenido reemplazado en sus recetas usarán los equivalentes de Fables.
+		Label: "[i:{0}] Elimina contenido duplicado de Calamity"
+	}
+
+	RemoveCalamityLoreFluff: {
+		// Tooltip: Removes Calamity items that may contradict Fables lore (Lore items for now, potentially others in the future)
+		// Label: "[i:{0}] Remove Lore Items"
+	}
+}

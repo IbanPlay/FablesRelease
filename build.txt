@@ -1,0 +1,8 @@
+displayName = Calamity Fables
+author = Iban and the Players
+version = 0.1.16
+dllReferences = NetEasy_v0.1.8, NetSerializer
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, .github\*, LICENSE, README.md, .editorconfig, .gitignore, .gitattributes, Effects\Compiler\*
+hideCode=false
+hideResources=false
+includeSource = true

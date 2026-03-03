@@ -1,0 +1,21 @@
+// ObtentionMessage: "New Keepsake obtained: "
+
+Names: {
+	NautilusPendant: Médaillon royal
+	// Test: Test Pendant
+}
+
+Descriptions: {
+	NautilusPendant: Décerné aux membres de l'Escouade Royale des Rémoras
+	// Test: Test test debug hello
+}
+
+NameColors: {
+	NautilusPendant: FFCC41
+	// Test: FF0900
+}
+
+TabNames: {
+	Open: Mementos
+	Close: Fermer
+}

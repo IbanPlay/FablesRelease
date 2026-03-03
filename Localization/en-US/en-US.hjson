@@ -1,0 +1,2784 @@
+Mods: {
+	CalamityFables: {
+		Tiles: {
+			StormlionLarvaBanner.MapEntry: Banner
+			HookstaffBuriedTile.MapEntry: Hookstaff
+			HookstaffTile.MapEntry: Hookstaff
+			NautilusPedestal.MapEntry: ""
+			GrapplerSpawnerTile.MapEntry: Spawner
+			MagnetizerSpawnerTile.MapEntry: Spawner
+			MortarSpawnerTile.MapEntry: Spawner
+			RollerSpawnerTile.MapEntry: Spawner
+			RoverSpawnerTile.MapEntry: Spawner
+			GeodeCrawlerBanner.MapEntry: Banner
+			WulfrumGrapplerBanner.MapEntry: Banner
+			WulfrumMagnetizerBanner.MapEntry: Banner
+			WulfrumMortarBanner.MapEntry: Banner
+			WulfrumNexusBanner.MapEntry: Banner
+			WulfrumRollerBanner.MapEntry: Banner
+			WulfrumRoverBanner.MapEntry: Banner
+			NautilusCrossingTheDunes.MapEntry: Painting
+			ScourgekillerPaintingTile.MapEntry: Painting
+			WulfrumAcrobaticsPackPoster.MapEntry: Poster
+			WulfrumBathtub.MapEntry: Wulfrum Bathtub
+			WulfrumBed.MapEntry: Wulfrum Bed
+			WulfrumBulkContainer.MapEntry: Wulfrum Bulk Storage
+			WulfrumBulkDoorClosed.MapEntry: Wulfrum Bulk Door
+			WulfrumBulkDoorOpen.MapEntry: Wulfrum Door
+			WulfrumCanister.MapEntry: Wulfrum Canister
+			WulfrumComputer.MapEntry: Wulfrum Computer
+			WulfrumComputerPoster.MapEntry: Poster
+			WulfrumCrate.MapEntry: Wulfrum Crate
+			WulfrumDesk.MapEntry: Wulfrum Desk
+			WulfrumDiggingTurtlePoster.MapEntry: Poster
+			WulfrumDoorClosed.MapEntry: Wulfrum Door
+			WulfrumDoorOpen.MapEntry: Wulfrum Door
+			WulfrumFidgetPoster.MapEntry: Poster
+			WulfrumFridge.MapEntry: Wulfrum Fridge
+			WulfrumGrapplerPoster.MapEntry: Poster
+			WulfrumGyratorPoster.MapEntry: Poster
+			WulfrumHatchClosed.MapEntry: Wulfrum Hatch
+			WulfrumHatchOpen.MapEntry: Wulfrum Hatch
+			WulfrumLocker.MapEntry: Wulfrum Storage Locker
+			WulfrumMagnetizerPoster.MapEntry: Poster
+			WulfrumModularChair.MapEntry: Wulfrum Modular Chair
+			WulfrumMortarPoster.MapEntry: Poster
+			WulfrumOfficeChair.MapEntry: Wulfrum Office Chair
+			WulfrumPowerArmorPoster.MapEntry: Poster
+			WulfrumReinforcedCrate.MapEntry: Wulfrum Crate
+			WulfrumRollerPoster.MapEntry: Poster
+			WulfrumRoverPoster.MapEntry: Poster
+			WulfrumSink.MapEntry: Wulfrum Sink
+			WulfrumSmallCanister.MapEntry: Wulfrum Canister
+			WulfrumTable.MapEntry: Wulfrum Table
+			WulfrumToilet.MapEntry: Wulfrum Toilet
+			WulfrumTubeLight.MapEntry: Wulfrum Tube Light
+			WulfrumWashingMachine.MapEntry: Wulfrum Washing Machine
+			WulfrumWashingMachinePoster.MapEntry: Poster
+			WulfrumWideComputer.MapEntry: Wulfrum Computer
+			WulfrumWorkbench.MapEntry: Wulfrum Work Bench
+			WulfrumWorkshop.MapEntry: Wulfrum Workshop
+			Wulfrum1x1Piles.MapEntry: Scrap
+			Wulfrum1x1PilesEcho.MapEntry: Scrap
+			Wulfrum3x2Piles.MapEntry: Scrap
+			Wulfrum3x2PilesEcho.MapEntry: Scrap
+			WulfrumChestLocked.MapEntry: Locked Wulfrum Chest
+			WulfrumLandfill.MapEntry: Wulfrum Landfill
+			WulfrumLure.MapEntry: Wulfrum Lure
+			WulfrumPipes.MapEntry: Wulfrum Pipe
+			WulfrumRotorLandfill.MapEntry: Wulfrum Landfill
+			WulfrumSmokingPipes.MapEntry: Wulfrum Pipe
+			CloudSpriteBanner.MapEntry: Banner
+			HookstaffBuriedTileEcho.MapEntry: Hookstaff
+			HookstaffTileEcho.MapEntry: Hookstaff
+			StormlionBanner.MapEntry: Banner
+			WulfrumBigRotorLandfill.MapEntry: Wulfrum Landfill
+			DustyCrates.MapEntry: Crate
+			DustyCratesEcho.MapEntry: Crate
+			TripodTorchTile.MapEntry: Torch
+			BrokenDummy.MapEntry: Dummy
+			BrokenDummyEcho.MapEntry: Dummy
+			SandstoneCampfireTile.MapEntry: Campfire
+			SandyTentTile.MapEntry: Tent
+			MakeshiftStoolTile.MapEntry: Stool
+			DesertBrazierTile.MapEntry: Brazier
+			DesertBrickPillarTile.MapEntry: Desert Brick Pillar Tile
+			SandstonePillarTile.MapEntry: Sandstone Pillar Tile
+			ShatteredTabletPaintingTile.MapEntry: Painting
+			DustyBricks.MapEntry: Dusty Bricks
+			GrimyGrate.MapEntry: Grimy Grate
+			IndustrialWulfrumTubeLight.MapEntry: Industrial Wulfrum Tube Light
+			BunkerScreenRubble.MapEntry: Bunker Screen
+			BunkerScreenRubbleEcho.MapEntry: Bunker Screen
+			BunkerShelfRubble.MapEntry: Bunker Shelf
+			BunkerShelfRubbleEcho.MapEntry: Bunker Shelf
+			BunkerWarningSignRubble.MapEntry: Bunker Warning Sign
+			BunkerWarningSignRubbleEcho.MapEntry: Bunker Warning Sign
+			BunkerChairRubble.MapEntry: Bunker Chair
+			BunkerChairRubbleEcho.MapEntry: Bunker Chair
+			BunkerLongTableRubble.MapEntry: Bunker Long Table
+			BunkerLongTableRubbleEcho.MapEntry: Bunker Long Table
+			BunkerTableRubble.MapEntry: Bunker Table
+			BunkerTableRubbleEcho.MapEntry: Bunker Table
+			BunkerWorkshopRubble.MapEntry: Bunker Workshop
+			BunkerWorkshopRubbleEcho.MapEntry: Bunker Workshop
+			BunkerWorkshop.MapEntry: Bunker Workshop
+			WulfrumVault.MapEntry: Wulfrum Vault
+			WulfrumVaultLocked.MapEntry: Locked Wulfrum Vault
+			WulfrumDeskLamp.MapEntry: Wulfrum Desk Lamp
+			WulfrumLamppost.MapEntry: Wulfrum Lamppost
+			SandstormSpriteBanner.MapEntry: Banner
+			SpelunkerScarabBanner.MapEntry: Banner
+			BlizzardSpriteBanner.MapEntry: Banner
+		}
+
+		Conditions.InNautilusChamber: Inside the Sealed Chamber
+
+		Compat: {
+			BossChecklist: {
+				DesertScourge: {
+					SpawnInfo: Lure out the Desert Scourge using [i:{0}][i:{1}][i:{2}] tasty stormlion grubs.
+					Despawn: The Desert Scourge dissapears below the shifting sands...
+				}
+
+				Crabulon: {
+					SpawnInfo: Can naturally spawn peeking out in the mushroom caves before its defeat. Draw its attention by using a [i:{0}] hookstaff on mushroom grass.
+					Despawn: The mushroom caves become silent again...
+				}
+
+				Nautilus: {
+					SpawnInfo: Meet the lone soldier in a hidden chamber buried beneath the dunes... an ancient [i:{0}] graveyard marks the spot!
+					Despawn: Nautilus wins the duel!
+				}
+			}
+		}
+
+		Projectiles: {
+			AntlionChunk.DisplayName: Antlion Chunk
+			DesertScourgeElectroblast.DisplayName: a voltful blast
+			DesertScourgeFallingSkull.DisplayName: Desert Scourge's Skull
+			PlatformElectrification.DisplayName: over 2000 volts
+			StormlionChunk.DisplayName: Stormlion Chunk
+			CrabulonClawHitbox.DisplayName: Crabulon
+			CrabulonDropHitbox.DisplayName: Crabulon
+			CrabulonSporeSeed.DisplayName: Spore Seed
+			CrabulonStomp.DisplayName: fungal shockwave
+			LingeringSporeGas.DisplayName: Spore Gas
+			SporedSkeleton.DisplayName: a spored corpse
+			NautilusDashSlice.DisplayName: Nautilus' complete mastery over his trident
+			NautilusTrident.DisplayName: Trident
+			SandstoneBoulder.DisplayName: a sandstone boulder
+			SignathionSpectralBolt.DisplayName: Spectral Water
+			ElectrocellDischarge.DisplayName: Unstable Discharge
+			CrabSpirit.DisplayName: Crab Spirit
+			InfestationExplosionHitbox.DisplayName: Mycelium Explosion
+			InfestationRot.DisplayName: Rot
+			InkyCapGuardian.DisplayName: Inky Cap Guardian
+			InkyCapSporeBomb.DisplayName: Seed
+			ManaMushroom.DisplayName: Mana Mushroom
+			MushSlingshot.DisplayName: Mushroom Hook
+			OvergrownClawProjectile.DisplayName: Claw
+			OvergrownClawSlamHitbox.DisplayName: Seismic Shock
+			SerratedMyceliumHook.DisplayName: Serrated Thread
+			SporePodSplort.DisplayName: Splort
+			SporethrowerJet.DisplayName: Spores
+			SyringeGunDart.DisplayName: Syringe
+			WarpPod.DisplayName: Warp Pod
+			PeculiarPotTarBlot.DisplayName: Tar Blot
+			PeculiarPotTarRing.DisplayName: Tar
+			PeculiarPotTarTrail.DisplayName: Tar
+			AmpstringArrow.DisplayName: Ampstring Arrow
+			AmpstringNeedle.DisplayName: Ampstring Needle
+			CarrionDetonatorMeatBlast.DisplayName: Meatblast
+			CarrionDetonatorMeatChunk.DisplayName: Meatball
+			CarrionDetonatorWindWave.DisplayName: Wind Slice
+			MiniElectroblast.DisplayName: BALLIN' BLAST
+			RegurgitatedBuff.DisplayName: Regurgitated Meal
+			StormlionWhipProjectile.DisplayName: Stormlion Whip
+			TinyScourgePet.DisplayName: Tiny Scourge
+			TornElectrosacBall.DisplayName: BALLING SO HARD
+			AcidExplosion.DisplayName: Acid Explosion
+			BouncyDartProj.DisplayName: Bouncy Dart
+			BrambleMinion.DisplayName: Tumbleweed
+			BundleOfCaltropsProjectile.DisplayName: Bundle of Caltrops
+			Caltrop.DisplayName: Caltrop
+			CloudInAMaceProjectile.DisplayName: Cloud in a Mace
+			CloudySpikeBallProjectile.DisplayName: Cloudy Spiky Ball
+			CrackshotBlast.DisplayName: Blast
+			CrackshotCoin.DisplayName: Coin
+			DesertScourgeLightningStrike.DisplayName: Thunder Strike
+			EyetoothMincedMeat.DisplayName: Minced Meat
+			EyetoothRipperProjectile.DisplayName: Eyetooth Ripper
+			FanaticalMaskGlobule.DisplayName: Blood Cell
+			FanaticalMaskProjectile.DisplayName: Fanatical Mask
+			FanaticalMaskTendril.DisplayName: Blood Tendril
+			LeechExplosion.DisplayName: Neurotoxin Explosion
+			ObsidianThrowingDaggerProj.DisplayName: Dagger
+			PlasmaRodBlast.DisplayName: Plasma Blast
+			PlasmaRodBoltExplosion.DisplayName: Plasma Explosion
+			PlasmaRodDart.DisplayName: Plasma Dart
+			PontiffsPiperBloodShot.DisplayName: Blood Shot
+			PontiffsPiperBuffNotes.DisplayName: Toot
+			PontiffsPiperNotes.DisplayName: Toot
+			PontiffsPiperSquid.DisplayName: Blood Piper
+			SpikedBallFragment.DisplayName: Shrapnel
+			SpikedBallProjectile.DisplayName: Spiked Ball
+			WoodenDartProj.DisplayName: Wooden Dart
+			MarniteDeconstructorProj.DisplayName: Marnite Deconstructor
+			MarniteRepulsionHitbox.DisplayName: Repulsion Matrix
+			MarniteObliteratorProj.DisplayName: Marnite Obliterator
+			LittleDragonfish.DisplayName: Little Dragonfish
+			NautilusGhostApparition.DisplayName: Nautilus
+			PossessedTridentProjectile.DisplayName: Trident
+			WulfrumBolt.DisplayName: Bolt
+			WulfrumDiggingTurtleProjectile.DisplayName: Digging Turtle
+			WulfrumDrillProj.DisplayName: Drill
+			WulfrumDroid.DisplayName: Wulfrum Droid
+			WulfrumEnergyBurst.DisplayName: Bolt
+			WulfrumFusionBolt.DisplayName: Fusion Bolt
+			WulfrumHook.DisplayName: Wulfrum Slingshot
+			WulfrumManaDrain.DisplayName: Mana Drain
+			WulfrumScaffoldKitHoldout.DisplayName: Wulfrum Scaffold Kit
+			WulfrumScrapBullet.DisplayName: High Speed Scrap
+			WulfrumScrapFalling.DisplayName: Falling Wulfrum Scrap
+			WulfrumScrew.DisplayName: Screw
+			WulfrumScrewdriverProj.DisplayName: Screwdriver
+			CloudSpriteFist.DisplayName: Cloudy Fist
+			WulfrumMortarExplosion.DisplayName: Explosion
+			WulfrumMortarShell.DisplayName: Gyro Shell
+			WulfrumNexusShot.DisplayName: energy bolt
+			WulfrumScrapProjectile.DisplayName: Scrap
+			GroundStomp.DisplayName: a shockwave
+			HostileDirectStrike.DisplayName: a strong blow
+			MauricingScourgeHead.DisplayName: Maurice
+			SandstoneGraveyardGhost.DisplayName: Ghost
+			AshenGraveMarkerProjectile.DisplayName: Ashen Grave Marker
+			AshenHeadstoneProjectile.DisplayName: Ashen Headstone
+			AshenTombstoneProjectile.DisplayName: Ashen Tombstone
+			AshenGravestoneProjectile.DisplayName: Ashen Gravestone
+			CoralGraveMarkerProjectile.DisplayName: Coral Grave Marker
+			CoralTombstoneProjectile.DisplayName: Coral Tombstone
+			ReefGraveMarkerProjectile.DisplayName: Reef Grave Marker
+			ReefTombstoneProjectile.DisplayName: Reef Tombstone
+			CorruptCrossGraveMarkerProjectile.DisplayName: Corrupt Cross Grave Marker
+			CorruptObeliskProjectile.DisplayName: Corrupt Obelisk
+			CorruptTombstoneProjectile.DisplayName: Corrupt Tombstone
+			CorruptGraveMarkerProjectile.DisplayName: Corrupt Grave Marker
+			CrimsonTombstoneProjectile.DisplayName: Crimson Tombstone
+			CrimsonGraveMarkerProjectile.DisplayName: Crimson Grave Marker
+			CrimsonHeadstoneProjectile.DisplayName: Crimson Headstone
+			CrimsonCrossGraveMarkerProjectile.DisplayName: Crimson Cross Grave Marker
+			CrimtaneTombstoneProjectile.DisplayName: Crimtane Tombstone
+			CrimtaneObeliskProjectile.DisplayName: Crimtane Obelisk
+			CrimtaneHeadstoneProjectile.DisplayName: Crimtane Headstone
+			CrimtaneGraveMarkerProjectile.DisplayName: Crimtane Grave Marker
+			CrystalTombstoneProjectile.DisplayName: Crystal Tombstone
+			CrystalHeadstoneProjectile.DisplayName: Crystal Headstone
+			CrystalGraveMarkerProjectile.DisplayName: Crystal Grave Marker
+			CrystalGravestoneProjectile.DisplayName: Crystal Gravestone
+			DemoniteHeadstoneProjectile.DisplayName: Demonite Headstone
+			DemoniteObeliskProjectile.DisplayName: Demonite Obelisk
+			DemoniteTombstoneProjectile.DisplayName: Demonite Tombstone
+			DemoniteGraveMarkerProjectile.DisplayName: Demonite Grave Marker
+			FrozenHeadstoneProjectile.DisplayName: Frozen Headstone
+			FrozenTombstoneProjectile.DisplayName: Frozen Tombstone
+			FrozenGraveMarkerProjectile.DisplayName: Frozen Grave Marker
+			FrozenObeliskProjectile.DisplayName: Frozen Obelisk
+			GoldenFrozenHeadstoneProjectile.DisplayName: Golden Frozen Headstone
+			GoldenFrozenTombstoneProjectile.DisplayName: Golden Frozen Tombstone
+			GoldenFrozenGraveMarkerProjectile.DisplayName: Golden Frozen Grave Marker
+			GoldenFrozenObeliskProjectile.DisplayName: Golden Frozen Obelisk
+			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: Golden Mycelial Cross Grave Marker
+			GoldenMycelialGraveMarkerProjectile.DisplayName: Golden Mycelial Grave Marker
+			GoldenMycelialHeadstoneProjectile.DisplayName: Golden Mycelial Headstone
+			GoldenMycelialTombstoneProjectile.DisplayName: Golden Mycelial Tombstone
+			GoldenSandstoneGravestoneProjectile.DisplayName: Golden Sandstone Gravestone
+			GoldenSandstoneTombstoneProjectile.DisplayName: Golden Sandstone Tombstone
+			GoldenSandstoneObeliskProjectile.DisplayName: Golden Sandstone Obelisk
+			GoldenSandstoneHeadstoneProjectile.DisplayName: Golden Sandstone Headstone
+			BambooGraveMarkerProjectile.DisplayName: Bamboo Grave Marker
+			JungleGraveMarkerProjectile.DisplayName: Jungle Grave Marker
+			JungleCrossGraveMarkerProjectile.DisplayName: Jungle Cross Grave Marker
+			JungleHeadstoneProjectile.DisplayName: Jungle Headstone
+			LihzahrdGravestoneProjectile.DisplayName: Lihzahrd Gravestone
+			LihzahrdTombstoneProjectile.DisplayName: Lihzahrd Tombstone
+			LihzahrdGraveMarkerProjectile.DisplayName: Lihzahrd Grave Marker
+			LihzahrdHeadstoneProjectile.DisplayName: Lihzahrd Headstone
+			MantleGraveMarkerProjectile.DisplayName: Mantle Grave Marker
+			MantleHeadstoneProjectile.DisplayName: Mantle Headstone
+			MantleTombstoneProjectile.DisplayName: Mantle Tombstone
+			MantleGravestoneProjectile.DisplayName: Mantle Gravestone
+			MycelialHeadstoneProjectile.DisplayName: Mycelial Headstone
+			MycelialGravestoneProjectile.DisplayName: Mycelial Gravestone
+			MycelialGraveMarkerProjectile.DisplayName: Mycelial Grave Marker
+			MycelialTombstoneProjectile.DisplayName: Mycelial Tombstone
+			PearlstoneTombstoneProjectile.DisplayName: Pearlstone Tombstone
+			PearlwoodGraveMarkerProjectile.DisplayName: Pearlwood Grave Marker
+			PearlstoneGraveMarkerProjectile.DisplayName: Pearlstone Grave Marker
+			PearlstoneGravestoneProjectile.DisplayName: Pearlstone Gravestone
+			SandstoneGraveMarkerProjectile.DisplayName: Sandstone Grave Marker
+			SandstoneTombstoneProjectile.DisplayName: Sandstone Tombstone
+			SandstoneObeliskProjectile.DisplayName: Sandstone Obelisk
+			SandstoneCrossGraveMarkerProjectile.DisplayName: Sandstone Cross Grave Marker
+			PalmwoodCrossGraveMarkerProjectile.DisplayName: Palmwood Cross Grave Marker
+			PalmwoodGraveMarkerProjectile.DisplayName: Palmwood Grave Marker
+			PalmwoodShipwreckMarkerProjectile.DisplayName: Palmwood Shipwreck Marker
+			SeashellTombstoneProjectile.DisplayName: Seashell Tombstone
+			SkyGraveMarkerProjectile.DisplayName: Sky Grave Marker
+			SkyCrossGraveMarkerProjectile.DisplayName: Sky Cross Grave Marker
+			SkyGravestoneProjectile.DisplayName: Sky Gravestone
+			SkyCairnProjectile.DisplayName: Sky Cairn
+			SkywareTombstoneProjectile.DisplayName: Skyware Tombstone
+			SkywareCrossGraveMarkerProjectile.DisplayName: Skyware Cross Grave Marker
+			SkywareHeadstoneProjectile.DisplayName: Skyware Headstone
+			SkywareGraveMarkerProjectile.DisplayName: Skyware Grave Marker
+			WulfrumLureSignal.DisplayName: Signal
+			SporedCorpse.DisplayName: Spored Corpse
+			BurntCorpse.DisplayName: Burnt Corpse
+			OpulentDartgunBigSyringe.DisplayName: Opulent Dartgun Big Syringe
+			GeodeCrawlerPet.DisplayName: Smeebo
+			SandstormSpriteTwister.DisplayName: Twister
+			SludgeSlapProjectile.DisplayName: Sludge Slap
+			SludgeSlapSlimeling.DisplayName: Slimeling
+			GemChimeSoundwave.DisplayName: Gem Chime Soundwave
+			SpelunkerScarabOreChunk.DisplayName: Ore Chunk
+			SuperchargedDartProjectile.DisplayName: Supercharged Dart
+			SkyDartProjectile.DisplayName: Raptor Dart
+			BlizzardSpriteIcicle.DisplayName: Icicle
+			DrownedScripturesMine.DisplayName: Drowned Scriptures Mine
+			DrownedScripturesExplosion.DisplayName: Drowned Scriptures Explosion
+			DrownedScripturesHorror.DisplayName: Drowned Scriptures Horror
+			SackOfInfiniteGunsProjectile.DisplayName: Gun
+			InfiniteBullet.DisplayName: Bullet
+			IceHatTrail.DisplayName: Ice Trail
+			IceHatSnowRing.DisplayName: Snow
+			IceShard.DisplayName: Ice Shard
+			Yoblin.DisplayName: Yoblin
+			ShimmerYoblin.DisplayName: Yoblin
+			ShimmerYoblinSpring.DisplayName: Yoblin Spring
+			YoblinBucketHoldout.DisplayName: Yoblin Bucket Holdout
+			CoraletiSpearHeld.DisplayName: Coraleti Spear
+			CoraletiSpearShrapnel.DisplayName: Coraleti Shrapnel
+		}
+
+		Items: {
+			BucketOfLarvae: {
+				DisplayName: Stormlion Grub Bucket
+				Tooltip: Contains a seemingly infinite amount of wormfeed
+			}
+
+			DeadStormlionLarvaItem: {
+				DisplayName: Dead Stormlion Larva
+				Tooltip: "'A treat for any desert predator'"
+			}
+
+			DesertScourgeBossMask: {
+				DisplayName: Desert Scourge Mask
+				Tooltip: ""
+			}
+
+			DesertScourgeRelicItem: {
+				DisplayName: Desert Scourge Relic
+				Tooltip: ""
+			}
+
+			DesertScourgeTrophyItem: {
+				DisplayName: Desert Scourge Trophy
+				Tooltip: ""
+			}
+
+			DesertScourgeTreasureBag: {
+				DisplayName: Treasure Bag (Desert Scourge)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			StormlionLarvaBannerItem: {
+				DisplayName: Stormlion Larva Banner
+				Tooltip: Nearby Players get a bonus against: Stormlion Larva
+			}
+
+			StormlionLarvaItem: {
+				DisplayName: Stormlion Larva
+				Tooltip: "'It flails about above the dunes... Perhaps they sense a threat below?'"
+			}
+
+			CrabulonRelicItem: {
+				DisplayName: Crabulon Relic
+				Tooltip: ""
+			}
+
+			CrabulonTrophyItem: {
+				DisplayName: Crabulon Trophy
+				Tooltip: ""
+			}
+
+			CrabulonTreasureBag: {
+				DisplayName: Treasure Bag (Crabulon)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			Hookstaff: {
+				DisplayName: Hookstaff
+				Tooltip:
+					'''
+					Used to poke and prod at the mycelium within the mushroom biome
+					Can only be used when standing on mushroom grass
+					Might provoke some subterranean creatures...
+					'''
+			}
+
+			SporeHeart: {
+				DisplayName: Spore Heart
+				Tooltip: ""
+			}
+
+			SirNautilusBossMask: {
+				DisplayName: Sir Nautilus Mask
+				Tooltip: ""
+			}
+
+			SirNautilusRelicItem: {
+				DisplayName: Sir Nautilus Relic
+				Tooltip: ""
+			}
+
+			SirNautilusTrophyItem: {
+				DisplayName: Sir Nautilus Trophy
+				Tooltip: ""
+			}
+
+			AmnesiaItem: {
+				DisplayName: Sometime at the Verge of Space
+				Tooltip: ""
+			}
+
+			GrapplerSpawner: {
+				DisplayName: Grappler spawner
+				Tooltip: ""
+			}
+
+			MagnetizerSpawner: {
+				DisplayName: Magnetizer spawner
+				Tooltip: ""
+			}
+
+			MortarSpawner: {
+				DisplayName: Mortar spawner
+				Tooltip: ""
+			}
+
+			RollerSpawner: {
+				DisplayName: Roller spawner
+				Tooltip: ""
+			}
+
+			RoverSpawner: {
+				DisplayName: Rover spawner
+				Tooltip: ""
+			}
+
+			DesertMirageDye: {
+				DisplayName: Desert Mirage Dye
+				Tooltip: ""
+			}
+
+			ElectricDye: {
+				DisplayName: Electric Dye
+				Tooltip: ""
+			}
+
+			Electrocells: {
+				DisplayName: Electrocells
+				Tooltip:
+					'''
+					Upon taking at least 50 damage, one electrocell cluster is consumed, electrocuting nearby enemies
+					'The organic goo crackles and burns at the touch'
+					'''
+			}
+
+			ScourgeSpineHeadPlacer: {
+				Tooltip:
+					'''
+					Places down a decorative scourge fossil
+					Press Up/Down to adjust the spine curvature
+					'''
+				DisplayName: Sea Scourge Fossil (Head)
+			}
+
+			ScourgeSpinePlacer: {
+				Tooltip:
+					'''
+					Places down a decorative scourge fossil
+					Press Up/Down to adjust the spine curvature
+					'''
+				DisplayName: Sea Scourge Fossil (Spine)
+			}
+
+			ClawShell: {
+				DisplayName: Claw Shell
+				Tooltip:
+					'''
+					Summons a haunted mudcrab shell
+					'Stuffed with fungal goo!'
+					'''
+			}
+
+			CrabulonBossMask: {
+				DisplayName: Crabulon Mask
+				Tooltip: ""
+			}
+
+			FungalThroatInfection: {
+				DisplayName: Fungal Throat Infection
+				Tooltip:
+					'''
+					Changes your voice
+					'Great for impersonating a zombified corpse!'
+					'''
+			}
+
+			InkyBluePendant: {
+				DisplayName: Inky Blue Pendant
+				Tooltip:
+					'''
+					Summons an Inky Cap Guardian to fight for you
+					<right> to enroot the Guardian, creating a healing aura for you and other players
+					The enrooted Guardian can also be used as a trampoline
+					You can only have one guardian summoned at once
+					Requires two minion slots
+					'''
+			}
+
+			LuminousMixture: {
+				DisplayName: Luminous Mixture
+				Tooltip: Grants a short surge of power when using a healing item
+			}
+
+			MoldyPicklaw: {
+				DisplayName: Moldy Picklaw
+				Tooltip:
+					'''
+					Converts soft tiles and common stones into fragile mycelium
+					Mycelium is frail and will break apart multiple tiles at once
+					'''
+			}
+
+			MushroomBoots: {
+				DisplayName: Mushroom Boots
+				Tooltip: Leaves a trail of mushrooms in your wake
+			}
+
+			MyceliumMoldItem: {
+				DisplayName: Mycelium Mold
+				Tooltip: Less frail than the regular variety
+			}
+
+			OrnamentalHookstaff: {
+				DisplayName: Ornamental Hookstaff
+				Tooltip: ""
+			}
+
+			OvergrownClaw: {
+				DisplayName: Overgrown Claw
+				Tooltip:
+					'''
+					Launch a fungal claw to grab your foes
+					Small enemies can be moved and thrown, or slammed into terrain
+					Large enemies cannot be moved, pull the cursor away to rip out the claw and deal damage
+					'''
+			}
+
+			PsychedelicFogMachineItem: {
+				DisplayName: Psychedelic Fog Machine
+				Tooltip: ""
+			}
+
+			SerratedFiberCloak: {
+				DisplayName: Serrated Fiber Cloak
+				Tooltip:
+					'''
+					Replaces your hook with three powerful mycelium hooks
+					Hold the grapple key down to create a temporary hookpoint, letting you slingshot yourself through the air at high speed
+					Only one hookpoint may exist at a time
+					'''
+			}
+
+			SporeDye: {
+				DisplayName: Spore Dye
+				Tooltip: ""
+			}
+
+			SporePod: {
+				DisplayName: Spore Pod
+				Tooltip:
+					'''
+					Places down a warp pod you can teleport back to anytime
+					Click the warp pod on the fullscreen map to teleport
+					The warp pod withers when teleported to or when you die
+					'''
+			}
+
+			Sporethrower: {
+				DisplayName: Sporethrower
+				Tooltip:
+					'''
+					Generates its own ammunition from a homegrown mushroom
+					Reduced effectiveness when over-exerting the mushroom
+					Ignores 10 points of enemy Defense
+					'''
+			}
+
+			SyringeGun: {
+				DisplayName: Syringe Gun
+				Tooltip:
+					'''
+					Landing all 3 shots infects the target
+					Infected enemies erupt into mana-rich mushrooms on death, spreading the infection to nearby monsters
+					'''
+			}
+
+			TechwearSporeMask: {
+				DisplayName: Techwear Spore Mask
+				Tooltip: "'Due to aesthetics being prioritized over functionality, this mask does not actually protect against spores...'"
+			}
+
+			PeculiarPot: {
+				DisplayName: Peculiar Pot
+				Tooltip:
+					'''
+					A ceramic pot containing a strange fluid
+					Allows you to turn into tar and retract into the pot, reducing damage taken by {0}
+					You're unable to attack while inside the pot, and the pot will shatter after taking more than {1} damage
+					Damage ramps back up from zero over a short period of time after exiting the pot
+					'''
+			}
+
+			AmpstringBow: {
+				DisplayName: Ampstring Bow
+				Tooltip:
+					'''
+					<right> to launch a conductive needle
+					Needles arc electricity between each other
+					Enemies caught in the electric field are more vulnerable to arrows
+					'''
+			}
+
+			CarrionDetonatorStaff: {
+				DisplayName: Carrion Detonator Staff
+				Tooltip:
+					'''
+					Fires lacerating sand gusts capable of severing flesh chunks from enemies
+					Flesh chunks merge together, increasing their size and potency
+					<right> to detonate all flesh chunks
+					'''
+			}
+
+			DeadStormlionLarvaCageItem: {
+				DisplayName: Dead Stormlion Larva Cage
+				Tooltip: "'Something's off...'"
+			}
+
+			IntestinalScarf: {
+				DisplayName: Intestinal Scarf
+				Tooltip:
+					'''
+					Strong hits make you vomit food buffs as damaging projectiles
+					You can eat the vomited food back up to regain the buff
+					Eating the vomit grants additional regeneration and stats
+					[c/b3b2af:'Would you like an after-dinner mint, monsieur?']
+					'''
+			}
+
+			StormlionChewtoy: {
+				DisplayName: Stormlion Chewtoy
+				Tooltip: Summons a tiny, bashful Desert Scourge to follow you
+			}
+
+			StormlionLarvaCageItem: {
+				DisplayName: Stormlion Larva Cage
+				Tooltip: ""
+			}
+
+			StormlionWhip: {
+				DisplayName: Stormlion Whip
+				Tooltip:
+					'''
+					{0} summon tag damage while hooked
+					Your summons will focus struck enemies
+					Hold <left> to hook the whip into enemies
+					Hooked enemies build up static electricity, minion damage expedites this
+					Release <left> to detonate static electricity
+					'''
+			}
+
+			TornElectrosac: {
+				DisplayName: Torn Electrosac
+				Tooltip:
+					'''
+					A surprisingly bouncy organ that can be dribbled around
+					Builds up charge passively, which gets released when throwing the ball
+					The throw deals more damage as the electrosac reaches further
+					'We Ball!!!'
+					'''
+			}
+
+			BouncyDart: {
+				DisplayName: Bouncy Dart
+				Tooltip: Bounces between enemies
+			}
+
+			BrambleStaff: {
+				DisplayName: Bramble Staff
+				Tooltip:
+					'''
+					Summons a pair of orbital tumbleweeds
+					Hitting a tumbleweed with a whip sends it flying forwards
+					'''
+			}
+
+			BundleOfCaltrops: {
+				DisplayName: Bundle of Caltrops
+				Tooltip:
+					'''
+					Charges up caltrops as the flail spins, release to launch
+					Dealing damage with the flail charges caltrops more quickly
+					'''
+			}
+
+			CloudInAMace: {
+				DisplayName: Cloud in a Mace
+				Tooltip: Shatters on tile impact, sending enemies high into the air
+			}
+
+			CloudySpikeBall: {
+				DisplayName: Cloudy Spike Ball
+				Tooltip: ""
+			}
+
+			CrackshotColt: {
+				DisplayName: Crackshot Colt
+				Tooltip:
+					'''
+					<right> to toss a coin into the air
+					Bullets ricochet off coins into nearby enemies
+					Coin tosses consume copper coins
+					'''
+			}
+
+			DesertProwlerHat: {
+				DisplayName: Desert Prowler Hat
+				Tooltip: 4% increased ranged damage and 20% chance to not consume ammo
+			}
+
+			DesertProwlerPants: {
+				DisplayName: Desert Prowler Pants
+				Tooltip: 12% increased movement speed and immunity to the Mighty Wind debuff
+			}
+
+			DesertProwlerShirt: {
+				DisplayName: Desert Prowler Shirt
+				Tooltip: 4% increased ranged damage
+			}
+
+			EyetoothRipper: {
+				DisplayName: Eyetooth Ripper
+				Tooltip:
+					'''
+					Clogs up with gore when striking enemies
+					<right> to expel the clogged up gore
+					[c/A1A1A1:'What are you, some sort of circular-saw man?']
+					'''
+			}
+
+			FanaticalMask: {
+				DisplayName: Fanatical Mask
+				Tooltip:
+					'''
+					Dealing damage charges up energy within the mask
+					Release once the mask is fully charged to unleash the monster you’ve become
+					[c/C12E0F:"If all hope is lost, pray you are killed before they lower their masks"]
+					'''
+			}
+
+			ObsidianThrowingDagger: {
+				DisplayName: Obsidian Throwing Dagger
+				Tooltip: Gets thrown in a burst of 3 iridescent daggers
+			}
+
+			PlasmaRod: {
+				DisplayName: Plasma Rod
+				Tooltip:
+					'''
+					A powerful staff that waxes and wanes with the user's mana
+					Fires huge, searing bolts when you are full on mana, with at least {0} max mana
+					Fires darts of plasma when you don't have full mana
+					The plasma darts home in and deal extra damage to enemies marked by the large bolt
+					'''
+			}
+
+			PontiffsPiper: {
+				DisplayName: Pontiff's Piper
+				Tooltip:
+					'''
+					Summons a bagpipe squid ontop of your head
+					The bagpipe squid can empower other minions, and will gain power as your health lowers
+					Increases your max number of minions by 1
+					[c/a97171:'...An engraving is found on the bottom of the plate, which reads “To Giovanni Battista Pamphili: My utmost apologies“']
+					'''
+			}
+
+			SpikedBall: {
+				DisplayName: Spiked Ball
+				Tooltip: Hold SHIFT to throw the ball with a ballistic trajectory
+			}
+
+			ToxicBlowpipe: {
+				DisplayName: Toxic Blowpipe
+				Tooltip:
+					'''
+					<left> to coat your Darts with defense-reducing acid
+					<right> to coat your Darts with life-draining neurotoxin
+					The chemicals are particularly volatile when combined...
+					'''
+			}
+
+			WoodenDart: {
+				DisplayName: Wooden Dart
+				Tooltip: ""
+			}
+
+			MarniteArchitectHeadgear: {
+				DisplayName: Marnite Architect Headgear
+				Tooltip: Increases block placement range by 5
+			}
+
+			MarniteArchitectToga: {
+				DisplayName: Marnite Architect Toga
+				Tooltip: Increases tile placement speed by 50%
+			}
+
+			MarniteDeconstructor: {
+				DisplayName: Marnite Deconstructor
+				Tooltip:
+					'''
+					Its engine generates hardlight rays capable of excavating walls from a long distance
+					Ignores 10 points of enemy Defense
+					'''
+			}
+
+			MarniteRepulsionShield: {
+				DisplayName: Marnite Repulsion Shield
+				Tooltip:
+					'''
+					Enemies behind you are struck by high-knockback hardlight quills
+					[c/FFF191:Backstabbers Beware!]
+					'''
+			}
+
+			MarniteObliterator: {
+				DisplayName: Marnite Obliterator
+				Tooltip:
+					'''
+					Uses a diamond focus to project a long-range digging beam of light
+					Ignores 5 points of enemy Defense
+					'''
+			}
+
+			CoralCage: {
+				DisplayName: Coral Cage
+				Tooltip:
+					'''
+					Summons a little dragonfish
+					'A Coral Corral, if you will'
+					'''
+			}
+
+			DriedFishTail: {
+				DisplayName: Dried Fish Tail
+				Tooltip: ""
+			}
+
+			DuatsFavor: {
+				DisplayName: Duat's Favor
+				Tooltip:
+					'''
+					Unlocks an ability toggle to the left of the inventory
+					The toggle lets you choose the appearance of gravestones dropped on death
+					You can also disable graves with the toggle
+					Biome graves don't count towards the formation of a graveyard
+					'''
+			}
+
+			FossilizedLarynx: {
+				DisplayName: Fossilized Larynx
+				Tooltip:
+					'''
+					Changes your voice
+					'Great for impersonating dried out fossil friends!'
+					'''
+			}
+
+			GhostlySeasaddle: {
+				DisplayName: Ghostly Seasaddle
+				Tooltip: Summons a rideable Velocicampus mount
+			}
+
+			PossessedTrident: {
+				DisplayName: Possessed Trident
+				Tooltip: Conjures a ghostly companion with every thrust
+			}
+
+			SeaRiderGreaves: {
+				DisplayName: Sailfish Greaves
+				Tooltip:
+					'''
+					5% increased movement speed
+					Grants the ability to swim
+					'The boots have webbed feet...'
+					'''
+			}
+
+			SeaRiderHelmet: {
+				DisplayName: Sailfish Helmet
+				Tooltip:
+					'''
+					8% increased melee critical strike chance
+					'A slightly dusty helmet, commonly issued for the Sea Kingdom guards'
+					'''
+			}
+
+			SeaRiderTunic: {
+				DisplayName: Sailfish Tunic
+				Tooltip:
+					'''
+					6% increased melee damage
+					'Tunic adorned with the coat of arms of a long-disbanded regiment of seahorse riders'
+					'''
+			}
+
+			WarriorsAmphora: {
+				DisplayName: Warrior's Amphora
+				Tooltip:
+					'''
+					Grants the ability to teleport to the location of your death
+					Click your death marker on the fullscreen map to teleport
+					Teleporting consumes one recall potion, and the cooldown scales with how far you died
+					'''
+			}
+
+			CelestialDreamcassette: {
+				DisplayName: Celestial Dreamcassette
+				Tooltip:
+					'''
+					Allows the user to see the world differently
+					'Dissonant harps echo from the cassette...'
+					'''
+			}
+
+			CloudSpriteInABottle: {
+				DisplayName: Cloud Sprite in a Bottle
+				Tooltip: "'It audibly buzzes around within the bottle'"
+			}
+
+			GoldenDreamcassette: {
+				DisplayName: Golden Dreamcassette
+				Tooltip:
+					'''
+					Allows the user to see the world differently
+					'Angelic chants echo from the cassette...'
+					'''
+			}
+
+			OldworldDreamcassette: {
+				DisplayName: Old World Dreamcassette
+				Tooltip:
+					'''
+					Allows the user to see the world differently
+					'Thunder cracks echo from the cassette...'
+					'''
+			}
+
+			HeroOfHellChestplate: {
+				DisplayName: Hero of Hell Chestplate
+				Tooltip: ""
+			}
+
+			HeroOfHellGreaves: {
+				DisplayName: Hero of Hell Greaves
+				Tooltip: ""
+			}
+
+			HeroOfHellMask: {
+				DisplayName: Hero of Hell Mask
+				Tooltip: "'Save me...'"
+			}
+
+			OldHunterHat: {
+				DisplayName: Old Hunter Hat
+				Tooltip: "'Attire fashioned after the appearance of hunters from a faraway land'"
+			}
+
+			OldHunterPants: {
+				DisplayName: Old Hunter Pants
+				Tooltip: "'Attire fashioned after the appearance of hunters from a faraway land'"
+			}
+
+			OldHunterShirt: {
+				DisplayName: Old Hunter Shirt
+				Tooltip: "'Attire fashioned after the appearance of hunters from a faraway land'"
+			}
+
+			AbandonedWulfrumHelmet: {
+				DisplayName: Abandoned Wulfrum Helmet
+				Tooltip:
+					'''
+					A worn and rusty helmet ressembling older models of wulfrum armor
+					Transforms the holder into a wulfrum robot
+					Can also be worn in the helmet slot as a regular helm
+					[c/83B87E:This rather flimsy armor was commonly worn by scavengers and looters]
+					[c/83B87E:Its versatility and common nature led it to be used as currency in trades]
+					'''
+			}
+
+			EnergyCore: {
+				DisplayName: Energy Core
+				Tooltip:
+					'''
+					It pulses with energy
+					Can only be obtained by destroying a Wulfrum machine while a Nexus is empowering it
+					'''
+			}
+
+			RoverDrive: {
+				DisplayName: Rover Drive
+				Tooltip:
+					'''
+					Activates a protective matrix that can absorb 50 damage and grants 10 defense
+					However, the systems are fickle and the shield will need 10 seconds to charge up fully
+					Getting hit during the shield recharge period will reset it back to zero
+					Can also be scrapped at an extractinator
+					'''
+			}
+
+			WulfrumAcrobaticsPack: {
+				DisplayName: Wulfrum Acrobatics Pack
+				Tooltip:
+					'''
+					Retools hooks into a wulfrum slingshot with swinging physics
+					Hold UP to retract the hook
+					Automatically attempts to grapple nearby tiles when about to take fall damage, unless DOWN is held
+					{0}% increased movement speed
+					'''
+			}
+
+			WulfrumBlunderbuss: {
+				DisplayName: Wulfrum Blunderbuss
+				Tooltip:
+					'''
+					Consumes wulfrum scrap or silver coins to fire
+					Ignores 3 points of enemy Defense
+					[c/83B87E:"The good thing about Wulfrum is that while it breaks fast, it can be reused even faster"]
+					[c/83B87E:"In fact, it is quite common for a robot to be turned into ammo right after it stops functioning"]
+					'''
+			}
+
+			WulfrumController: {
+				DisplayName: Wulfrum Controller
+				Tooltip:
+					'''
+					Summons a wulfrum droid to fight for you
+					Hold <right> while holding the remote to switch all of your drones into supercharge mode
+					Supercharged droids will stop attacking and focus wulfrum energy onto you
+					The beam provides extra regeneration and defense
+					Can also be used to heal other players by keeping your mouse cursor close enough to them
+					'''
+			}
+
+			WulfrumDiggingTurtle: {
+				DisplayName: Wulfrum Digging Turtle
+				Tooltip:
+					'''
+					Throws a rickety mining contraption to dig out a small tunnel
+					In case of an emergency, <right> to instantly detonate all your digging turtles
+					'''
+			}
+
+			WulfrumDrill: {
+				DisplayName: Wulfrum Drill
+				Tooltip: ""
+			}
+
+			WulfrumFusionCannon: {
+				DisplayName: Experimental Wulfrum Fusion Array
+				Tooltip:
+					'''
+					Fires quick bursts of medium-range pellets
+					[c/878787:"Who needs whips when you can simply become the summon yourself?"]
+					'''
+			}
+
+			WulfrumHat: {
+				DisplayName: Wulfrum Hat & Goggles
+				Tooltip:
+					'''
+					10% increased whip range
+					Comes equipped with hair extensions
+					'''
+			}
+
+			WulfrumJacket: {
+				DisplayName: Wulfrum Jacket
+				Tooltip: 5% increased damage reduction
+			}
+
+			WulfrumMetalScrap: {
+				DisplayName: Wulfrum Metal Scrap
+				Tooltip: ""
+			}
+
+			WulfrumOveralls: {
+				DisplayName: Wulfrum Overalls
+				Tooltip: 5% increased movement speed
+			}
+
+			WulfrumProsthesis: {
+				DisplayName: Wulfrum Prosthesis
+				Tooltip:
+					'''
+					Casts a wulfrum bolt
+					<right> to drain mana from creatures in front of you
+					[c/83B87E:Technology and magic have been forever locked in an arms race of imitation and retaliation]
+					[c/83B87E:At times they work in tandem, as seen in certain prosthetic limbs]
+					'''
+			}
+
+			WulfrumScaffoldKit: {
+				DisplayName: Wulfrum Scaffold Kit
+				Tooltip:
+					'''
+					Places down temporary metal scaffolding. Uses up one wulfrum metal scrap for 40 tiles built
+					Scaffold needs to be adjacent to a solid tile to be placed down
+					[c/83B87E:'For when you need something built fast and don't need it to last.']
+					'''
+			}
+
+			WulfrumScrewdriver: {
+				DisplayName: Wulfrum Screwdriver
+				Tooltip:
+					'''
+					Can be used to rapidly and royally screw over any foe, provided they're weak enough
+					Striking an enemy has a chance to give you a wulfrum screw, that you can throw back at them by right clicking
+					Hitting a flung screw with the screwdriver will boost its damage and speed, sending it hurling forwards at high speeds
+					[c/83B87E:"Who makes flatheads this large?? The hell am I supposed to use it for, the thing could take an eye out!"]
+					[c/83B87E:"…Ah."]
+					'''
+			}
+
+			WulfrumTreasurePinger: {
+				DisplayName: Wulfrum Treasure Pinger
+				Tooltip:
+					'''
+					Helps you find metal that's hopefully more valuable than wulfrum
+					This contraption seems incredibly shoddy. [c/fc4903:It'll break sooner than later for sure]
+					'''
+			}
+
+			StormlionBannerItem: {
+				DisplayName: Stormlion Banner
+				Tooltip: Nearby Players get a bonus against: Stormlion
+			}
+
+			GeodeCrawlerBannerItem: {
+				DisplayName: Geode Crawler Banner
+				Tooltip: Nearby Players get a bonus against: Geode Crawler
+			}
+
+			CloudSpriteBannerItem: {
+				DisplayName: Cloud Sprite Banner
+				Tooltip: Nearby Players get a bonus against: Cloud Sprite
+			}
+
+			WulfrumGrapplerBannerItem: {
+				DisplayName: Wulfrum Grappler Banner
+				Tooltip: Nearby Players get a bonus against: Wulfrum Grappler
+			}
+
+			WulfrumMagnetizerBannerItem: {
+				DisplayName: Wulfrum Magnetizer Banner
+				Tooltip: Nearby Players get a bonus against: Wulfrum Magnetizer
+			}
+
+			WulfrumMortarBannerItem: {
+				DisplayName: Wulfrum Mortar Banner
+				Tooltip: Nearby Players get a bonus against: Wulfrum Mortar
+			}
+
+			WulfrumNexusBannerItem: {
+				DisplayName: Wulfrum Nexus Banner
+				Tooltip: Nearby Players get a bonus against: Wulfrum Nexus
+			}
+
+			WulfrumRollerBannerItem: {
+				DisplayName: Wulfrum Roller Banner
+				Tooltip: Nearby Players get a bonus against: Wulfrum Roller
+			}
+
+			WulfrumRoverBannerItem: {
+				DisplayName: Wulfrum Rover Banner
+				Tooltip: Nearby Players get a bonus against: Wulfrum Rover
+			}
+
+			CeilingChisel: {
+				DisplayName: Ceiling Chisel
+				Tooltip: Carves out cracks in ceilings, letting a stream of dust flow down
+			}
+
+			CorruptRockySandstoneWallItem: {
+				DisplayName: Rocky Ebonsandstone Wall
+				Tooltip: ""
+			}
+
+			CrimsonRockySandstoneWallItem: {
+				DisplayName: Rocky Crimsandstone Wall
+				Tooltip: ""
+			}
+
+			DesertBrazier: {
+				DisplayName: Desert Brazier
+				Tooltip: ""
+			}
+
+			DesertBrazierSpectral: {
+				DisplayName: Spectral Desert Brazier
+				Tooltip: ""
+			}
+
+			DesertBrickPillar: {
+				DisplayName: Desert Brick Pillar
+				Tooltip: ""
+			}
+
+			HallowedRockySandstoneWallItem: {
+				DisplayName: Rocky Pearlsandstone Wall
+				Tooltip: ""
+			}
+
+			MakeshiftStool: {
+				DisplayName: Makeshift Stool
+				Tooltip: ""
+			}
+
+			MirageDust: {
+				DisplayName: Mirage Dust
+				Tooltip: Can be placed in ground tiles to create a column of ghostly floating dust
+			}
+
+			NautilusCrossingTheDunesItem: {
+				DisplayName: Nautilus Crossing the Dunes
+				Tooltip: "'H. Vihn'"
+			}
+
+			RockySandstoneWallItem: {
+				DisplayName: Rocky Sandstone Wall
+				Tooltip: ""
+			}
+
+			SandstoneCampfire: {
+				DisplayName: Sandstone Campfire
+				Tooltip: "{$ItemTooltip.Campfire}"
+			}
+
+			SandstoneCampfireSpectral: {
+				DisplayName: Spectral Sandstone Campfire
+				Tooltip: "{$ItemTooltip.Campfire}"
+			}
+
+			SandstonePillar: {
+				DisplayName: Sandstone Pillar
+				Tooltip: Can be hammered to add or remove cracks
+			}
+
+			SandyTent: {
+				DisplayName: Sandy Tent
+				Tooltip: ""
+			}
+
+			ScourgekillerPainting: {
+				DisplayName: Scourgekiller
+				Tooltip: "'Unearthed by J. Ding'"
+			}
+
+			ShatteredTabletPainting: {
+				DisplayName: Shattered Tablet
+				Tooltip: "'Unearthed by J. Ding'"
+			}
+
+			SpectralWater: {
+				DisplayName: Spectral Water
+				Tooltip:
+					'''
+					Contains swirling spirits inside
+					Can be used on player-placed sandstone graves to make them spawn ghosts
+					Can also force sandstone light sources to appear as spectral fire
+					'''
+			}
+
+			TripodTorch: {
+				DisplayName: Tripod Torch
+				Tooltip: ""
+			}
+
+			TripodTorchSpectral: {
+				DisplayName: Spectral Tripod Torch
+				Tooltip: ""
+			}
+
+			AshenGraveMarkerItem: {
+				DisplayName: Ashen Grave Marker
+				Tooltip: ""
+			}
+
+			AshenHeadstoneItem: {
+				DisplayName: Ashen Headstone
+				Tooltip: ""
+			}
+
+			AshenTombstoneItem: {
+				DisplayName: Ashen Tombstone
+				Tooltip: ""
+			}
+
+			AshenGravestoneItem: {
+				DisplayName: Ashen Gravestone
+				Tooltip: ""
+			}
+
+			CoralGraveMarkerItem: {
+				DisplayName: Coral Grave Marker
+				Tooltip: ""
+			}
+
+			CoralTombstoneItem: {
+				DisplayName: Coral Tombstone
+				Tooltip: ""
+			}
+
+			ReefGraveMarkerItem: {
+				DisplayName: Reef Grave Marker
+				Tooltip: ""
+			}
+
+			ReefTombstoneItem: {
+				DisplayName: Reef Tombstone
+				Tooltip: ""
+			}
+
+			CorruptCrossGraveMarkerItem: {
+				DisplayName: Corrupt Cross Grave Marker
+				Tooltip: ""
+			}
+
+			CorruptObeliskItem: {
+				DisplayName: Corrupt Obelisk
+				Tooltip: ""
+			}
+
+			CorruptTombstoneItem: {
+				DisplayName: Corrupt Tombstone
+				Tooltip: ""
+			}
+
+			CorruptGraveMarkerItem: {
+				DisplayName: Corrupt Grave Marker
+				Tooltip: ""
+			}
+
+			CrimsonTombstoneItem: {
+				DisplayName: Crimson Tombstone
+				Tooltip: ""
+			}
+
+			CrimsonGraveMarkerItem: {
+				DisplayName: Crimson Grave Marker
+				Tooltip: ""
+			}
+
+			CrimsonHeadstoneItem: {
+				DisplayName: Crimson Headstone
+				Tooltip: ""
+			}
+
+			CrimsonCrossGraveMarkerItem: {
+				DisplayName: Crimson Cross Grave Marker
+				Tooltip: ""
+			}
+
+			CrimtaneTombstoneItem: {
+				DisplayName: Crimtane Tombstone
+				Tooltip: ""
+			}
+
+			CrimtaneObeliskItem: {
+				DisplayName: Crimtane Obelisk
+				Tooltip: ""
+			}
+
+			CrimtaneHeadstoneItem: {
+				DisplayName: Crimtane Headstone
+				Tooltip: ""
+			}
+
+			CrimtaneGraveMarkerItem: {
+				DisplayName: Crimtane Grave Marker
+				Tooltip: ""
+			}
+
+			CrystalTombstoneItem: {
+				DisplayName: Crystal Tombstone
+				Tooltip: ""
+			}
+
+			CrystalHeadstoneItem: {
+				DisplayName: Crystal Headstone
+				Tooltip: ""
+			}
+
+			CrystalGraveMarkerItem: {
+				DisplayName: Crystal Grave Marker
+				Tooltip: ""
+			}
+
+			CrystalGravestoneItem: {
+				DisplayName: Crystal Gravestone
+				Tooltip: ""
+			}
+
+			DemoniteHeadstoneItem: {
+				DisplayName: Demonite Headstone
+				Tooltip: ""
+			}
+
+			DemoniteObeliskItem: {
+				DisplayName: Demonite Obelisk
+				Tooltip: ""
+			}
+
+			DemoniteTombstoneItem: {
+				DisplayName: Demonite Tombstone
+				Tooltip: ""
+			}
+
+			DemoniteGraveMarkerItem: {
+				DisplayName: Demonite Grave Marker
+				Tooltip: ""
+			}
+
+			FrozenHeadstoneItem: {
+				DisplayName: Frozen Headstone
+				Tooltip: ""
+			}
+
+			FrozenTombstoneItem: {
+				DisplayName: Frozen Tombstone
+				Tooltip: ""
+			}
+
+			FrozenGraveMarkerItem: {
+				DisplayName: Frozen Grave Marker
+				Tooltip: ""
+			}
+
+			FrozenObeliskItem: {
+				DisplayName: Frozen Obelisk
+				Tooltip: ""
+			}
+
+			GoldenFrozenHeadstoneItem: {
+				DisplayName: Golden Frozen Headstone
+				Tooltip: ""
+			}
+
+			GoldenFrozenTombstoneItem: {
+				DisplayName: Golden Frozen Tombstone
+				Tooltip: ""
+			}
+
+			GoldenFrozenGraveMarkerItem: {
+				DisplayName: Golden Frozen Grave Marker
+				Tooltip: ""
+			}
+
+			GoldenFrozenObeliskItem: {
+				DisplayName: Golden Frozen Obelisk
+				Tooltip: ""
+			}
+
+			GoldenMycelialCrossGraveMarkerItem: {
+				DisplayName: Golden Mycelial Cross Grave Marker
+				Tooltip: ""
+			}
+
+			GoldenMycelialGraveMarkerItem: {
+				DisplayName: Golden Mycelial Grave Marker
+				Tooltip: ""
+			}
+
+			GoldenMycelialHeadstoneItem: {
+				DisplayName: Golden Mycelial Headstone
+				Tooltip: ""
+			}
+
+			GoldenMycelialTombstoneItem: {
+				DisplayName: Golden Mycelial Tombstone
+				Tooltip: ""
+			}
+
+			GoldenSandstoneGravestoneItem: {
+				DisplayName: Golden Sandstone Gravestone
+				Tooltip: ""
+			}
+
+			GoldenSandstoneTombstoneItem: {
+				DisplayName: Golden Sandstone Tombstone
+				Tooltip: ""
+			}
+
+			GoldenSandstoneObeliskItem: {
+				DisplayName: Golden Sandstone Obelisk
+				Tooltip: ""
+			}
+
+			GoldenSandstoneHeadstoneItem: {
+				DisplayName: Golden Sandstone Headstone
+				Tooltip: ""
+			}
+
+			BambooGraveMarkerItem: {
+				DisplayName: Bamboo Grave Marker
+				Tooltip: ""
+			}
+
+			JungleGraveMarkerItem: {
+				DisplayName: Jungle Grave Marker
+				Tooltip: ""
+			}
+
+			JungleCrossGraveMarkerItem: {
+				DisplayName: Jungle Cross Grave Marker
+				Tooltip: ""
+			}
+
+			JungleHeadstoneItem: {
+				DisplayName: Jungle Headstone
+				Tooltip: ""
+			}
+
+			LihzahrdGravestoneItem: {
+				DisplayName: Lihzahrd Gravestone
+				Tooltip: ""
+			}
+
+			LihzahrdTombstoneItem: {
+				DisplayName: Lihzahrd Tombstone
+				Tooltip: ""
+			}
+
+			LihzahrdGraveMarkerItem: {
+				DisplayName: Lihzahrd Grave Marker
+				Tooltip: ""
+			}
+
+			LihzahrdHeadstoneItem: {
+				DisplayName: Lihzahrd Headstone
+				Tooltip: ""
+			}
+
+			MantleGraveMarkerItem: {
+				DisplayName: Mantle Grave Marker
+				Tooltip: ""
+			}
+
+			MantleHeadstoneItem: {
+				DisplayName: Mantle Headstone
+				Tooltip: ""
+			}
+
+			MantleTombstoneItem: {
+				DisplayName: Mantle Tombstone
+				Tooltip: ""
+			}
+
+			MantleGravestoneItem: {
+				DisplayName: Mantle Gravestone
+				Tooltip: ""
+			}
+
+			MycelialHeadstoneItem: {
+				DisplayName: Mycelial Headstone
+				Tooltip: ""
+			}
+
+			MycelialGravestoneItem: {
+				DisplayName: Mycelial Gravestone
+				Tooltip: ""
+			}
+
+			MycelialGraveMarkerItem: {
+				DisplayName: Mycelial Grave Marker
+				Tooltip: ""
+			}
+
+			MycelialTombstoneItem: {
+				DisplayName: Mycelial Tombstone
+				Tooltip: ""
+			}
+
+			PearlstoneTombstoneItem: {
+				DisplayName: Pearlstone Tombstone
+				Tooltip: ""
+			}
+
+			PearlwoodGraveMarkerItem: {
+				DisplayName: Pearlwood Grave Marker
+				Tooltip: ""
+			}
+
+			PearlstoneGraveMarkerItem: {
+				DisplayName: Pearlstone Grave Marker
+				Tooltip: ""
+			}
+
+			PearlstoneGravestoneItem: {
+				DisplayName: Pearlstone Gravestone
+				Tooltip: ""
+			}
+
+			SandstoneGraveMarkerItem: {
+				DisplayName: Sandstone Grave Marker
+				Tooltip: ""
+			}
+
+			SandstoneTombstoneItem: {
+				DisplayName: Sandstone Tombstone
+				Tooltip: ""
+			}
+
+			SandstoneObeliskItem: {
+				DisplayName: Sandstone Obelisk
+				Tooltip: ""
+			}
+
+			SandstoneCrossGraveMarkerItem: {
+				DisplayName: Sandstone Cross Grave Marker
+				Tooltip: ""
+			}
+
+			PalmwoodCrossGraveMarkerItem: {
+				DisplayName: Palmwood Cross Grave Marker
+				Tooltip: ""
+			}
+
+			PalmwoodGraveMarkerItem: {
+				DisplayName: Palmwood Grave Marker
+				Tooltip: ""
+			}
+
+			PalmwoodShipwreckMarkerItem: {
+				DisplayName: Palmwood Shipwreck Marker
+				Tooltip: ""
+			}
+
+			SeashellTombstoneItem: {
+				DisplayName: Seashell Tombstone
+				Tooltip: ""
+			}
+
+			SkyGraveMarkerItem: {
+				DisplayName: Sky Grave Marker
+				Tooltip: ""
+			}
+
+			SkyCrossGraveMarkerItem: {
+				DisplayName: Sky Cross Grave Marker
+				Tooltip: ""
+			}
+
+			SkyGravestoneItem: {
+				DisplayName: Sky Gravestone
+				Tooltip: ""
+			}
+
+			SkyCairnItem: {
+				DisplayName: Sky Cairn
+				Tooltip: ""
+			}
+
+			SkywareTombstoneItem: {
+				DisplayName: Skyware Tombstone
+				Tooltip: ""
+			}
+
+			SkywareCrossGraveMarkerItem: {
+				DisplayName: Skyware Cross Grave Marker
+				Tooltip: ""
+			}
+
+			SkywareHeadstoneItem: {
+				DisplayName: Skyware Headstone
+				Tooltip: ""
+			}
+
+			SkywareGraveMarkerItem: {
+				DisplayName: Skyware Grave Marker
+				Tooltip: ""
+			}
+
+			LatticeFenceItem: {
+				DisplayName: Lattice Fence
+				Tooltip: ""
+			}
+
+			LatticeFenceTatteredItem: {
+				DisplayName: Tattered Lattice Fence
+				Tooltip: ""
+			}
+
+			CrabulonMusicBoxItem: {
+				DisplayName: Music Box (Mycelium Marionette)
+				Tooltip: ""
+			}
+
+			DesertScourgeMusicBoxItem: {
+				DisplayName: Music Box (The Dessicated Husk)
+				Tooltip: ""
+			}
+
+			SealedChamberMusicBoxItem: {
+				DisplayName: Music Box (Sealed Chamber)
+				Tooltip: ""
+			}
+
+			SirNautilusMusicBoxItem: {
+				DisplayName: Music Box (Beating A Dead Horseman)
+				Tooltip: ""
+			}
+
+			TitleThemeMusicBoxItem: {
+				DisplayName: Music Box (Main Menu)
+				Tooltip: ""
+			}
+
+			FrostSaplingItem: {
+				DisplayName: Everfrost Pine Sapling
+				Tooltip: ""
+			}
+
+			InkySaplingItem: {
+				DisplayName: Paleblot Bane Mushroom
+				Tooltip: ""
+			}
+
+			MallowSaplingItem: {
+				DisplayName: Crepuscular Mallow Sapling
+				Tooltip: ""
+			}
+
+			MarrowSaplingItem: {
+				DisplayName: Marrow Willow Sapling
+				Tooltip: ""
+			}
+
+			SpiderSaplingItem: {
+				DisplayName: Spider Palm Sapling
+				Tooltip: ""
+			}
+
+			WisteriaSaplingItem: {
+				DisplayName: Arctic Wisteria Sapling
+				Tooltip: ""
+			}
+
+			WulfrumAcrobaticsPackPosterItem: {
+				DisplayName: Wulfrum Poster - Acrobatics Pack
+				Tooltip:
+					'''
+					'You ever tried to use wings in a cave? Awful!
+					For the explorers out there, the Acrobatics Pack™ is the way to go!'
+					'''
+			}
+
+			WulfrumAntennaItem: {
+				DisplayName: Wulfrum Antenna
+				Tooltip: ""
+			}
+
+			WulfrumBathtubItem: {
+				DisplayName: Wulfrum Bathtub
+				Tooltip: ""
+			}
+
+			WulfrumBedItem: {
+				DisplayName: Wulfrum Bed
+				Tooltip: ""
+			}
+
+			WulfrumBulkContainer_FirstSlotEmpty: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_FirstSlotFull: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_FirstSlotUsed: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_SecondSlotEmpty: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_SecondSlotFull: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_SecondSlotUsed: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_ThirdSlotEmpty: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_ThirdSlotFull: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainer_ThirdSlotUsed: {
+				DisplayName: Bulk Container Slot
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumBulkContainerItem: {
+				DisplayName: Wulfrum Bulk Container
+				Tooltip: A giant storage crate that can store the contents of up to 3 chests
+			}
+
+			WulfrumBulkDoorItem: {
+				DisplayName: Wulfrum Bulk Door
+				Tooltip: ""
+			}
+
+			WulfrumCandleItem: {
+				DisplayName: Wulfrum Candle
+				Tooltip: ""
+			}
+
+			WulfrumCanisterItem: {
+				DisplayName: Wulfrum Canister
+				Tooltip: ""
+			}
+
+			WulfrumComplementPlasticItem: {
+				DisplayName: Wulfrum Complement Plastic Block
+				Tooltip:
+					'''
+					A Wulfrum Plastic variant that merges with more blocks
+					Favored by advanced builders
+					'''
+			}
+
+			WulfrumComputerItem: {
+				DisplayName: Wulfrum Computer
+				Tooltip: ""
+			}
+
+			WulfrumComputerPosterItem: {
+				DisplayName: Wulfrum Poster - Computer
+				Tooltip:
+					'''
+					'One whole terabyte solely dedicated to the Wulfrum Co. merchandise search engine!
+					Comes pre-installed with the latest version of Wulfrum OS DX.'
+					'''
+			}
+
+			WulfrumCrateItem: {
+				DisplayName: Wulfrum Crate
+				Tooltip: ""
+			}
+
+			WulfrumDeskItem: {
+				DisplayName: Wulfrum Desk
+				Tooltip: ""
+			}
+
+			WulfrumDeskLampItem: {
+				DisplayName: Wulfrum Desk Lamp
+				Tooltip: ""
+			}
+
+			WulfrumDiggingTurtlePosterItem: {
+				DisplayName: Wulfrum Poster - Digging Turtle
+				Tooltip: "'The long awaited sequel to the Digging Mole™, their turtle-y nature allows them to last a whopping THREE seconds longer before exploding!'"
+			}
+
+			WulfrumDoorItem: {
+				DisplayName: Wulfrum Door
+				Tooltip: ""
+			}
+
+			WulfrumElevatorBaseItem: {
+				DisplayName: Wulfrum Elevator Base
+				Tooltip: Connects with elevator rails and elevator stations
+			}
+
+			WulfrumElevatorHoverIndicatorDown: {
+				DisplayName: ""
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumElevatorHoverIndicatorUp: {
+				DisplayName: ""
+				Tooltip: You shouldn't be seeing this
+			}
+
+			WulfrumElevatorRailItem: {
+				DisplayName: Wulfrum Elevator Rail
+				Tooltip: ""
+			}
+
+			WulfrumElevatorStationItem: {
+				DisplayName: Wulfrum Elevator Station
+				Tooltip: ""
+			}
+
+			WulfrumFidgetPosterItem: {
+				DisplayName: Wulfrum Poster - Fidget Toys
+				Tooltip: "'Our incredible fidgets are included with every Wulfrum Co. purchase. Collect all One-Hundred and Fifty-One!'"
+			}
+
+			WulfrumForkAntennaItem: {
+				DisplayName: Wulfrum Fork Antenna
+				Tooltip: ""
+			}
+
+			WulfrumFridgeItem: {
+				DisplayName: Wulfrum Fridge
+				Tooltip: ""
+			}
+
+			WulfrumGlassItem: {
+				DisplayName: Wulfrum Tinted Glass
+				Tooltip: ""
+			}
+
+			WulfrumGlassWallItem: {
+				DisplayName: Wulfrum Tinted Glass Wall
+				Tooltip: ""
+			}
+
+			WulfrumGrapplerPosterItem: {
+				DisplayName: Wulfrum Poster - Grappler
+				Tooltip: "'Hang in there!'"
+			}
+
+			WulfrumGyratorPosterItem: {
+				DisplayName: Wulfrum Poster - Gyrator
+				Tooltip:
+					'''
+					'Old is new! Return to the humble beginnings of Wulfrum Co. with this timeless classic!
+					Comes free with the purchase of any other Wulfrum Co. product.'
+					'''
+			}
+
+			WulfrumHatchItem: {
+				DisplayName: Wulfrum Hatch
+				Tooltip: ""
+			}
+
+			WulfrumHullItem: {
+				DisplayName: Wulfrum Hull Plating
+				Tooltip: "'Not to be confused with Wulfrum Dull Plating!'"
+			}
+
+			WulfrumHullWallItem: {
+				DisplayName: Wulfrum Hull Plating Wall
+				Tooltip: ""
+			}
+
+			WulfrumLampItem: {
+				DisplayName: Wulfrum Lamp
+				Tooltip: ""
+			}
+
+			WulfrumLanternItem: {
+				DisplayName: Wulfrum Lantern
+				Tooltip: ""
+			}
+
+			WulfrumLockerItem: {
+				DisplayName: Wulfrum Storage Locker
+				Tooltip: ""
+			}
+
+			WulfrumMagnetizerPosterItem: {
+				DisplayName: Wulfrum Poster - Magnetizer
+				Tooltip:
+					'''
+					'Due to popular demand, Wulfrum Co.'s own delivery robots have finally hit the shelves!
+					[c/EED202:WARNING!] Do not attempt to transport iron-based products.'
+					'''
+			}
+
+			WulfrumModularChairItem: {
+				DisplayName: Wulfrum Modular Chair
+				Tooltip: ""
+			}
+
+			WulfrumMortarPosterItem: {
+				DisplayName: Wulfrum Poster - Mortar
+				Tooltip:
+					'''
+					'Can't be bothered to deal with trespassers yourself?
+					With only a handful of these defensive units, your property will be kept safe while suffering from minimal collateral damage!'
+					'''
+			}
+
+			WulfrumOfficeChairItem: {
+				DisplayName: Wulfrum Office Chair
+				Tooltip: ""
+			}
+
+			WulfrumPlasticItem: {
+				DisplayName: Wulfrum Plastic Block
+				Tooltip: ""
+			}
+
+			WulfrumPlasticWallItem: {
+				DisplayName: Wulfrum Plastic Wall
+				Tooltip: ""
+			}
+
+			WulfrumPlatformItem: {
+				DisplayName: Wulfrum Platform
+				Tooltip: ""
+			}
+
+			WulfrumPowerArmorPosterItem: {
+				DisplayName: Wulfrum Poster - Power Armor
+				Tooltip:
+					'''
+					'Tired of being an unpopular, forgettable good-for-nothing?
+					With this suit, you can finally become as loved and appreciated as our very own John Wulfrum™!'
+					'''
+			}
+
+			WulfrumReinforcedCrateItem: {
+				DisplayName: Reinforced Wulfrum Crate
+				Tooltip: ""
+			}
+
+			WulfrumRollerPosterItem: {
+				DisplayName: Wulfrum Poster - Roller
+				Tooltip: "'You won’t grind your gears with this cog on your side!'"
+			}
+
+			WulfrumRoverPosterItem: {
+				DisplayName: Wulfrum Poster - Rover
+				Tooltip: "'Keep your friends close, but keep your Rover™ even closer!'"
+			}
+
+			WulfrumSinkItem: {
+				DisplayName: Wulfrum Sink
+				Tooltip: ""
+			}
+
+			WulfrumSmallCanisterItem: {
+				DisplayName: Small Wulfrum Canister
+				Tooltip: ""
+			}
+
+			WulfrumSwitchItem: {
+				DisplayName: Wulfrum Switch
+				Tooltip: ""
+			}
+
+			WulfrumTableItem: {
+				DisplayName: Wulfrum Table
+				Tooltip: ""
+			}
+
+			WulfrumToiletItem: {
+				DisplayName: Wulfrum Toilet
+				Tooltip: ""
+			}
+
+			WulfrumTubeLightItem: {
+				DisplayName: Wulfrum Tube Light
+				Tooltip: ""
+			}
+
+			WulfrumWashingMachineItem: {
+				DisplayName: Wulfrum Washing Machine
+				Tooltip: ""
+			}
+
+			WulfrumWashingMachinePosterItem: {
+				DisplayName: Wulfrum Poster - Washing Machine
+				Tooltip:
+					'''
+					'Guaranteed, the fastest, most thorough wash in the industry, or your money back!
+					[c/EED202:WARNING!] Do not cycle until you have made sure the included restraints have been securely fastened.'
+					'''
+			}
+
+			WulfrumWideComputerItem: {
+				DisplayName: Large Wulfrum Computer
+				Tooltip: ""
+			}
+
+			WulfrumWorkbenchItem: {
+				DisplayName: Wulfrum Work Bench
+				Tooltip: ""
+			}
+
+			WulfrumWorkshopItem: {
+				DisplayName: Wulfrum Workshop
+				Tooltip: Used for special crafting
+			}
+
+			WulfrumBigRotorItem: {
+				DisplayName: Large Wulfrum Rotor Piece
+				Tooltip: "'A large rusty cog is lodged firmly inside the debris'"
+			}
+
+			WulfrumLandfillItem: {
+				DisplayName: Wulfrum Landfill
+				Tooltip: "'The scrap has been compacted too much for it to be extracted back...'"
+			}
+
+			WulfrumLureItem: {
+				DisplayName: Wulfrum Lure
+				Tooltip:
+					'''
+					Emit a wulfrum signal that lures Wulfrum automatons out, lasting for {0} seconds
+					Can only be triggered once per day
+					'''
+			}
+
+			WulfrumPipesItem: {
+				DisplayName: Wulfrum Pipes
+				Tooltip: ""
+			}
+
+			WulfrumRotorItem: {
+				DisplayName: Wulfrum Rotor Piece
+				Tooltip: "'A small rusty cog is lodged firmly inside the debris'"
+			}
+
+			WulfrumSmokingPipesItem: {
+				DisplayName: Smoking Wulfrum Pipes
+				Tooltip: ""
+			}
+
+			BunkerChairRubbleHover: {
+				DisplayName: ""
+				Tooltip: You shouldn't be seeing this
+			}
+
+			BunkerWorkshopItem: {
+				DisplayName: Wulfrum Bunker Workshop
+				Tooltip: Used for special crafting
+			}
+
+			DullPlatingItem: {
+				DisplayName: Wulfrum Dull Plating
+				Tooltip:
+					'''
+					Hammer the tile while holding down RMB to change the plate variant
+					'Not to be confused with Wulfrum Hull Plating!'
+					'''
+			}
+
+			DullPlatingWallItem: {
+				DisplayName: Dull Plating Wall
+				Tooltip: ""
+			}
+
+			DustyBricksItem: {
+				DisplayName: Dusty Bricks
+				Tooltip: ""
+			}
+
+			DustyBrickWallItem: {
+				DisplayName: Dusty Brick Wall
+				Tooltip: ""
+			}
+
+			GrimyGrateItem: {
+				DisplayName: Grimy Grate
+				Tooltip:
+					'''
+					Allows only liquids through
+					'Also makes for grate looking cages!'
+					'''
+			}
+
+			IndustrialWulfrumTubeLightItem: {
+				DisplayName: Industrial Wulfrum Tube Light
+				Tooltip: ""
+			}
+
+			RustyHandrailPlatformItem: {
+				DisplayName: Rusty Handrail Platform
+				Tooltip: ""
+			}
+
+			RustyPlatformItem: {
+				DisplayName: Rusty Platform
+				Tooltip: ""
+			}
+
+			RustySheetsItem: {
+				DisplayName: Rusty Sheets
+				Tooltip: ""
+			}
+
+			RustyWulfrumChainsItem: {
+				DisplayName: Rusty Wulfrum Chains
+				Tooltip:
+					'''
+					Can be placed
+					Press Up/Down to adjust the chain curvature
+					'''
+			}
+
+			RustyWulfrumElevatorBaseItem: {
+				DisplayName: Derelict Wulfrum Elevator Base
+				Tooltip: Connects with elevator rails and elevator stations
+			}
+
+			RustyWulfrumElevatorHoverIndicatorDown: {
+				DisplayName: ""
+				Tooltip: You shouldn't be seeing this
+			}
+
+			RustyWulfrumElevatorHoverIndicatorUp: {
+				DisplayName: ""
+				Tooltip: You shouldn't be seeing this
+			}
+
+			RustyWulfrumElevatorRailItem: {
+				DisplayName: Derelict Wulfrum Elevator Rail
+				Tooltip: ""
+			}
+
+			RustyWulfrumElevatorStationItem: {
+				DisplayName: Derelict Wulfrum Elevator Station
+				Tooltip: ""
+			}
+
+			WireSpoolItem: {
+				DisplayName: Wire Spool
+				Tooltip:
+					'''
+					Can be placed on solid tiles and lamps
+					Press Up/Down to adjust the wire curvature
+					'What are these, some kind of Calamity Cables??'
+					'''
+			}
+
+			WulfrumBigConduitCouplingItem: {
+				DisplayName: Large Wulfrum Conduit Coupling
+				Tooltip: ""
+			}
+
+			WulfrumBigConduitItem: {
+				DisplayName: Large Wulfrum Conduit
+				Tooltip: ""
+			}
+
+			WulfrumConduitCouplingItem: {
+				DisplayName: Wulfrum Conduit Coupling
+				Tooltip: ""
+			}
+
+			WulfrumConduitItem: {
+				DisplayName: Wulfrum Conduit
+				Tooltip: ""
+			}
+
+			WulfrumLamppostItem: {
+				DisplayName: Wulfrum Lamppost
+				Tooltip: ""
+			}
+
+			WulfrumVaultItem: {
+				DisplayName: Wulfrum Vault
+				Tooltip: ""
+			}
+
+			ScourgeSpineDebugPlacer: {
+				Tooltip: ""
+				DisplayName: Scourge Spine Debug Placer
+			}
+
+			DebugItem2: {
+				Tooltip: ""
+				DisplayName: Debug Item2
+			}
+
+			DebugItem: {
+				Tooltip: ""
+				DisplayName: Debug Item
+			}
+
+			BlendmodeTest: {
+				Tooltip: ""
+				DisplayName: Blendmode Test
+			}
+
+			HookstaffDisplayIcon: {
+				Tooltip: ""
+				DisplayName: Hookstaff Display Icon
+			}
+
+			WulfrumBigConduitExhaustItem: {
+				DisplayName: Large Wulfrum Conduit Exhaust
+				Tooltip:
+					'''
+					Produces steam when connected to the top, left, or right sides of a conduit
+					Pours down water when connected to the bottom side of a conduit, tinting nearby water a dull green color
+					'''
+			}
+
+			WulfrumConduitExhaustItem: {
+				DisplayName: Wulfrum Conduit Exhaust
+				Tooltip:
+					'''
+					Produces steam when connected to the top, left, or right sides of a conduit
+					Pours down water when connected to the bottom side of a conduit, tinting nearby water a dull green color
+					'''
+			}
+
+			DustyBricksLichenItem: {
+				DisplayName: Drab Lichen
+				Tooltip: Can be placed on dusty bricks
+			}
+
+			CrabulonBossMaskAlt1: {
+				DisplayName: Fungal Crabulon Mask
+				Tooltip: ""
+			}
+
+			CrabulonBossMaskAlt2: {
+				DisplayName: Hairy Crabulon Mask
+				Tooltip: ""
+			}
+
+			SirNautilusTreasureBag: {
+				DisplayName: Treasure Bag (Sir Nautilus)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			SludgeSlap: {
+				DisplayName: Sludge Slap
+				Tooltip:
+					'''
+					Your summons will focus struck enemies
+					Strike enemies to cover them in slime
+					Slimed targets will create a slimeling when hit by summons
+					Landing strikes with the end of the whip creates extra slimelings
+					'The favored weapon of gel kings'
+					'''
+			}
+
+			OpulentDartgun: {
+				DisplayName: Opulent Dartgun
+				Tooltip:
+					'''
+					Hold <right> to Overdose
+					Tap <right> to fire a syringe that can Overdose enemies and allies
+					Overdose significantly buffs strength, but debuffs movement speed, drains health, and disables healing
+					Darts fired from this weapon while Overdosed will heal you and mitigate the side effects
+					'''
+			}
+
+			Geodecorn: {
+				DisplayName: Geodecorn
+				Tooltip: Summons a baby Geode Crawler
+			}
+
+			SandstormSpriteBannerItem: {
+				DisplayName: Sandstorm Sprite Banner
+				Tooltip: Nearby Players get a bonus against: Sandstorm Sprite
+			}
+
+			SandstoneAccentBrickItem: {
+				DisplayName: Sandstone Accent Brick
+				Tooltip:
+					'''
+						A Sandstone Brick variant that merges better with sandy tiles
+						Favored by advanced builders
+					'''
+			}
+
+			WulfrumBoomboxItem: {
+				DisplayName: Wulfrum Boombox
+				Tooltip: ""
+			}
+
+			SandstormSpriteInABottle: {
+				DisplayName: Sandstorm Sprite in a Bottle
+				Tooltip: "'It restlessly twirls within'"
+			}
+
+			GemChimes: {
+				DisplayName: Gem Chimes
+				Tooltip:
+					'''
+					Shoots multicolored resonating soundwaves
+					Soundwaves tune enemies, making them match its color
+					Enemies attuned to the same color will resonate, causing them to take high damage
+					Soundwaves can attune multiple enemies near the end of their range
+					'''
+			}
+
+			GeodeCandy: {
+				DisplayName: Geode Candy
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					Tastes like a rainbow!
+					Increases luck
+					'''
+			}
+
+			LuminousCreamSoup: {
+				DisplayName: Luminous Cream Soup
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed2}
+					[c/5167ff:'I'm cooking a soup that has 33 unknown mushrooms in it.]
+					[c/5167ff:It's the most poisonous soup I've ever created and the fumes are intense. ]
+					[c/5167ff:The mushroom types are deadly dapperlings, destroying angels and death caps.]
+
+					[c/5167ff:Wish me luck when it comes time to eat it, it'll be an experience worth having.']
+					'''
+			}
+
+			StormfriedIceCream: {
+				DisplayName: Stormfried Ice Cream
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					Somehow, fried by the lightning.
+					'''
+			}
+
+			WulfrumBrandCereal: {
+				DisplayName: Wulfrum Brand Cereal
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed}
+					'Constitutes 1500% of your recommended Wulfrum intake!'
+					Decreases incoming damage from Wulfrum enemies and slows their attacks
+					'''
+			}
+
+			SpelunkerScarabBannerItem: {
+				DisplayName: Spelunker Scarab Banner
+				Tooltip: Nearby Players get a bonus against: Spelunker Scarab
+			}
+
+			SuperchargedDart: {
+				DisplayName: Supercharged Dart
+				Tooltip:
+					'''
+					Electrocutes nearby enemies on impact
+					Splits damage amongst electrocuted targets
+					'''
+			}
+
+			SkyDart: {
+				DisplayName: Raptor Dart
+				Tooltip:
+					'''
+					Accelerates and deals more damage as it travels
+					Gently homes towards enemies
+					'''
+			}
+
+			BlizzardSpriteBannerItem: {
+				DisplayName: Blizzard Sprite Banner
+				Tooltip: Nearby Players get a bonus against: Blizzard Sprite
+			}
+
+			BlizzardSpriteInABottle: {
+				DisplayName: Blizzard Sprite in a Bottle
+				Tooltip: "'It hums in a hushed voice within the bottle'"
+			}
+
+			DrownedScriptures: {
+				DisplayName: Drowned Scriptures
+				Tooltip:
+					'''
+					Conjures explosive mines that afflict a curse
+					<right> to unleash an Abyssal Horror to devour the accursed
+					The Horror gains speed and strength the more enemies it strikes
+					'The text inside writhes and contorts as you read it...'
+					'''
+			}
+
+			IceHat: {
+				DisplayName: Blizzard Hat
+				Tooltip:
+					'''
+					{0}% increased magic critical strike chance
+					Double tap {1} to encase yourself in a slippery block of ice
+					'''
+			}
+
+			SackOfInfiniteGuns: {
+				DisplayName: Sack of Infinite Guns
+				Tooltip: Launches a gun that fires sporadically at nearby enemies on hit
+			}
+
+			YoblinBucket: {
+				DisplayName: Bucket of Yoblins
+				Tooltip:
+					'''
+					Pours out fragile Yoblins to fight for you
+					Yoblins only take a fraction of a full minion slot
+					'''
+			}
+
+			WulfrumVoiceBox: {
+				DisplayName: Wulfrum Voicebox
+				Tooltip:
+					'''
+					Changes your voice
+					'Great for impersonating cheap junk!'
+					'''
+			}
+
+			CoraletiSpear: {
+				DisplayName: Coraleti Spear
+				Tooltip:
+					'''
+					Striking enemies causes the spear to grow
+					At max growth, the spear will shatter into lingering coral fragments
+					'''
+			}
+		}
+
+		NPCs: {
+			DeadStormlionLarva.DisplayName: Dead Stormlion Larva
+			DesertScourge.DisplayName: Desert Scourge
+			DesertScourgeHitbox.DisplayName: Desert Scourge
+			Fibsh.DisplayName: Walbert
+			GroundBeef.DisplayName: Rotting Meat
+			ScourgeFlesh.DisplayName: Scourge Meat
+			StormlionLarva.DisplayName: Stormlion Larva
+			Stormlion.DisplayName: Stormlion
+			Crabulon.DisplayName: Crabulon
+			CrabulonSporeBomb.DisplayName: Spore Bud
+			CrabulonThrownSporeBomb.DisplayName: Spore Bud
+			PeekingCrabulon.DisplayName: Crabulon
+			SirNautilus.DisplayName: Sir Nautilus
+			SirNautilusPassive.DisplayName: Sir Nautilus
+			ASTARCRAWLER.DisplayName: ASTAR CRAWLER
+			Potlet.DisplayName: Potlet
+			GeodeCrawler.DisplayName: Geode Crawler
+			CloudSprite.DisplayName: Cloud Sprite
+			WulfrumGrappler.DisplayName: Wulfrum Grappler
+			WulfrumMagnetizer.DisplayName: Wulfrum Magnetizer
+			WulfrumMortar.DisplayName: Wulfrum Mortar
+			WulfrumNexus.DisplayName: Wulfrum Nexus
+			WulfrumRoller.DisplayName: Wulfrum Roller
+			WulfrumRover.DisplayName: Wulfrum Rover
+			WulfrumElevatorPlatform.DisplayName: ""
+			RustyWulfrumElevatorPlatform.DisplayName: ""
+			SandstormSprite.DisplayName: Sandstorm Sprite
+			SpelunkerScarab.DisplayName: Spelunker Scarab
+			BlizzardSprite.DisplayName: Blizzard Sprite
+		}
+
+		Buffs: {
+			CrabulonDOT: {
+				DisplayName: Spored
+				Description: Your lungs are filling with fungus!
+			}
+
+			BlowpipeAcid: {
+				DisplayName: Acid
+				Description: Defense reduced by 5
+			}
+
+			BlowpipeLeech: {
+				DisplayName: Neurotoxin
+				Description: Losing life
+			}
+
+			BlowpipeRegen: {
+				DisplayName: Refreshing Mist
+				Description: Quickly regenerating life
+			}
+
+			Overamped: {
+				DisplayName: Over-Amped
+				Description: All the hair on your body is raising
+			}
+
+			PlasmaRodFried: {
+				DisplayName: Fried
+				Description: Magnetized by a powerful plasma shock
+			}
+
+			ScourgePoison: {
+				DisplayName: Scourge Poison
+				Description: Extremely fast damage to internal organs
+			}
+
+			WulfrumDroidBuff: {
+				DisplayName: Wulfrum Droid
+				Description: The wulfrum droid will protect you
+			}
+
+			CrabSpiritBuff: {
+				DisplayName: Mudcrab Spirit
+				Description: Only supereffective moves will hit this shell
+			}
+
+			FungalSurge: {
+				DisplayName: Fungal Surge
+				Description: Major improvements to all stats
+			}
+
+			InfestationDOT: {
+				DisplayName: Infested!
+				Description: Shifting tendons shape anatomy
+			}
+
+			InkyCapGuardianBuff: {
+				DisplayName: Inky Cap Guardian
+				Description: Just a small little mushrum
+			}
+
+			InkyCapSpores: {
+				DisplayName: Inky Cap Spores
+				Description: Increased regeneration
+			}
+
+			WarpPodFleshWeaving: {
+				DisplayName: Flesh Weaving
+				Description: Flesh to spores, spores to flesh
+			}
+
+			Potted: {
+				DisplayName: Potted
+				Description: Your goopified flesh is sloshing inside the cursed pot
+			}
+
+			TarsMark: {
+				DisplayName: Tar's Mark
+				Description:
+					'''
+					Tar still flows through your veins...
+					All damage reduced by 
+					'''
+			}
+
+			InsatiableHunger: {
+				DisplayName: Feed The Hunger
+				Description:
+					'''
+					Upgrades the stats provided by all food buffs even further
+					You won't vomit any more food... for now
+					'''
+			}
+
+			TinyScourgePetBuff: {
+				DisplayName: Juvenile Scourge
+				Description: Prone to tunnel vision
+			}
+
+			BrambleMinionBuff: {
+				DisplayName: Tumbleweed Storm
+				Description: The tumbleweeds will protect you
+			}
+
+			MarniteLiftBuff: {
+				DisplayName: Marnite Lift
+				Description: Do you even..?
+			}
+
+			ArmoredSignathionBuff: {
+				DisplayName: Royal Steed
+				Description:
+					'''
+					This phantom still wears the distinct regalia of the Sea Kingdom
+					Increased damage from spears when charging
+					'''
+			}
+
+			GhostlySeasaddleBuff: {
+				DisplayName: Velocicampus Mount
+				Description: ...Is this one a dwarf or was Nautilus riding on a giant specimen???
+			}
+
+			LittleDragonfishBuff: {
+				DisplayName: Little Dragonfish
+				Description: Not associated with Great Seadragons
+			}
+
+			OpulentInjectionBuff: {
+				Description: You are much more powerful, but constantly lose health and speed!
+				DisplayName: Overdosed
+			}
+
+			GeodecornBuff: {
+				DisplayName: Smeebo
+				Description: Smeebo is following you
+			}
+
+			SludgeSlapNPCDebuff: {
+				DisplayName: Sludged
+				Description: Covered in slimy sludge
+			}
+
+			SludgeSlapSlimelingBuff: {
+				DisplayName: Slimelings
+				Description: Loyal yet puny minions
+			}
+
+			GemChimesNPCDebuff: {
+				DisplayName: Resonating
+				Description: Vibrating at a dangerous frequency
+			}
+
+			WhiskedDebuff: {
+				DisplayName: Whisked
+				Description: Increased fall damage
+			}
+
+			BrandAmbassadorBuff: {
+				DisplayName: Brand Ambassador
+				Description: Wulfrum enemies only hit half as hard, and have longer windups
+			}
+
+			ElectrifiedBloodBuff: {
+				DisplayName: Electrified Blood
+				Description: Retaliate with electric discharges upon taking damage
+			}
+
+			DrownedScripturesNPCDebuff: {
+				DisplayName: Abyssal Mark
+				Description: It's Coming...
+			}
+
+			Encased: {
+				DisplayName: Encased
+				Description: You're encased in a block of ice
+				SetBonusDescription:
+					'''
+					You're encased in a block of ice
+					Increased mana regeneration
+					'''
+			}
+
+			YoblinBucketBuff: {
+				DisplayName: Yoblins
+				Description: Straight up Yoblin it
+			}
+		}
+	}
+}

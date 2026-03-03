@@ -1,0 +1,21 @@
+// ObtentionMessage: "New Keepsake obtained: "
+
+Names: {
+	NautilusPendant: 皇家吊坠
+	// Test: Test Pendant
+}
+
+Descriptions: {
+	NautilusPendant: 颁发给皇家吸盘鱼中队成员的吊坠
+	// Test: Test test debug hello
+}
+
+NameColors: {
+	NautilusPendant: FFCC41
+	// Test: FF0900
+}
+
+TabNames: {
+	Open: 纪念品
+	Close: 关闭
+}

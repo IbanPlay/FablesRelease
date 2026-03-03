@@ -1,0 +1,2784 @@
+Mods: {
+	CalamityFables: {
+		Tiles: {
+			StormlionLarvaBanner.MapEntry: 旗帜
+			HookstaffBuriedTile.MapEntry: 钩杖
+			HookstaffTile.MapEntry: 钩杖
+			NautilusPedestal.MapEntry: ""
+			GrapplerSpawnerTile.MapEntry: 生成器
+			MagnetizerSpawnerTile.MapEntry: 生成器
+			MortarSpawnerTile.MapEntry: 生成器
+			RollerSpawnerTile.MapEntry: 生成器
+			RoverSpawnerTile.MapEntry: 生成器
+			GeodeCrawlerBanner.MapEntry: 旗帜
+			WulfrumGrapplerBanner.MapEntry: 旗帜
+			WulfrumMagnetizerBanner.MapEntry: 旗帜
+			WulfrumMortarBanner.MapEntry: 旗帜
+			WulfrumNexusBanner.MapEntry: 旗帜
+			WulfrumRollerBanner.MapEntry: 旗帜
+			WulfrumRoverBanner.MapEntry: 旗帜
+			NautilusCrossingTheDunes.MapEntry: 画作
+			ScourgekillerPaintingTile.MapEntry: 画作
+			WulfrumAcrobaticsPackPoster.MapEntry: 海报
+			WulfrumBathtub.MapEntry: 钨钢浴缸
+			WulfrumBed.MapEntry: 钨钢床
+			WulfrumBulkContainer.MapEntry: 钨钢大储物箱
+			WulfrumBulkDoorClosed.MapEntry: 钨钢大门
+			WulfrumBulkDoorOpen.MapEntry: 钨钢大门
+			WulfrumCanister.MapEntry: 钨钢罐
+			WulfrumComputer.MapEntry: 钨钢电脑
+			WulfrumComputerPoster.MapEntry: 海报
+			WulfrumCrate.MapEntry: 钨钢板条箱
+			WulfrumDesk.MapEntry: 钨钢书桌
+			WulfrumDiggingTurtlePoster.MapEntry: 海报
+			WulfrumDoorClosed.MapEntry: 钨钢门
+			WulfrumDoorOpen.MapEntry: 钨钢门
+			WulfrumFidgetPoster.MapEntry: 海报
+			WulfrumFridge.MapEntry: 钨钢冰箱
+			WulfrumGrapplerPoster.MapEntry: 海报
+			WulfrumGyratorPoster.MapEntry: 海报
+			WulfrumHatchClosed.MapEntry: 钨钢接口
+			WulfrumHatchOpen.MapEntry: 钨钢接口
+			WulfrumLocker.MapEntry: 钨钢储物柜
+			WulfrumMagnetizerPoster.MapEntry: 海报
+			WulfrumModularChair.MapEntry: 钨钢模块椅
+			WulfrumMortarPoster.MapEntry: 海报
+			WulfrumOfficeChair.MapEntry: 钨钢办公椅
+			WulfrumPowerArmorPoster.MapEntry: 海报
+			WulfrumReinforcedCrate.MapEntry: 钨钢板条箱
+			WulfrumRollerPoster.MapEntry: 海报
+			WulfrumRoverPoster.MapEntry: 海报
+			WulfrumSink.MapEntry: 钨钢水槽
+			WulfrumSmallCanister.MapEntry: 钨钢罐
+			WulfrumTable.MapEntry: 钨钢桌
+			WulfrumToilet.MapEntry: 钨钢马桶
+			WulfrumTubeLight.MapEntry: 钨钢管道灯
+			WulfrumWashingMachine.MapEntry: 钨钢洗衣机
+			WulfrumWashingMachinePoster.MapEntry: 海报
+			WulfrumWideComputer.MapEntry: 钨钢电脑
+			WulfrumWorkbench.MapEntry: 钨钢工作台
+			WulfrumWorkshop.MapEntry: 钨钢工坊
+			Wulfrum1x1Piles.MapEntry: 废料
+			Wulfrum1x1PilesEcho.MapEntry: 废料
+			Wulfrum3x2Piles.MapEntry: 废料
+			Wulfrum3x2PilesEcho.MapEntry: 废料
+			WulfrumChestLocked.MapEntry: 上锁的钨钢箱
+			WulfrumLandfill.MapEntry: 钨钢填埋垃圾
+			WulfrumLure.MapEntry: 钨钢诱扰器
+			WulfrumPipes.MapEntry: 钨钢管道
+			WulfrumRotorLandfill.MapEntry: 钨钢填埋垃圾
+			WulfrumSmokingPipes.MapEntry: 钨钢管道
+			CloudSpriteBanner.MapEntry: 旗帜
+			HookstaffBuriedTileEcho.MapEntry: 钩杖
+			HookstaffTileEcho.MapEntry: 钩杖
+			StormlionBanner.MapEntry: 旗帜
+			WulfrumBigRotorLandfill.MapEntry: 钨钢填埋垃圾
+			DustyCrates.MapEntry: 板条箱
+			DustyCratesEcho.MapEntry: 板条箱
+			TripodTorchTile.MapEntry: 火把
+			BrokenDummy.MapEntry: 假人
+			BrokenDummyEcho.MapEntry: 假人
+			SandstoneCampfireTile.MapEntry: 篝火
+			SandyTentTile.MapEntry: 帐篷
+			MakeshiftStoolTile.MapEntry: 凳子
+			DesertBrazierTile.MapEntry: 火盆
+			DesertBrickPillarTile.MapEntry: 沙漠砖柱
+			SandstonePillarTile.MapEntry: 沙岩柱
+			ShatteredTabletPaintingTile.MapEntry: 画作
+			DustyBricks.MapEntry: 灰尘砖
+			GrimyGrate.MapEntry: 肮脏格栅
+			IndustrialWulfrumTubeLight.MapEntry: 工业钨钢管道灯
+			BunkerScreenRubble.MapEntry: 地堡屏幕
+			BunkerScreenRubbleEcho.MapEntry: 地堡屏幕
+			BunkerShelfRubble.MapEntry: 地堡架
+			BunkerShelfRubbleEcho.MapEntry: 地堡架
+			BunkerWarningSignRubble.MapEntry: 地堡警示牌
+			BunkerWarningSignRubbleEcho.MapEntry: 地堡警示牌
+			BunkerChairRubble.MapEntry: 地堡椅
+			BunkerChairRubbleEcho.MapEntry: 地堡椅
+			BunkerLongTableRubble.MapEntry: 地堡长桌
+			BunkerLongTableRubbleEcho.MapEntry: 地堡长桌
+			BunkerTableRubble.MapEntry: 地堡桌
+			BunkerTableRubbleEcho.MapEntry: 地堡桌
+			BunkerWorkshopRubble.MapEntry: 地堡工坊
+			BunkerWorkshopRubbleEcho.MapEntry: 地堡工坊
+			BunkerWorkshop.MapEntry: 地堡工坊
+			WulfrumVault.MapEntry: 钨钢保险库
+			WulfrumVaultLocked.MapEntry: 上锁的钨钢保险库
+			WulfrumDeskLamp.MapEntry: 钨钢台灯
+			WulfrumLamppost.MapEntry: 钨钢灯柱
+			SandstormSpriteBanner.MapEntry: 旗帜
+			SpelunkerScarabBanner.MapEntry: 旗帜
+			BlizzardSpriteBanner.MapEntry: 旗帜
+		}
+
+		Conditions.InNautilusChamber: 在密室中
+
+		Compat: {
+			BossChecklist: {
+				DesertScourge: {
+					SpawnInfo: 使用[i:{0}][i:{1}][i:{2}]美味的风暴蚁狮幼虫引诱荒漠灾虫。
+					Despawn: 荒漠灾虫消失于流动的沙子下……
+				}
+
+				Crabulon: {
+					SpawnInfo: 被击败前会自然生成在蘑菇洞穴中窥视。通过在蘑菇草上使用[i:{0}]钩杖吸引其注意力。
+					Despawn: 蘑菇洞穴再次安静下来……
+				}
+
+				Nautilus: {
+					SpawnInfo: 在沙丘下方埋葬的隐藏密室中会遇见一位孤独的士兵……一个[i:{0}]远古墓碑会标记地点！
+					Despawn: 瑙提螺斯赢得了决斗！
+				}
+			}
+		}
+
+		Projectiles: {
+			AntlionChunk.DisplayName: 蚁狮碎块
+			DesertScourgeElectroblast.DisplayName: 高压爆炸
+			DesertScourgeFallingSkull.DisplayName: 荒漠灾虫的头颅
+			PlatformElectrification.DisplayName: 超过2000伏特
+			StormlionChunk.DisplayName: 风暴蚁狮碎块
+			CrabulonClawHitbox.DisplayName: 菌生蟹
+			CrabulonDropHitbox.DisplayName: 菌生蟹
+			CrabulonSporeSeed.DisplayName: 孢子种子
+			CrabulonStomp.DisplayName: 真菌冲击波
+			LingeringSporeGas.DisplayName: 孢子毒气
+			SporedSkeleton.DisplayName: 孢子尸体
+			NautilusDashSlice.DisplayName: 瑙提螺斯炉火纯青的三叉戟
+			NautilusTrident.DisplayName: 三叉戟
+			SandstoneBoulder.DisplayName: 沙岩巨石
+			SignathionSpectralBolt.DisplayName: 幽灵之水
+			ElectrocellDischarge.DisplayName: 不稳定爆发
+			CrabSpirit.DisplayName: 螃蟹魂灵
+			InfestationExplosionHitbox.DisplayName: 真菌爆炸
+			InfestationRot.DisplayName: 腐败
+			InkyCapGuardian.DisplayName: 墨帽守卫
+			InkyCapSporeBomb.DisplayName: 种子
+			ManaMushroom.DisplayName: 魔力蘑菇
+			MushSlingshot.DisplayName: 蘑菇钩
+			OvergrownClawProjectile.DisplayName: 爪子
+			OvergrownClawSlamHitbox.DisplayName: 地震波
+			SerratedMyceliumHook.DisplayName: 锯齿状线
+			SporePodSplort.DisplayName: 喷溅物
+			SporethrowerJet.DisplayName: 孢子
+			SyringeGunDart.DisplayName: 注射器
+			WarpPod.DisplayName: 扭曲孢子荚
+			PeculiarPotTarBlot.DisplayName: 焦油油污
+			PeculiarPotTarRing.DisplayName: 焦油
+			PeculiarPotTarTrail.DisplayName: 焦油
+			AmpstringArrow.DisplayName: 电弦箭
+			AmpstringNeedle.DisplayName: 电弦针
+			CarrionDetonatorMeatBlast.DisplayName: 肉爆
+			CarrionDetonatorMeatChunk.DisplayName: 肉球
+			CarrionDetonatorWindWave.DisplayName: 风切
+			MiniElectroblast.DisplayName: 强势爆弹
+			RegurgitatedBuff.DisplayName: 吐出的食物
+			StormlionWhipProjectile.DisplayName: 风暴蚁狮鞭
+			TinyScourgePet.DisplayName: 小灾虫
+			TornElectrosacBall.DisplayName: 制霸球击
+			AcidExplosion.DisplayName: 酸爆
+			BouncyDartProj.DisplayName: 弹力飞镖
+			BrambleMinion.DisplayName: 风滚草
+			BundleOfCaltropsProjectile.DisplayName: 蒺藜束
+			Caltrop.DisplayName: 蒺藜
+			CloudInAMaceProjectile.DisplayName: 云链锤
+			CloudySpikeBallProjectile.DisplayName: 云尖球
+			CrackshotBlast.DisplayName: 爆炸
+			CrackshotCoin.DisplayName: 钱币
+			DesertScourgeLightningStrike.DisplayName: 雷击
+			EyetoothMincedMeat.DisplayName: 碎肉
+			EyetoothRipperProjectile.DisplayName: 獠牙撕裂者
+			FanaticalMaskGlobule.DisplayName: 血细胞
+			FanaticalMaskProjectile.DisplayName: 狂热面具
+			FanaticalMaskTendril.DisplayName: 血卷须
+			LeechExplosion.DisplayName: 神经毒素爆炸
+			ObsidianThrowingDaggerProj.DisplayName: 匕首
+			PlasmaRodBlast.DisplayName: 等离子爆炸
+			PlasmaRodBoltExplosion.DisplayName: 等离子爆炸
+			PlasmaRodDart.DisplayName: 等离子飞镖
+			PontiffsPiperBloodShot.DisplayName: 血弹
+			PontiffsPiperBuffNotes.DisplayName: 嘟嘟
+			PontiffsPiperNotes.DisplayName: 嘟嘟
+			PontiffsPiperSquid.DisplayName: 血笛手
+			SpikedBallFragment.DisplayName: 碎片
+			SpikedBallProjectile.DisplayName: 尖球
+			WoodenDartProj.DisplayName: 木飞镖
+			MarniteDeconstructorProj.DisplayName: 合成岩重构器
+			MarniteRepulsionHitbox.DisplayName: 斥力盾矩阵
+			MarniteObliteratorProj.DisplayName: 合成岩抹除器
+			LittleDragonfish.DisplayName: 小龙鱼
+			NautilusGhostApparition.DisplayName: 瑙提螺斯
+			PossessedTridentProjectile.DisplayName: 三叉戟
+			WulfrumBolt.DisplayName: 矢
+			WulfrumDiggingTurtleProjectile.DisplayName: 掘地机械龟
+			WulfrumDrillProj.DisplayName: 钻头
+			WulfrumDroid.DisplayName: 钨钢无人机
+			WulfrumEnergyBurst.DisplayName: 矢
+			WulfrumFusionBolt.DisplayName: 融合矢
+			WulfrumHook.DisplayName: 钨钢弹弓
+			WulfrumManaDrain.DisplayName: 魔力汲取
+			WulfrumScaffoldKitHoldout.DisplayName: 钨钢云梯工具包
+			WulfrumScrapBullet.DisplayName: 高速废料
+			WulfrumScrapFalling.DisplayName: 下落钨钢废料
+			WulfrumScrew.DisplayName: 螺丝钉
+			WulfrumScrewdriverProj.DisplayName: 螺丝刀
+			CloudSpriteFist.DisplayName: 云拳
+			WulfrumMortarExplosion.DisplayName: 爆炸
+			WulfrumMortarShell.DisplayName: 陀螺仪外壳
+			WulfrumNexusShot.DisplayName: 能量矢
+			WulfrumScrapProjectile.DisplayName: 废料
+			GroundStomp.DisplayName: 冲击波
+			HostileDirectStrike.DisplayName: 强力吹击
+			MauricingScourgeHead.DisplayName: 荒漠灾虫头部
+			SandstoneGraveyardGhost.DisplayName: 鬼魂
+			AshenGraveMarkerProjectile.DisplayName: 灰烬墓石碑
+			AshenHeadstoneProjectile.DisplayName: 灰烬碑石
+			AshenTombstoneProjectile.DisplayName: 灰烬墓石
+			AshenGravestoneProjectile.DisplayName: 灰烬墓碑
+			CoralGraveMarkerProjectile.DisplayName: 珊瑚墓石碑
+			CoralTombstoneProjectile.DisplayName: 珊瑚墓石
+			ReefGraveMarkerProjectile.DisplayName: 礁石墓石碑
+			ReefTombstoneProjectile.DisplayName: 礁石墓石
+			CorruptCrossGraveMarkerProjectile.DisplayName: 腐化十字墓石碑
+			CorruptObeliskProjectile.DisplayName: 腐化方尖碑
+			CorruptTombstoneProjectile.DisplayName: 腐化墓石
+			CorruptGraveMarkerProjectile.DisplayName: 腐化墓石碑
+			CrimsonTombstoneProjectile.DisplayName: 猩红墓石
+			CrimsonGraveMarkerProjectile.DisplayName: 猩红墓石碑
+			CrimsonHeadstoneProjectile.DisplayName: 猩红碑石
+			CrimsonCrossGraveMarkerProjectile.DisplayName: 猩红十字墓石碑
+			CrimtaneTombstoneProjectile.DisplayName: 猩红矿墓石
+			CrimtaneObeliskProjectile.DisplayName: 猩红矿方尖碑
+			CrimtaneHeadstoneProjectile.DisplayName: 猩红矿碑石
+			CrimtaneGraveMarkerProjectile.DisplayName: 猩红矿墓石碑
+			CrystalTombstoneProjectile.DisplayName: 水晶墓石
+			CrystalHeadstoneProjectile.DisplayName: 水晶碑石
+			CrystalGraveMarkerProjectile.DisplayName: 水晶墓石碑
+			CrystalGravestoneProjectile.DisplayName: 水晶墓碑
+			DemoniteHeadstoneProjectile.DisplayName: 魔矿碑石
+			DemoniteObeliskProjectile.DisplayName: 魔矿方尖碑
+			DemoniteTombstoneProjectile.DisplayName: 魔矿墓石
+			DemoniteGraveMarkerProjectile.DisplayName: 魔矿墓石碑
+			FrozenHeadstoneProjectile.DisplayName: 冰冻碑石
+			FrozenTombstoneProjectile.DisplayName: 冰冻墓石
+			FrozenGraveMarkerProjectile.DisplayName: 冰冻墓石碑
+			FrozenObeliskProjectile.DisplayName: 冰冻方尖碑
+			GoldenFrozenHeadstoneProjectile.DisplayName: 金冰冻碑石
+			GoldenFrozenTombstoneProjectile.DisplayName: 金冰冻墓石
+			GoldenFrozenGraveMarkerProjectile.DisplayName: 金冰冻墓石碑
+			GoldenFrozenObeliskProjectile.DisplayName: 金冰冻方尖碑
+			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: 金真菌十字墓石碑
+			GoldenMycelialGraveMarkerProjectile.DisplayName: 金真菌墓石碑
+			GoldenMycelialHeadstoneProjectile.DisplayName: 金真菌碑石
+			GoldenMycelialTombstoneProjectile.DisplayName: 金真菌墓石
+			GoldenSandstoneGravestoneProjectile.DisplayName: 金沙岩墓碑
+			GoldenSandstoneTombstoneProjectile.DisplayName: 金沙岩墓石
+			GoldenSandstoneObeliskProjectile.DisplayName: 金沙岩方尖碑
+			GoldenSandstoneHeadstoneProjectile.DisplayName: 金沙岩碑石
+			BambooGraveMarkerProjectile.DisplayName: 竹墓石碑
+			JungleGraveMarkerProjectile.DisplayName: 丛林墓石碑
+			JungleCrossGraveMarkerProjectile.DisplayName: 丛林十字墓石碑
+			JungleHeadstoneProjectile.DisplayName: 丛林碑石
+			LihzahrdGravestoneProjectile.DisplayName: 丛林蜥蜴墓碑
+			LihzahrdTombstoneProjectile.DisplayName: 丛林蜥蜴墓石
+			LihzahrdGraveMarkerProjectile.DisplayName: 丛林蜥蜴墓石碑
+			LihzahrdHeadstoneProjectile.DisplayName: 丛林蜥蜴碑石
+			MantleGraveMarkerProjectile.DisplayName: 地幔墓石碑
+			MantleHeadstoneProjectile.DisplayName: 地幔碑石
+			MantleTombstoneProjectile.DisplayName: 地幔墓石
+			MantleGravestoneProjectile.DisplayName: 地幔墓碑
+			MycelialHeadstoneProjectile.DisplayName: 真菌碑石
+			MycelialGravestoneProjectile.DisplayName: 真菌墓碑
+			MycelialGraveMarkerProjectile.DisplayName: 真菌墓石碑
+			MycelialTombstoneProjectile.DisplayName: 真菌墓石
+			PearlstoneTombstoneProjectile.DisplayName: 珍珠石墓石
+			PearlwoodGraveMarkerProjectile.DisplayName: 珍珠木墓石碑
+			PearlstoneGraveMarkerProjectile.DisplayName: 珍珠石墓石碑
+			PearlstoneGravestoneProjectile.DisplayName: 珍珠石墓碑
+			SandstoneGraveMarkerProjectile.DisplayName: 沙岩墓石碑
+			SandstoneTombstoneProjectile.DisplayName: 沙岩墓石
+			SandstoneObeliskProjectile.DisplayName: 沙岩方尖碑
+			SandstoneCrossGraveMarkerProjectile.DisplayName: 沙岩十字墓石碑
+			PalmwoodCrossGraveMarkerProjectile.DisplayName: 棕榈木十字墓石碑
+			PalmwoodGraveMarkerProjectile.DisplayName: 棕榈木墓石碑
+			PalmwoodShipwreckMarkerProjectile.DisplayName: 棕榈木沉船石碑
+			SeashellTombstoneProjectile.DisplayName: 贝壳墓石
+			SkyGraveMarkerProjectile.DisplayName: 天空墓石碑
+			SkyCrossGraveMarkerProjectile.DisplayName: 天空十字墓石碑
+			SkyGravestoneProjectile.DisplayName: 天空墓碑
+			SkyCairnProjectile.DisplayName: 天空石碑
+			SkywareTombstoneProjectile.DisplayName: 天域墓石
+			SkywareCrossGraveMarkerProjectile.DisplayName: 天域十字墓石碑
+			SkywareHeadstoneProjectile.DisplayName: 天域碑石
+			SkywareGraveMarkerProjectile.DisplayName: 天域墓石碑
+			WulfrumLureSignal.DisplayName: 信号
+			SporedCorpse.DisplayName: 孢子尸体
+			BurntCorpse.DisplayName: 燃烧尸体
+			OpulentDartgunBigSyringe.DisplayName: 华丽飞镖枪大注射器
+			GeodeCrawlerPet.DisplayName: 斯梅伯
+			SandstormSpriteTwister.DisplayName: 龙卷风
+			SludgeSlapProjectile.DisplayName: 污泥鞭挞
+			SludgeSlapSlimeling.DisplayName: 史莱姆
+			GemChimeSoundwave.DisplayName: 宝石风铃声波
+			SpelunkerScarabOreChunk.DisplayName: 矿石块
+			SuperchargedDartProjectile.DisplayName: 增压飞镖
+			SkyDartProjectile.DisplayName: 猛禽飞镖
+			BlizzardSpriteIcicle.DisplayName: 冰锥
+			DrownedScripturesMine.DisplayName: 浸咒经文雷
+			DrownedScripturesExplosion.DisplayName: 浸咒经文爆炸
+			DrownedScripturesHorror.DisplayName: 咒物
+			SackOfInfiniteGunsProjectile.DisplayName: 枪
+			InfiniteBullet.DisplayName: 子弹
+			IceHatTrail.DisplayName: 冰之轨迹
+			IceHatSnowRing.DisplayName: 雪
+			IceShard.DisplayName: 碎冰片
+			Yoblin.DisplayName: 约布林
+			ShimmerYoblin.DisplayName: 约布林
+			ShimmerYoblinSpring.DisplayName: 约布林喷泉
+			YoblinBucketHoldout.DisplayName: 约布林桶
+			CoraletiSpearHeld.DisplayName: 珊瑚长矛
+			CoraletiSpearShrapnel.DisplayName: 珊瑚碎片
+		}
+
+		Items: {
+			BucketOfLarvae: {
+				DisplayName: 风暴蚁狮幼虫桶
+				Tooltip: 似乎包含无限数量的虫饲料
+			}
+
+			DeadStormlionLarvaItem: {
+				DisplayName: 死亡的风暴蚁狮幼虫
+				Tooltip: “对任何沙漠捕食者来说都是款待”
+			}
+
+			DesertScourgeBossMask: {
+				DisplayName: 荒漠灾虫面具
+				Tooltip: ""
+			}
+
+			DesertScourgeRelicItem: {
+				DisplayName: 荒漠灾虫圣物
+				Tooltip: ""
+			}
+
+			DesertScourgeTrophyItem: {
+				DisplayName: 荒漠灾虫纪念章
+				Tooltip: ""
+			}
+
+			DesertScourgeTreasureBag: {
+				DisplayName: 宝藏袋（荒漠灾虫）
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			StormlionLarvaBannerItem: {
+				DisplayName: 风暴蚁狮幼虫旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：风暴蚁狮幼虫
+			}
+
+			StormlionLarvaItem: {
+				DisplayName: 风暴蚁狮幼虫
+				Tooltip: “它们在沙丘上方盘旋……可能他们感觉到了下方的威胁？”
+			}
+
+			CrabulonRelicItem: {
+				DisplayName: 菌生蟹圣物
+				Tooltip: ""
+			}
+
+			CrabulonTrophyItem: {
+				DisplayName: 菌生蟹纪念章
+				Tooltip: ""
+			}
+
+			CrabulonTreasureBag: {
+				DisplayName: 宝藏袋（菌生蟹）
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			Hookstaff: {
+				DisplayName: 钩杖
+				Tooltip:
+					'''
+					用于戳刺发光蘑菇生物群落中的菌丝
+					只能站在蘑菇草上使用
+					可能会激怒一些地下生物……
+					'''
+			}
+
+			SporeHeart: {
+				DisplayName: 孢子之心
+				Tooltip: ""
+			}
+
+			SirNautilusBossMask: {
+				DisplayName: 瑙提螺斯爵士面具
+				Tooltip: ""
+			}
+
+			SirNautilusRelicItem: {
+				DisplayName: 瑙提螺斯爵士圣物
+				Tooltip: ""
+			}
+
+			SirNautilusTrophyItem: {
+				DisplayName: 瑙提螺斯爵士纪念章
+				Tooltip: ""
+			}
+
+			AmnesiaItem: {
+				DisplayName: 在太空边缘的某个时刻
+				Tooltip: ""
+			}
+
+			GrapplerSpawner: {
+				DisplayName: 格斗家生成器
+				Tooltip: ""
+			}
+
+			MagnetizerSpawner: {
+				DisplayName: 磁化器生成器
+				Tooltip: ""
+			}
+
+			MortarSpawner: {
+				DisplayName: 迫击炮生成器
+				Tooltip: ""
+			}
+
+			RollerSpawner: {
+				DisplayName: 滚轮生成器
+				Tooltip: ""
+			}
+
+			RoverSpawner: {
+				DisplayName: 漫步者生成器
+				Tooltip: ""
+			}
+
+			DesertMirageDye: {
+				DisplayName: 沙漠幻象染料
+				Tooltip: ""
+			}
+
+			ElectricDye: {
+				DisplayName: 电染料
+				Tooltip: ""
+			}
+
+			Electrocells: {
+				DisplayName: 电细胞
+				Tooltip:
+					'''
+					受到至少50点伤害后会消耗一簇电细胞电击附近敌怪
+					“有机粘液在触碰时碎裂并燃烧”
+					'''
+			}
+
+			ScourgeSpineHeadPlacer: {
+				Tooltip:
+					'''
+					放下一块装饰性灾虫化石
+					按上/下键调整脊椎弯曲程度
+					'''
+				DisplayName: 海洋灾虫化石（头部）
+			}
+
+			ScourgeSpinePlacer: {
+				Tooltip:
+					'''
+					放下一块装饰性灾虫化石
+					按上/下键调整脊椎弯曲程度
+					'''
+				DisplayName: 海洋灾虫化石（脊椎）
+			}
+
+			ClawShell: {
+				DisplayName: 爪壳
+				Tooltip:
+					'''
+					召唤一只闹鬼的泥蟹壳
+					“里面全是真菌粘液！”
+					'''
+			}
+
+			CrabulonBossMask: {
+				DisplayName: 菌生蟹面具
+				Tooltip: ""
+			}
+
+			FungalThroatInfection: {
+				DisplayName: 真菌性咽喉感染
+				Tooltip:
+					'''
+					改变你的声音
+					“非常适合模仿僵尸化的尸体！”
+					'''
+			}
+
+			InkyBluePendant: {
+				DisplayName: 墨蓝吊坠
+				Tooltip:
+					'''
+					召唤一个墨帽守卫为你战斗
+					<right> 使守卫扎根，为你和其他队友产生一个治疗光环
+					扎根的守卫也可以当作蹦床使用
+					你只能同时召唤一个守卫
+					需要2个仆从栏位
+					'''
+			}
+
+			LuminousMixture: {
+				DisplayName: 流光混合体
+				Tooltip: 使用治疗物品时获得短暂的能力涌动
+			}
+
+			MoldyPicklaw: {
+				DisplayName: 菌爪镐
+				Tooltip:
+					'''
+					将软物块和普通的石头转化为易碎的菌丝
+					菌丝很脆弱，被破坏时可能会同时碎裂多个
+					'''
+			}
+
+			MushroomBoots: {
+				DisplayName: 蘑菇靴
+				Tooltip: 行走时留下一道蘑菇轨迹
+			}
+
+			MyceliumMoldItem: {
+				DisplayName: 菌丝块
+				Tooltip: 比普通的菌丝强度高
+			}
+
+			OrnamentalHookstaff: {
+				DisplayName: 装饰性钩杖
+				Tooltip: ""
+			}
+
+			OvergrownClaw: {
+				DisplayName: 蔓生爪
+				Tooltip:
+					'''
+					发射一个真菌爪抓住你的敌人
+					你可以把小型敌怪抓起来，扔出或撞击地面
+					大型敌怪则可以在爪子撕裂时受到伤害
+					'''
+			}
+
+			PsychedelicFogMachineItem: {
+				DisplayName: 致幻制雾机
+				Tooltip: ""
+			}
+
+			SerratedFiberCloak: {
+				DisplayName: 锯齿状纤维斗篷
+				Tooltip:
+					'''
+					将你的钩爪替换为三个强力的菌丝钩
+					按住钩爪键会产生一个暂时的钩点，将你自己在空中高速弹出
+					只能同时存在一个钩点
+					'''
+			}
+
+			SporeDye: {
+				DisplayName: 孢子染料
+				Tooltip: ""
+			}
+
+			SporePod: {
+				DisplayName: 孢子荚
+				Tooltip:
+					'''
+					放下一个扭曲孢子荚，你可以随时传送回来
+					点击大地图上的扭曲孢子荚传送
+					扭曲孢子荚会在传送后或你死亡时凋零
+					'''
+			}
+
+			Sporethrower: {
+				DisplayName: 孢子喷射器
+				Tooltip:
+					'''
+					通过自带的蘑菇生成自身弹药
+					过度压榨蘑菇会降低效果
+					无视敌怪5点防御
+					'''
+			}
+
+			SyringeGun: {
+				DisplayName: 注射器枪
+				Tooltip:
+					'''
+					三次射击全部命中会感染目标
+					被感染的敌怪死亡时会喷出富含魔力的蘑菇，向附近的怪物散播感染
+					'''
+			}
+
+			TechwearSporeMask: {
+				DisplayName: 机能风孢子面具
+				Tooltip: “由于美学优先于功能，这面具实际上无法对抗孢子……”
+			}
+
+			PeculiarPot: {
+				DisplayName: 古怪罐子
+				Tooltip:
+					'''
+					包含奇怪流体的陶瓷罐子
+					允许你变成焦油缩入罐子中，所受伤害降低{0}
+					在罐子中时你无法攻击，受到伤害高于{1}时罐子会破碎
+					离开罐子后，伤害会在短时间内从零开始逐渐恢复
+					'''
+			}
+
+			AmpstringBow: {
+				DisplayName: 电弦弓
+				Tooltip:
+					'''
+					<right> 发射导电针
+					针相互之间会产生电弧
+					电场中的敌怪受到箭的伤害更高
+					'''
+			}
+
+			CarrionDetonatorStaff: {
+				DisplayName: 腐尸爆破杖
+				Tooltip:
+					'''
+					发射割裂性沙风，能够从敌怪身上撕下血肉碎块
+					血肉碎块可以相互结合，提升它们的大小和效果
+					<right> 引爆所有血肉碎块
+					'''
+			}
+
+			DeadStormlionLarvaCageItem: {
+				DisplayName: 死亡的风暴蚁狮幼虫笼
+				Tooltip: “有什么不对劲……”
+			}
+
+			IntestinalScarf: {
+				DisplayName: 肠形围巾
+				Tooltip:
+					'''
+					强力受击会让你喷出食物增益作为伤害性弹幕
+					你可以吃下喷出的食物增益来重新获得增益
+					吃下喷出的食物增益还会额外提供生命再生和属性
+					[c/b3b2af:“先生，你想晚饭后吃薄荷吗？”]
+					'''
+			}
+
+			StormlionChewtoy: {
+				DisplayName: 风暴蚁狮咀嚼玩具
+				Tooltip: 召唤一只小且害羞的荒漠灾虫跟随你
+			}
+
+			StormlionLarvaCageItem: {
+				DisplayName: 风暴蚁狮幼虫笼
+				Tooltip: ""
+			}
+
+			StormlionWhip: {
+				DisplayName: 风暴蚁狮鞭
+				Tooltip:
+					'''
+					你的召唤物会集中攻击被标记的敌怪
+					按住 <left> 用鞭子钩住敌怪
+					被钩住的敌怪会产生静电，仆从伤害会加速进程
+					释放 <left> 引爆静电
+					'''
+			}
+
+			TornElectrosac: {
+				DisplayName: 爆裂电囊
+				Tooltip:
+					'''
+					一个令人惊讶的弹性器官，可以在周围运球
+					被动积攒电荷，把球扔出时释放
+					电囊到达的越远投掷造成的伤害越高
+					“狂欢吧!!!”
+					'''
+			}
+
+			BouncyDart: {
+				DisplayName: 弹力飞镖
+				Tooltip: 在敌怪间反弹
+			}
+
+			BrambleStaff: {
+				DisplayName: 荆棘法杖
+				Tooltip:
+					'''
+					召唤一对环绕的风滚草
+					用鞭子击中风滚草会让它向前飞
+					'''
+			}
+
+			BundleOfCaltrops: {
+				DisplayName: 蒺藜束
+				Tooltip:
+					'''
+					随连枷旋转充能蒺藜，释放以发射蒺藜
+					用连枷造成伤害会加快蒺藜的充能
+					'''
+			}
+
+			CloudInAMace: {
+				DisplayName: 云链锤
+				Tooltip: 碰撞物块时碎裂，将敌怪送入高空
+			}
+
+			CloudySpikeBall: {
+				DisplayName: 云尖球
+				Tooltip: ""
+			}
+
+			CrackshotColt: {
+				DisplayName: 神枪手柯尔特
+				Tooltip:
+					'''
+					<right> 将一枚硬币抛向空中
+					击中硬币的子弹会向附近敌怪反弹
+					抛出硬币时会消耗铜币
+					'''
+			}
+
+			DesertProwlerHat: {
+				DisplayName: 沙漠巡游者帽
+				Tooltip: 增加4%远程伤害和20%不消耗弹药的几率
+			}
+
+			DesertProwlerPants: {
+				DisplayName: 沙漠巡游者裤
+				Tooltip: 增加12%移动速度并使你免疫强风减益
+			}
+
+			DesertProwlerShirt: {
+				DisplayName: 沙漠巡游者衣
+				Tooltip: 增加4%远程伤害
+			}
+
+			EyetoothRipper: {
+				DisplayName: 獠牙撕裂者
+				Tooltip:
+					'''
+					打击敌怪时血污会不断阻塞攻击
+					<right> 排出阻塞的血污
+					[c/A1A1A1:“你是什么，某种圆锯人吗？”]
+					'''
+			}
+
+			FanaticalMask: {
+				DisplayName: 狂热面具
+				Tooltip:
+					'''
+					造成伤害会充能面具内的能量
+					当面具充能满时释放你变成的怪物
+					[c/C12E0F:“如果所有希望破灭，祈祷你在它们摘下面具前被杀死”]
+					'''
+			}
+
+			ObsidianThrowingDagger: {
+				DisplayName: 黑曜石飞刀
+				Tooltip: 掷出三把闪耀匕首
+			}
+
+			PlasmaRod: {
+				DisplayName: 等离子法杖
+				Tooltip:
+					'''
+					一把强力法杖，随使用者的魔力而加强或削弱
+					当你魔力值满且至少拥有{0}点最大魔力值时，发射巨大灼热的魔法矢
+					当你魔力值不满时发射等离子飞镖
+					等离子飞镖会追踪被巨大魔法矢标记的敌怪并对其造成额外伤害
+					'''
+			}
+
+			PontiffsPiper: {
+				DisplayName: 教皇的笛手
+				Tooltip:
+					'''
+					在你的头上召唤一只风笛鱿鱼
+					风笛鱿鱼可以增强其他仆从，且随你生命值降低获得能量
+					最大仆从数量增加1
+					[c/a97171:“……盘子底部雕刻着‘我对英诺森十世深感歉意’”]
+					'''
+			}
+
+			SpikedBall: {
+				DisplayName: 尖刺球
+				Tooltip: 按住SHIFT以弹道轨迹扔球
+			}
+
+			ToxicBlowpipe: {
+				DisplayName: 剧毒吹管
+				Tooltip:
+					'''
+					<left> 将你的飞镖用降低防御的酸包裹
+					<right> 将你的飞镖用吸取生命的神经毒素包裹
+					这些化学物质相结合时极其容易挥发……
+					'''
+			}
+
+			WoodenDart: {
+				DisplayName: 木飞镖
+				Tooltip: ""
+			}
+
+			MarniteArchitectHeadgear: {
+				DisplayName: 合成岩建筑师头饰
+				Tooltip: 增加5格物块放置范围
+			}
+
+			MarniteArchitectToga: {
+				DisplayName: 合成岩建筑师长袍
+				Tooltip: 增加50%物块的放置速度
+			}
+
+			MarniteDeconstructor: {
+				DisplayName: 合成岩重构器
+				Tooltip:
+					'''
+					它的引擎产生的强光射线能够远距离挖掘墙壁
+					无视敌怪10点防御
+					'''
+			}
+
+			MarniteRepulsionShield: {
+				DisplayName: 合成岩斥力盾
+				Tooltip:
+					'''
+					你背后的敌怪会被高击退力的强光针刺攻击
+					[c/FFF191:背刺者要当心了！]
+					'''
+			}
+
+			MarniteObliterator: {
+				DisplayName: 合成岩抹除器
+				Tooltip:
+					'''
+					利用钻石聚焦出一束长距离的挖掘光束
+					无视敌怪5点防御
+					'''
+			}
+
+			CoralCage: {
+				DisplayName: 珊瑚笼
+				Tooltip:
+					'''
+					召唤一只小龙鱼
+					“乐意的话可以叫珊瑚围栏”
+					'''
+			}
+
+			DriedFishTail: {
+				DisplayName: 干鱼尾
+				Tooltip: ""
+			}
+
+			DuatsFavor: {
+				DisplayName: 冥界之赐
+				Tooltip:
+					'''
+					解锁物品栏左侧的能力开关
+					开关允许你选择死亡时掉落墓碑的外观
+					你也可以通过开关禁用墓碑掉落
+					生物群落墓碑不计入墓地形成
+					'''
+			}
+
+			FossilizedLarynx: {
+				DisplayName: 喉化石
+				Tooltip:
+					'''
+					改变你的声音
+					“非常适合模仿干瘪的化石朋友！”
+					'''
+			}
+
+			GhostlySeasaddle: {
+				DisplayName: 幽灵海鞍
+				Tooltip: 召唤可骑乘的速龙海马坐骑
+			}
+
+			PossessedTrident: {
+				DisplayName: 附魔三叉戟
+				Tooltip: 每次突刺都会召唤鬼魂般的伙伴
+			}
+
+			SeaRiderGreaves: {
+				DisplayName: 旗鱼护胫
+				Tooltip:
+					'''
+					增加5%移动速度
+					获得游泳能力
+					“这双靴子有脚蹼……”
+					'''
+			}
+
+			SeaRiderHelmet: {
+				DisplayName: 旗鱼头盔
+				Tooltip:
+					'''
+					增加8%近战暴击率
+					“一种略带灰尘的头盔，通常装备于海王护卫”
+					'''
+			}
+
+			SeaRiderTunic: {
+				DisplayName: 旗鱼短袍
+				Tooltip:
+					'''
+					增加6%近战伤害
+					“短袍上绣着解散已久的海马骑士团的徽章”
+					'''
+			}
+
+			WarriorsAmphora: {
+				DisplayName: 战士的双颈瓶
+				Tooltip:
+					'''
+					获得传送至死亡位置的能力
+					点击大地图上的死亡标记传送
+					传送会消耗1瓶回忆药水，冷却时间取决于你的死亡位置有多远
+					'''
+			}
+
+			CelestialDreamcassette: {
+				DisplayName: 天界梦境磁带
+				Tooltip:
+					'''
+					允许使用者以全新方式看待世界
+					“磁带中回荡着失谐竖琴声……”
+					'''
+			}
+
+			CloudSpriteInABottle: {
+				DisplayName: 瓶中云精灵
+				Tooltip: “它在瓶中嗡嗡作响”
+			}
+
+			GoldenDreamcassette: {
+				DisplayName: 金色梦境磁带
+				Tooltip:
+					'''
+					允许使用者以全新方式看待世界
+					“磁带中回荡着天使圣歌……”
+					'''
+			}
+
+			OldworldDreamcassette: {
+				DisplayName: 旧世梦境磁带
+				Tooltip:
+					'''
+					允许使用者以全新方式看待世界
+					“磁带中回荡着雷鸣声……”
+					'''
+			}
+
+			HeroOfHellChestplate: {
+				DisplayName: 地狱英雄胸甲
+				Tooltip: ""
+			}
+
+			HeroOfHellGreaves: {
+				DisplayName: 地狱英雄护胫
+				Tooltip: ""
+			}
+
+			HeroOfHellMask: {
+				DisplayName: 地狱英雄面具
+				Tooltip: “救我……”
+			}
+
+			OldHunterHat: {
+				DisplayName: 老猎人帽
+				Tooltip: “模仿来自遥远国度的猎人的服装”
+			}
+
+			OldHunterPants: {
+				DisplayName: 老猎人长裤
+				Tooltip: “模仿来自遥远国度的猎人的服装”
+			}
+
+			OldHunterShirt: {
+				DisplayName: 老猎人制服
+				Tooltip: “模仿来自遥远国度的猎人的服装”
+			}
+
+			AbandonedWulfrumHelmet: {
+				DisplayName: 废弃钨钢头盔
+				Tooltip:
+					'''
+					一个磨损生锈的头盔，看起来像是老式的钨钢头盔
+					将持有者变成钨钢机器人
+					也可以像普通头盔一样穿戴在头盔栏里
+					[c/83B87E:拾荒者和劫掠者常常穿着这种脆弱的盔甲]
+					[c/83B87E:其丰富的功能性以及通用性让它也能作为一种货币在交易中使用]
+					'''
+			}
+
+			EnergyCore: {
+				DisplayName: 能源核心
+				Tooltip:
+					'''
+					能量在其中脉动
+					只有破坏掉由中枢赋予能量的钨钢机器才能获得
+					'''
+			}
+
+			RoverDrive: {
+				DisplayName: 钨钢屏障生成仪
+				Tooltip:
+					'''
+					激活一个保护性矩阵，可以吸收50点伤害并提供10点防御
+					但是系统变化无常，护盾需要10秒完全充能
+					在护盾重新充能期间受击会重置计时器
+					也可通过提炼机进行拆分
+					'''
+			}
+
+			WulfrumAcrobaticsPack: {
+				DisplayName: 钨钢杂技背包
+				Tooltip:
+					'''
+					盒子里的这堆齿轮和电线重组了钩爪装置，将它们转化为钨钢弹弓
+					按住上键会收回钩爪
+					在侦测到致命跌落时会自动尝试抓住附近的墙壁
+					若此时长按下键，此安全功能将不会激活
+					增加 {0}% 移动速度
+					'''
+			}
+
+			WulfrumBlunderbuss: {
+				DisplayName: 钨钢火铳
+				Tooltip:
+					'''
+					消耗钨钢金属废料或银币开火
+					无视敌怪3点防御
+					[c/83B87E:“钨钢的好处是虽然随便就碎了，但它可以很快就二次利用”]
+					[c/83B87E:“事实上，机器人停工后即刻变成弹药是很常见的”]
+					'''
+			}
+
+			WulfrumController: {
+				DisplayName: 钨钢控制器
+				Tooltip:
+					'''
+					召唤一架钨钢无人机为你而战
+					手持遥控器时长按 <right> 以使你的无人机进入增压模式
+					增压的无人机会停止攻击并为你聚集钨钢能量
+					能量束会提供额外的生命再生和防御
+					保持你的光标离其他玩家足够近的话可以治疗他们
+					'''
+			}
+
+			WulfrumDiggingTurtle: {
+				DisplayName: 钨钢掘地机械龟
+				Tooltip:
+					'''
+					投掷一个不结实的采矿装置来挖掘一条小隧道
+					在紧急情况下，<right> 可立即引爆所有挖掘机械龟
+					'''
+			}
+
+			WulfrumDrill: {
+				DisplayName: 钨钢钻头
+				Tooltip: ""
+			}
+
+			WulfrumFusionCannon: {
+				DisplayName: 试作型钨钢聚变炮
+				Tooltip:
+					'''
+					发射快速的中射程弹幕
+					[c/878787:“自己变成召唤物后，谁还需要一根鞭子呢？”]
+					'''
+			}
+
+			WulfrumHat: {
+				DisplayName: 钨钢工程帽
+				Tooltip:
+					'''
+					增加10%鞭子范围
+					自带假发
+					'''
+			}
+
+			WulfrumJacket: {
+				DisplayName: 钨钢夹克
+				Tooltip: 增加5%伤害减免
+			}
+
+			WulfrumMetalScrap: {
+				DisplayName: 钨钢金属废料
+				Tooltip: ""
+			}
+
+			WulfrumOveralls: {
+				DisplayName: 钨钢工装裤
+				Tooltip: 增加5%移动速度
+			}
+
+			WulfrumProsthesis: {
+				DisplayName: 钨钢义肢
+				Tooltip:
+					'''
+					释放钨钢能量
+					<right> 对面前的生物进行法力汲取
+					[c/83B87E:科技和魔法永远被定格在效仿与复仇的军备竞赛中]
+					[c/83B87E:有时它们是协作的，如某些义肢]
+					'''
+			}
+
+			WulfrumScaffoldKit: {
+				DisplayName: 钨钢云梯工具包
+				Tooltip:
+					'''
+					放置临时金属脚手架。每建造40块便会消耗一块钨钢金属废料
+					脚手架需要从实心物块开始放置
+					[c/83B87E:“为你需要速建而不需要持续效果的东西而存在。”]
+					'''
+			}
+
+			WulfrumScrewdriver: {
+				DisplayName: 钨钢螺丝刀
+				Tooltip:
+					'''
+					可以快速有力地消灭敌人，只要它们足够虚弱
+					攻击敌人有概率给予你一把钨钢螺丝，你可以 <right> 将其扔回去
+					用螺丝刀击中被甩出的螺丝会增加它的伤害和速度，使它高速向前猛冲
+					[c/83B87E:“是谁把平头螺丝刀做的这么大？？我他妈到底能用它来干啥？这东西甚至可以直接把人的眼睛挖出来！”]
+					[c/83B87E:“……啊。”]
+					'''
+			}
+
+			WulfrumTreasurePinger: {
+				DisplayName: 钨钢探测仪
+				Tooltip:
+					'''
+					帮助你找到比钨钢更有价值的金属
+					这个破东西看起来质量太差了。[c/fc4903:它迟早会坏掉]
+					'''
+			}
+
+			StormlionBannerItem: {
+				DisplayName: 风暴蚁狮旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：风暴蚁狮
+			}
+
+			GeodeCrawlerBannerItem: {
+				DisplayName: 晶簇爬虫旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：晶簇爬虫
+			}
+
+			CloudSpriteBannerItem: {
+				DisplayName: 云精灵旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：云精灵
+			}
+
+			WulfrumGrapplerBannerItem: {
+				DisplayName: 钨钢格斗家旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：钨钢格斗家
+			}
+
+			WulfrumMagnetizerBannerItem: {
+				DisplayName: 钨钢磁化器旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：钨钢磁化器
+			}
+
+			WulfrumMortarBannerItem: {
+				DisplayName: 钨钢迫击炮旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：钨钢迫击炮
+			}
+
+			WulfrumNexusBannerItem: {
+				DisplayName: 钨钢中枢旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：钨钢中枢
+			}
+
+			WulfrumRollerBannerItem: {
+				DisplayName: 钨钢滚轮旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：钨钢滚轮
+			}
+
+			WulfrumRoverBannerItem: {
+				DisplayName: 钨钢漫步者旗
+				Tooltip: 附近的玩家获得针对以下怪的加成：钨钢漫步者
+			}
+
+			CeilingChisel: {
+				DisplayName: 天花板凿子
+				Tooltip: 在天花板上凿出裂缝，让灰尘不断落下
+			}
+
+			CorruptRockySandstoneWallItem: {
+				DisplayName: 岩质黑檀沙岩墙
+				Tooltip: ""
+			}
+
+			CrimsonRockySandstoneWallItem: {
+				DisplayName: 岩质猩红沙岩墙
+				Tooltip: ""
+			}
+
+			DesertBrazier: {
+				DisplayName: 沙漠火盆
+				Tooltip: ""
+			}
+
+			DesertBrazierSpectral: {
+				DisplayName: 幽灵沙漠火盆
+				Tooltip: ""
+			}
+
+			DesertBrickPillar: {
+				DisplayName: 沙漠砖柱
+				Tooltip: ""
+			}
+
+			HallowedRockySandstoneWallItem: {
+				DisplayName: 岩质珍珠沙岩墙
+				Tooltip: ""
+			}
+
+			MakeshiftStool: {
+				DisplayName: 临时凳子
+				Tooltip: ""
+			}
+
+			MirageDust: {
+				DisplayName: 幻象尘
+				Tooltip: 可以在地板上撒下粉末，产生一道幽灵般的浮尘柱
+			}
+
+			NautilusCrossingTheDunesItem: {
+				DisplayName: 瑙提螺斯穿越沙丘
+				Tooltip: "'H. Vihn'"
+			}
+
+			RockySandstoneWallItem: {
+				DisplayName: 岩质沙岩墙
+				Tooltip: ""
+			}
+
+			SandstoneCampfire: {
+				DisplayName: 沙岩篝火
+				Tooltip: "{$ItemTooltip.Campfire}"
+			}
+
+			SandstoneCampfireSpectral: {
+				DisplayName: 幽灵沙岩篝火
+				Tooltip: "{$ItemTooltip.Campfire}"
+			}
+
+			SandstonePillar: {
+				DisplayName: 沙岩柱
+				Tooltip: 可通过锤击增加或移除裂缝
+			}
+
+			SandyTent: {
+				DisplayName: 沙帐篷
+				Tooltip: ""
+			}
+
+			ScourgekillerPainting: {
+				DisplayName: 弑虫者
+				Tooltip: "'Unearthed by J. Ding'"
+			}
+
+			ShatteredTabletPainting: {
+				DisplayName: 碎裂碑牌
+				Tooltip: "'Unearthed by J. Ding'"
+			}
+
+			SpectralWater: {
+				DisplayName: 幽灵之水
+				Tooltip:
+					'''
+					其中包含漩涡般的灵魂
+					可以对玩家放置的沙岩墓碑使用，让它们生成鬼魂
+					也可使沙岩光源强制变为幽灵形态
+					'''
+			}
+
+			TripodTorch: {
+				DisplayName: 三脚架火炬
+				Tooltip: ""
+			}
+
+			TripodTorchSpectral: {
+				DisplayName: 幽灵三脚架火炬
+				Tooltip: ""
+			}
+
+			AshenGraveMarkerItem: {
+				DisplayName: 灰烬墓石碑
+				Tooltip: ""
+			}
+
+			AshenHeadstoneItem: {
+				DisplayName: 灰烬碑石
+				Tooltip: ""
+			}
+
+			AshenTombstoneItem: {
+				DisplayName: 灰烬墓石
+				Tooltip: ""
+			}
+
+			AshenGravestoneItem: {
+				DisplayName: 灰烬墓碑
+				Tooltip: ""
+			}
+
+			CoralGraveMarkerItem: {
+				DisplayName: 珊瑚墓石碑
+				Tooltip: ""
+			}
+
+			CoralTombstoneItem: {
+				DisplayName: 珊瑚墓石
+				Tooltip: ""
+			}
+
+			ReefGraveMarkerItem: {
+				DisplayName: 礁石墓石碑
+				Tooltip: ""
+			}
+
+			ReefTombstoneItem: {
+				DisplayName: 礁石墓石
+				Tooltip: ""
+			}
+
+			CorruptCrossGraveMarkerItem: {
+				DisplayName: 腐化十字墓石碑
+				Tooltip: ""
+			}
+
+			CorruptObeliskItem: {
+				DisplayName: 腐化方尖碑
+				Tooltip: ""
+			}
+
+			CorruptTombstoneItem: {
+				DisplayName: 腐化墓石
+				Tooltip: ""
+			}
+
+			CorruptGraveMarkerItem: {
+				DisplayName: 腐化墓石碑
+				Tooltip: ""
+			}
+
+			CrimsonTombstoneItem: {
+				DisplayName: 猩红墓石
+				Tooltip: ""
+			}
+
+			CrimsonGraveMarkerItem: {
+				DisplayName: 猩红墓石碑
+				Tooltip: ""
+			}
+
+			CrimsonHeadstoneItem: {
+				DisplayName: 猩红碑石
+				Tooltip: ""
+			}
+
+			CrimsonCrossGraveMarkerItem: {
+				DisplayName: 猩红十字墓石碑
+				Tooltip: ""
+			}
+
+			CrimtaneTombstoneItem: {
+				DisplayName: 猩红矿墓石
+				Tooltip: ""
+			}
+
+			CrimtaneObeliskItem: {
+				DisplayName: 猩红矿方尖碑
+				Tooltip: ""
+			}
+
+			CrimtaneHeadstoneItem: {
+				DisplayName: 猩红矿碑石
+				Tooltip: ""
+			}
+
+			CrimtaneGraveMarkerItem: {
+				DisplayName: 猩红矿墓石碑
+				Tooltip: ""
+			}
+
+			CrystalTombstoneItem: {
+				DisplayName: 水晶墓石
+				Tooltip: ""
+			}
+
+			CrystalHeadstoneItem: {
+				DisplayName: 水晶碑石
+				Tooltip: ""
+			}
+
+			CrystalGraveMarkerItem: {
+				DisplayName: 水晶墓石碑
+				Tooltip: ""
+			}
+
+			CrystalGravestoneItem: {
+				DisplayName: 水晶墓碑
+				Tooltip: ""
+			}
+
+			DemoniteHeadstoneItem: {
+				DisplayName: 魔矿碑石
+				Tooltip: ""
+			}
+
+			DemoniteObeliskItem: {
+				DisplayName: 魔矿方尖碑
+				Tooltip: ""
+			}
+
+			DemoniteTombstoneItem: {
+				DisplayName: 魔矿墓石
+				Tooltip: ""
+			}
+
+			DemoniteGraveMarkerItem: {
+				DisplayName: 魔矿墓石碑
+				Tooltip: ""
+			}
+
+			FrozenHeadstoneItem: {
+				DisplayName: 冰冻碑石
+				Tooltip: ""
+			}
+
+			FrozenTombstoneItem: {
+				DisplayName: 冰冻墓石
+				Tooltip: ""
+			}
+
+			FrozenGraveMarkerItem: {
+				DisplayName: 冰冻墓石碑
+				Tooltip: ""
+			}
+
+			FrozenObeliskItem: {
+				DisplayName: 冰冻方尖碑
+				Tooltip: ""
+			}
+
+			GoldenFrozenHeadstoneItem: {
+				DisplayName: 金冰冻碑石
+				Tooltip: ""
+			}
+
+			GoldenFrozenTombstoneItem: {
+				DisplayName: 金冰冻墓石
+				Tooltip: ""
+			}
+
+			GoldenFrozenGraveMarkerItem: {
+				DisplayName: 金冰冻墓石碑
+				Tooltip: ""
+			}
+
+			GoldenFrozenObeliskItem: {
+				DisplayName: 金冰冻方尖碑
+				Tooltip: ""
+			}
+
+			GoldenMycelialCrossGraveMarkerItem: {
+				DisplayName: 金真菌十字墓石碑
+				Tooltip: ""
+			}
+
+			GoldenMycelialGraveMarkerItem: {
+				DisplayName: 金真菌墓石碑
+				Tooltip: ""
+			}
+
+			GoldenMycelialHeadstoneItem: {
+				DisplayName: 金真菌碑石
+				Tooltip: ""
+			}
+
+			GoldenMycelialTombstoneItem: {
+				DisplayName: 金真菌墓石
+				Tooltip: ""
+			}
+
+			GoldenSandstoneGravestoneItem: {
+				DisplayName: 金沙岩墓碑
+				Tooltip: ""
+			}
+
+			GoldenSandstoneTombstoneItem: {
+				DisplayName: 金沙岩墓石
+				Tooltip: ""
+			}
+
+			GoldenSandstoneObeliskItem: {
+				DisplayName: 金沙岩方尖碑
+				Tooltip: ""
+			}
+
+			GoldenSandstoneHeadstoneItem: {
+				DisplayName: 金沙岩碑石
+				Tooltip: ""
+			}
+
+			BambooGraveMarkerItem: {
+				DisplayName: 竹墓石碑
+				Tooltip: ""
+			}
+
+			JungleGraveMarkerItem: {
+				DisplayName: 丛林墓石碑
+				Tooltip: ""
+			}
+
+			JungleCrossGraveMarkerItem: {
+				DisplayName: 丛林十字墓石碑
+				Tooltip: ""
+			}
+
+			JungleHeadstoneItem: {
+				DisplayName: 丛林碑石
+				Tooltip: ""
+			}
+
+			LihzahrdGravestoneItem: {
+				DisplayName: 丛林蜥蜴墓碑
+				Tooltip: ""
+			}
+
+			LihzahrdTombstoneItem: {
+				DisplayName: 丛林蜥蜴墓石
+				Tooltip: ""
+			}
+
+			LihzahrdGraveMarkerItem: {
+				DisplayName: 丛林蜥蜴墓石碑
+				Tooltip: ""
+			}
+
+			LihzahrdHeadstoneItem: {
+				DisplayName: 丛林蜥蜴碑石
+				Tooltip: ""
+			}
+
+			MantleGraveMarkerItem: {
+				DisplayName: 地幔墓石碑
+				Tooltip: ""
+			}
+
+			MantleHeadstoneItem: {
+				DisplayName: 地幔碑石
+				Tooltip: ""
+			}
+
+			MantleTombstoneItem: {
+				DisplayName: 地幔墓石
+				Tooltip: ""
+			}
+
+			MantleGravestoneItem: {
+				DisplayName: 地幔墓碑
+				Tooltip: ""
+			}
+
+			MycelialHeadstoneItem: {
+				DisplayName: 真菌碑石
+				Tooltip: ""
+			}
+
+			MycelialGravestoneItem: {
+				DisplayName: 真菌墓碑
+				Tooltip: ""
+			}
+
+			MycelialGraveMarkerItem: {
+				DisplayName: 真菌墓石碑
+				Tooltip: ""
+			}
+
+			MycelialTombstoneItem: {
+				DisplayName: 真菌墓石
+				Tooltip: ""
+			}
+
+			PearlstoneTombstoneItem: {
+				DisplayName: 珍珠石墓石
+				Tooltip: ""
+			}
+
+			PearlwoodGraveMarkerItem: {
+				DisplayName: 珍珠木墓石碑
+				Tooltip: ""
+			}
+
+			PearlstoneGraveMarkerItem: {
+				DisplayName: 珍珠石墓石碑
+				Tooltip: ""
+			}
+
+			PearlstoneGravestoneItem: {
+				DisplayName: 珍珠石墓碑
+				Tooltip: ""
+			}
+
+			SandstoneGraveMarkerItem: {
+				DisplayName: 沙岩墓石碑
+				Tooltip: ""
+			}
+
+			SandstoneTombstoneItem: {
+				DisplayName: 沙岩墓石
+				Tooltip: ""
+			}
+
+			SandstoneObeliskItem: {
+				DisplayName: 沙岩方尖碑
+				Tooltip: ""
+			}
+
+			SandstoneCrossGraveMarkerItem: {
+				DisplayName: 沙岩十字墓石碑
+				Tooltip: ""
+			}
+
+			PalmwoodCrossGraveMarkerItem: {
+				DisplayName: 棕榈木十字墓石碑
+				Tooltip: ""
+			}
+
+			PalmwoodGraveMarkerItem: {
+				DisplayName: 棕榈木墓石碑
+				Tooltip: ""
+			}
+
+			PalmwoodShipwreckMarkerItem: {
+				DisplayName: 棕榈木沉船石碑
+				Tooltip: ""
+			}
+
+			SeashellTombstoneItem: {
+				DisplayName: 贝壳墓石
+				Tooltip: ""
+			}
+
+			SkyGraveMarkerItem: {
+				DisplayName: 天空墓石碑
+				Tooltip: ""
+			}
+
+			SkyCrossGraveMarkerItem: {
+				DisplayName: 天空十字墓石碑
+				Tooltip: ""
+			}
+
+			SkyGravestoneItem: {
+				DisplayName: 天空墓碑
+				Tooltip: ""
+			}
+
+			SkyCairnItem: {
+				DisplayName: 天空石碑
+				Tooltip: ""
+			}
+
+			SkywareTombstoneItem: {
+				DisplayName: 天域墓石
+				Tooltip: ""
+			}
+
+			SkywareCrossGraveMarkerItem: {
+				DisplayName: 天域十字墓石碑
+				Tooltip: ""
+			}
+
+			SkywareHeadstoneItem: {
+				DisplayName: 天域碑石
+				Tooltip: ""
+			}
+
+			SkywareGraveMarkerItem: {
+				DisplayName: 天域墓石碑
+				Tooltip: ""
+			}
+
+			LatticeFenceItem: {
+				DisplayName: 格框栅栏
+				Tooltip: ""
+			}
+
+			LatticeFenceTatteredItem: {
+				DisplayName: 破烂格框栅栏
+				Tooltip: ""
+			}
+
+			CrabulonMusicBoxItem: {
+				DisplayName: 音乐盒 (菌丝傀儡)
+				Tooltip: ""
+			}
+
+			DesertScourgeMusicBoxItem: {
+				DisplayName: 音乐盒 (干枯虫骸)
+				Tooltip: ""
+			}
+
+			SealedChamberMusicBoxItem: {
+				DisplayName: 音乐盒 (密室)
+				Tooltip: ""
+			}
+
+			SirNautilusMusicBoxItem: {
+				DisplayName: 音乐盒 (死亡骑兵之战)
+				Tooltip: ""
+			}
+
+			TitleThemeMusicBoxItem: {
+				DisplayName: 音乐盒（主菜单）
+				Tooltip: ""
+			}
+
+			FrostSaplingItem: {
+				DisplayName: 永冻松树幼苗
+				Tooltip: ""
+			}
+
+			InkySaplingItem: {
+				DisplayName: 苍白毒蘑菇
+				Tooltip: ""
+			}
+
+			MallowSaplingItem: {
+				DisplayName: 薄暮锦葵幼苗
+				Tooltip: ""
+			}
+
+			MarrowSaplingItem: {
+				DisplayName: 骨髓柳树幼苗
+				Tooltip: ""
+			}
+
+			SpiderSaplingItem: {
+				DisplayName: 蜘蛛棕榈幼苗
+				Tooltip: ""
+			}
+
+			WisteriaSaplingItem: {
+				DisplayName: 北极紫藤幼苗
+				Tooltip: ""
+			}
+
+			WulfrumAcrobaticsPackPosterItem: {
+				DisplayName: 钨钢海报 - 杂技背包
+				Tooltip:
+					'''
+					“你尝试过在洞穴中使用翅膀吗？太糟糕了！
+					对外面的探险家来说，《杂技背包》是不二之选！”
+					'''
+			}
+
+			WulfrumAntennaItem: {
+				DisplayName: 钨钢天线
+				Tooltip: ""
+			}
+
+			WulfrumBathtubItem: {
+				DisplayName: 钨钢浴缸
+				Tooltip: ""
+			}
+
+			WulfrumBedItem: {
+				DisplayName: 钨钢床
+				Tooltip: ""
+			}
+
+			WulfrumBulkContainer_FirstSlotEmpty: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_FirstSlotFull: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_FirstSlotUsed: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_SecondSlotEmpty: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_SecondSlotFull: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_SecondSlotUsed: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_ThirdSlotEmpty: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_ThirdSlotFull: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainer_ThirdSlotUsed: {
+				DisplayName: 大储物箱栏位
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumBulkContainerItem: {
+				DisplayName: 钨钢大储物箱
+				Tooltip: 一个大型存储板条箱，可以存储至多3个宝箱的内容
+			}
+
+			WulfrumBulkDoorItem: {
+				DisplayName: 钨钢大门
+				Tooltip: ""
+			}
+
+			WulfrumCandleItem: {
+				DisplayName: 钨钢蜡烛
+				Tooltip: ""
+			}
+
+			WulfrumCanisterItem: {
+				DisplayName: 钨钢罐
+				Tooltip: ""
+			}
+
+			WulfrumComplementPlasticItem: {
+				DisplayName: 钨钢补塑块
+				Tooltip:
+					'''
+					一种与更多物块融合的钨钢塑料变种
+					受到高级建筑师的青睐
+					'''
+			}
+
+			WulfrumComputerItem: {
+				DisplayName: 钨钢电脑
+				Tooltip: ""
+			}
+
+			WulfrumComputerPosterItem: {
+				DisplayName: 钨钢海报 - 电脑
+				Tooltip:
+					'''
+					“整整1TB专用于钨钢公司的商品搜索引擎！
+					快来抢先安装最新版本的钨钢操作系统。”
+					'''
+			}
+
+			WulfrumCrateItem: {
+				DisplayName: 钨钢板条箱
+				Tooltip: ""
+			}
+
+			WulfrumDeskItem: {
+				DisplayName: 钨钢书桌
+				Tooltip: ""
+			}
+
+			WulfrumDeskLampItem: {
+				DisplayName: 钨钢台灯
+				Tooltip: ""
+			}
+
+			WulfrumDiggingTurtlePosterItem: {
+				DisplayName: 钨钢海报 - 掘地机械龟
+				Tooltip: “期待已久的《挖掘鼹鼠》续作终于登场，乌龟般的特性让它们可以在爆炸前多活整整3秒！”
+			}
+
+			WulfrumDoorItem: {
+				DisplayName: 钨钢门
+				Tooltip: ""
+			}
+
+			WulfrumElevatorBaseItem: {
+				DisplayName: 钨钢电梯底座
+				Tooltip: 连接电梯轨道和电梯站
+			}
+
+			WulfrumElevatorHoverIndicatorDown: {
+				DisplayName: ""
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumElevatorHoverIndicatorUp: {
+				DisplayName: ""
+				Tooltip: 你不该看到这个
+			}
+
+			WulfrumElevatorRailItem: {
+				DisplayName: 钨钢电梯轨道
+				Tooltip: ""
+			}
+
+			WulfrumElevatorStationItem: {
+				DisplayName: 钨钢电梯站
+				Tooltip: ""
+			}
+
+			WulfrumFidgetPosterItem: {
+				DisplayName: 钨钢海报 - 解压玩具
+				Tooltip: “每次购买钨钢公司产品就可赠送我们的超解压小玩具。快来集齐全部的151款吧！”
+			}
+
+			WulfrumForkAntennaItem: {
+				DisplayName: 钨钢叉形天线
+				Tooltip: ""
+			}
+
+			WulfrumFridgeItem: {
+				DisplayName: 钨钢冰箱
+				Tooltip: ""
+			}
+
+			WulfrumGlassItem: {
+				DisplayName: 钨钢有色玻璃
+				Tooltip: ""
+			}
+
+			WulfrumGlassWallItem: {
+				DisplayName: 钨钢有色玻璃墙
+				Tooltip: ""
+			}
+
+			WulfrumGrapplerPosterItem: {
+				DisplayName: 钨钢海报 - 格斗家
+				Tooltip: “坚持住！”
+			}
+
+			WulfrumGyratorPosterItem: {
+				DisplayName: 钨钢海报 - 回转器
+				Tooltip:
+					'''
+					“旧物新生！用这款永恒经典让钨钢公司回归初心！
+					购买任何其他钨钢公司产品时附赠。”
+					'''
+			}
+
+			WulfrumHatchItem: {
+				DisplayName: 钨钢接口
+				Tooltip: ""
+			}
+
+			WulfrumHullItem: {
+				DisplayName: 钨钢装甲镀层
+				Tooltip: “不要与钨钢哑光镀层混淆！”
+			}
+
+			WulfrumHullWallItem: {
+				DisplayName: 钨钢装甲镀墙
+				Tooltip: ""
+			}
+
+			WulfrumLampItem: {
+				DisplayName: 钨钢灯
+				Tooltip: ""
+			}
+
+			WulfrumLanternItem: {
+				DisplayName: 钨钢灯笼
+				Tooltip: ""
+			}
+
+			WulfrumLockerItem: {
+				DisplayName: 钨钢储物柜
+				Tooltip: ""
+			}
+
+			WulfrumMagnetizerPosterItem: {
+				DisplayName: 钨钢海报 - 磁化器
+				Tooltip:
+					'''
+					“根据大众需求，钨钢公司自研的配送机器人终于上市了！
+					[c/EED202:警告！]禁止运输铁质产品。”
+					'''
+			}
+
+			WulfrumModularChairItem: {
+				DisplayName: 钨钢模块椅
+				Tooltip: ""
+			}
+
+			WulfrumMortarPosterItem: {
+				DisplayName: 钨钢海报 - 迫击炮
+				Tooltip:
+					'''
+					“懒得自己赶走入侵者吗？
+					只需少量防御单元即可安全守护资产并使所受损失降到最低！”
+					'''
+			}
+
+			WulfrumOfficeChairItem: {
+				DisplayName: 钨钢办公椅
+				Tooltip: ""
+			}
+
+			WulfrumPlasticItem: {
+				DisplayName: 钨钢塑料块
+				Tooltip: ""
+			}
+
+			WulfrumPlasticWallItem: {
+				DisplayName: 钨钢塑料墙
+				Tooltip: ""
+			}
+
+			WulfrumPlatformItem: {
+				DisplayName: 钨钢平台
+				Tooltip: ""
+			}
+
+			WulfrumPowerArmorPosterItem: {
+				DisplayName: 钨钢海报 - 强力盔甲
+				Tooltip:
+					'''
+					“厌倦了当无人关注，无人惦记的透明人吗？
+					穿上这身盔甲，你也可以享受《John Wulfrum》般，受喜爱和赞赏的待遇！”
+					'''
+			}
+
+			WulfrumReinforcedCrateItem: {
+				DisplayName: 加固钨钢板条箱
+				Tooltip: ""
+			}
+
+			WulfrumRollerPosterItem: {
+				DisplayName: 钨钢海报 - 滚轮
+				Tooltip: “有此齿轮助力你不会白费力气！”
+			}
+
+			WulfrumRoverPosterItem: {
+				DisplayName: 钨钢海报 - 漫步者
+				Tooltip: “贴近朋友，但更要贴近漫步者！”
+			}
+
+			WulfrumSinkItem: {
+				DisplayName: 钨钢水槽
+				Tooltip: ""
+			}
+
+			WulfrumSmallCanisterItem: {
+				DisplayName: 小型钨钢罐
+				Tooltip: ""
+			}
+
+			WulfrumSwitchItem: {
+				DisplayName: 钨钢开关
+				Tooltip: ""
+			}
+
+			WulfrumTableItem: {
+				DisplayName: 钨钢桌
+				Tooltip: ""
+			}
+
+			WulfrumToiletItem: {
+				DisplayName: 钨钢马桶
+				Tooltip: ""
+			}
+
+			WulfrumTubeLightItem: {
+				DisplayName: 钨钢管道灯
+				Tooltip: ""
+			}
+
+			WulfrumWashingMachineItem: {
+				DisplayName: 钨钢洗衣机
+				Tooltip: ""
+			}
+
+			WulfrumWashingMachinePosterItem: {
+				DisplayName: 钨钢海报 - 洗衣机
+				Tooltip:
+					'''
+					“承诺：业内最快，最彻底的清洗，否则退款！
+					[c/EED202:警告！] 启动前务必确定包含的安全装置都牢牢固定！”
+					'''
+			}
+
+			WulfrumWideComputerItem: {
+				DisplayName: 大型钨钢电脑
+				Tooltip: ""
+			}
+
+			WulfrumWorkbenchItem: {
+				DisplayName: 钨钢工作台
+				Tooltip: ""
+			}
+
+			WulfrumWorkshopItem: {
+				DisplayName: 钨钢工坊
+				Tooltip: 用于特殊制作
+			}
+
+			WulfrumBigRotorItem: {
+				DisplayName: 大型钨钢转轮片
+				Tooltip: “一个大锈蚀齿轮牢牢地卡在碎片里”
+			}
+
+			WulfrumLandfillItem: {
+				DisplayName: 钨钢填埋垃圾
+				Tooltip: “废料被压得太紧以至于无法提取回来……”
+			}
+
+			WulfrumLureItem: {
+				DisplayName: 钨钢诱扰器
+				Tooltip:
+					'''
+					释放钨钢信号引诱钨钢机器人出现，持续{0}秒
+					每天只能触发一次
+					'''
+			}
+
+			WulfrumPipesItem: {
+				DisplayName: 钨钢管道
+				Tooltip: ""
+			}
+
+			WulfrumRotorItem: {
+				DisplayName: 钨钢转轮片
+				Tooltip: “一个小锈蚀齿轮牢牢地卡在碎片里”
+			}
+
+			WulfrumSmokingPipesItem: {
+				DisplayName: 冒烟钨钢管道
+				Tooltip: ""
+			}
+
+			BunkerChairRubbleHover: {
+				DisplayName: ""
+				Tooltip: 你不该看到这个
+			}
+
+			BunkerWorkshopItem: {
+				DisplayName: 钨钢地堡工坊
+				Tooltip: 用于特殊制作
+			}
+
+			DullPlatingItem: {
+				DisplayName: 钨钢哑光镀层
+				Tooltip:
+					'''
+					按住右键时锤击物块以改变镀层种类
+					“不要与钨钢装甲镀层混淆！”
+					'''
+			}
+
+			DullPlatingWallItem: {
+				DisplayName: 哑光镀墙
+				Tooltip: ""
+			}
+
+			DustyBricksItem: {
+				DisplayName: 灰尘砖
+				Tooltip: ""
+			}
+
+			DustyBrickWallItem: {
+				DisplayName: 灰尘砖墙
+				Tooltip: ""
+			}
+
+			GrimyGrateItem: {
+				DisplayName: 肮脏格栅
+				Tooltip:
+					'''
+					仅允许液体通过
+					“也可做成格栅状笼子！”
+					'''
+			}
+
+			IndustrialWulfrumTubeLightItem: {
+				DisplayName: 工业钨钢管道灯
+				Tooltip: ""
+			}
+
+			RustyHandrailPlatformItem: {
+				DisplayName: 锈蚀扶手平台
+				Tooltip: ""
+			}
+
+			RustyPlatformItem: {
+				DisplayName: 锈蚀平台
+				Tooltip: ""
+			}
+
+			RustySheetsItem: {
+				DisplayName: 锈蚀薄板
+				Tooltip: ""
+			}
+
+			RustyWulfrumChainsItem: {
+				DisplayName: 锈蚀钨钢链条
+				Tooltip:
+					'''
+					可放置
+					按上/下键调整链条弯曲程度
+					'''
+			}
+
+			RustyWulfrumElevatorBaseItem: {
+				DisplayName: 废弃钨钢电梯底座
+				Tooltip: 连接电梯轨道和电梯站
+			}
+
+			RustyWulfrumElevatorHoverIndicatorDown: {
+				DisplayName: ""
+				Tooltip: 你不该看到这个
+			}
+
+			RustyWulfrumElevatorHoverIndicatorUp: {
+				DisplayName: ""
+				Tooltip: 你不该看到这个
+			}
+
+			RustyWulfrumElevatorRailItem: {
+				DisplayName: 废弃钨钢电梯轨道
+				Tooltip: ""
+			}
+
+			RustyWulfrumElevatorStationItem: {
+				DisplayName: 废弃钨钢电梯站
+				Tooltip: ""
+			}
+
+			WireSpoolItem: {
+				DisplayName: 电线卷盘
+				Tooltip:
+					'''
+					可以放在实体物块和灯上
+					按上/下键来调整电线的弯曲程度
+					“这些是某种灾厄电缆么？？”
+					'''
+			}
+
+			WulfrumBigConduitCouplingItem: {
+				DisplayName: 大型钨钢导管接头
+				Tooltip: ""
+			}
+
+			WulfrumBigConduitItem: {
+				DisplayName: 大型钨钢导管
+				Tooltip: ""
+			}
+
+			WulfrumConduitCouplingItem: {
+				DisplayName: 钨钢导管接头
+				Tooltip: ""
+			}
+
+			WulfrumConduitItem: {
+				DisplayName: 钨钢导管
+				Tooltip: ""
+			}
+
+			WulfrumLamppostItem: {
+				DisplayName: 钨钢灯柱
+				Tooltip: ""
+			}
+
+			WulfrumVaultItem: {
+				DisplayName: 钨钢保险库
+				Tooltip: ""
+			}
+
+			ScourgeSpineDebugPlacer: {
+				Tooltip: ""
+				DisplayName: 灾虫脊椎测试放置器
+			}
+
+			DebugItem2: {
+				Tooltip: ""
+				DisplayName: 测试物品2
+			}
+
+			DebugItem: {
+				Tooltip: ""
+				DisplayName: 测试物品
+			}
+
+			BlendmodeTest: {
+				Tooltip: ""
+				DisplayName: 混合模式测试
+			}
+
+			HookstaffDisplayIcon: {
+				Tooltip: ""
+				DisplayName: 钩杖显示图标
+			}
+
+			WulfrumBigConduitExhaustItem: {
+				DisplayName: 大型钨钢导管排气
+				Tooltip:
+					'''
+					当连接到导管的顶部，左侧或右侧时产生蒸汽
+					当连接到导管的底部时会喷水，将附近的水染成暗绿色
+					'''
+			}
+
+			WulfrumConduitExhaustItem: {
+				DisplayName: 钨钢导管排气
+				Tooltip:
+					'''
+					当连接到导管的顶部，左侧或右侧时产生蒸汽
+					当连接到导管的底部时会喷水，将附近的水染成暗绿色
+					'''
+			}
+
+			DustyBricksLichenItem: {
+				DisplayName: 灰调苔藓
+				Tooltip: 只能放置在灰尘砖上
+			}
+
+			CrabulonBossMaskAlt1: {
+				DisplayName: 菌生蟹真菌面具
+				Tooltip: ""
+			}
+
+			CrabulonBossMaskAlt2: {
+				DisplayName: 菌生蟹多毛面具
+				Tooltip: ""
+			}
+
+			SirNautilusTreasureBag: {
+				DisplayName: 宝藏袋 (瑙提螺斯)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			SludgeSlap: {
+				DisplayName: 污泥鞭挞
+				Tooltip:
+					'''
+					你的召唤物将集中攻击被打中的敌人
+					打击敌人会使其沾满粘液
+					沾到粘液的目标被召唤物击中时会产生一团史莱姆
+					鞭子末端命中时会产生额外的史莱姆
+					“凝胶之王的最爱”
+					'''
+			}
+
+			OpulentDartgun: {
+				DisplayName: 华丽飞镖枪
+				Tooltip:
+					'''
+					长按<right>进行过量注射
+					<right>发射一只注射器，向你的敌怪和队友过量注射
+					过量注射会显著增强力量，但是会降低移动速度、减少生命值并禁用治疗
+					在过量注射状态下，该武器发射的飞镖会治疗你并减轻副作用
+					'''
+			}
+
+			Geodecorn: {
+				DisplayName: 晶簇橡实
+				Tooltip: 召唤一只晶簇爬虫宝宝
+			}
+
+			SandstormSpriteBannerItem: {
+				DisplayName: 沙暴精灵旗
+				Tooltip: 附近玩家获得奖励效果：沙暴精灵
+			}
+
+			SandstoneAccentBrickItem: {
+				DisplayName: 沙岩装饰砖
+				Tooltip:
+					'''
+					一种沙岩砖的变体，能够更好地与砂质物块融合
+					受到高级建筑师的青睐
+					'''
+			}
+
+			WulfrumBoomboxItem: {
+				DisplayName: 钨钢音响
+				Tooltip: ""
+			}
+
+			SandstormSpriteInABottle: {
+				DisplayName: 瓶中沙暴精灵
+				Tooltip: "'它无休止地旋转着。'"
+			}
+
+			GemChimes: {
+				DisplayName: 宝石风铃
+				Tooltip:
+					'''
+					发射各种颜色的共振声波
+					声波会调谐敌怪，使其获得对应的颜色
+					调谐了相同颜色的敌怪会产生共振，造成高额伤害
+					声波在其范围尽头可以调谐多个敌怪
+					'''
+			}
+
+			GeodeCandy: {
+				DisplayName: 晶簇糖果
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					遇上彩虹，吃定彩虹！
+					增加你的运气
+					'''
+			}
+
+			LuminousCreamSoup: {
+				DisplayName: 发光奶油汤
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed2}
+					[c/5167ff:“我正在煮一种加入了33种未知蘑菇的汤。]
+					[c/5167ff:这是我做过的最毒的汤，并且气味很强烈]
+					[c/5167ff:加入的蘑菇种类包括了肉褐鳞环柄菇、毁灭天使菌和死亡帽。]
+
+					[c/5167ff:祝我好运吧，这绝对是一场前所未有的体验。']
+					'''
+			}
+
+			StormfriedIceCream: {
+				DisplayName: 风暴油炸冰淇淋
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					不知为何，它被闪电炸到了。
+					'''
+			}
+
+			WulfrumBrandCereal: {
+				DisplayName: 钨钢牌燕麦片
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed}
+					”达到您每日推荐钨钢摄入量的1500%！“
+					减少来自钨钢敌怪的伤害，并降低其攻击速度
+					'''
+			}
+
+			SpelunkerScarabBannerItem: {
+				DisplayName: 勘探甲虫旗
+				Tooltip: 附近玩家获得奖励效果：勘探甲虫
+			}
+
+			SuperchargedDart: {
+				DisplayName: 增压飞镖
+				Tooltip:
+					'''
+					撞击时电击附近的敌怪
+					在电击目标之间分配伤害
+					'''
+			}
+
+			SkyDart: {
+				DisplayName: 猛禽飞镖
+				Tooltip:
+					'''
+					在飞行过程中加速并造成更多伤害
+					有微弱的追踪能力
+					'''
+			}
+
+			BlizzardSpriteBannerItem: {
+				DisplayName: 暴雪精灵旗帜
+				Tooltip: 附近玩家获得奖励效果：暴雪精灵
+			}
+
+			BlizzardSpriteInABottle: {
+				DisplayName: 瓶中暴雪精灵
+				Tooltip: "'他在瓶中低吟'"
+			}
+
+			DrownedScriptures: {
+				DisplayName: 浸咒经文
+				Tooltip:
+					'''
+					召唤会施加诅咒的爆炸雷
+					<right>释放一只深渊咒物吞噬被诅咒者
+					咒物会随着击杀敌人的数量增强
+					“当你阅读时，里面的文字会扭曲变形......”
+					'''
+			}
+
+			IceHat: {
+				DisplayName: 暴雪帽
+				Tooltip:
+					'''
+					魔法暴击率{0}% 
+					双击 {1} 将自己包裹在一块光滑的冰块里
+					'''
+			}
+
+			SackOfInfiniteGuns: {
+				DisplayName: 无限枪支袋
+				Tooltip: 发射一杆枪，在击中敌人时会随机向其开火
+			}
+
+			YoblinBucket: {
+				DisplayName: 约布林飞桶
+				Tooltip:
+					'''
+					召唤脆弱的约布林为你而战
+					约布林只占一个完整仆从栏的一小部分
+					'''
+			}
+
+			WulfrumVoiceBox: {
+				DisplayName: 钨钢语音盒
+				Tooltip:
+					'''
+					改变你的声音
+					”非常适合扮演廉价垃圾！“
+					'''
+			}
+
+			CoraletiSpear: {
+				DisplayName: 珊瑚长矛
+				Tooltip:
+					'''
+					击中敌怪会让长矛生长
+					生长至最大状态时，长矛会碎裂成滞留的珊瑚碎片
+					'''
+			}
+		}
+
+		NPCs: {
+			DeadStormlionLarva.DisplayName: 死亡的风暴蚁狮幼虫
+			DesertScourge.DisplayName: 荒漠灾虫
+			DesertScourgeHitbox.DisplayName: 荒漠灾虫
+			Fibsh.DisplayName: 沃尔伯特
+			GroundBeef.DisplayName: 腐肉
+			ScourgeFlesh.DisplayName: 灾虫肉
+			StormlionLarva.DisplayName: 风暴蚁狮幼虫
+			Stormlion.DisplayName: 风暴蚁狮
+			Crabulon.DisplayName: 菌生蟹
+			CrabulonSporeBomb.DisplayName: 小孢子
+			CrabulonThrownSporeBomb.DisplayName: 小孢子
+			PeekingCrabulon.DisplayName: 菌生蟹
+			SirNautilus.DisplayName: 瑙提螺斯爵士
+			SirNautilusPassive.DisplayName: 瑙提螺斯爵士
+			ASTARCRAWLER.DisplayName: 星际爬虫
+			Potlet.DisplayName: 罐子怪
+			GeodeCrawler.DisplayName: 晶簇爬虫
+			CloudSprite.DisplayName: 云精灵
+			WulfrumGrappler.DisplayName: 钨钢格斗家
+			WulfrumMagnetizer.DisplayName: 钨钢磁化器
+			WulfrumMortar.DisplayName: 钨钢迫击炮
+			WulfrumNexus.DisplayName: 钨钢中枢
+			WulfrumRoller.DisplayName: 钨钢滚轮
+			WulfrumRover.DisplayName: 钨钢漫步者
+			WulfrumElevatorPlatform.DisplayName: ""
+			RustyWulfrumElevatorPlatform.DisplayName: ""
+			SandstormSprite.DisplayName: 沙暴精灵
+			SpelunkerScarab.DisplayName: 勘探甲虫
+			BlizzardSprite.DisplayName: 暴雪精灵
+		}
+
+		Buffs: {
+			CrabulonDOT: {
+				DisplayName: 孢子化
+				Description: 你的肺正被真菌填满！
+			}
+
+			BlowpipeAcid: {
+				DisplayName: 酸
+				Description: 防御降低2
+			}
+
+			BlowpipeLeech: {
+				DisplayName: 神经毒素
+				Description: 正在流失生命
+			}
+
+			BlowpipeRegen: {
+				DisplayName: 清新雾气
+				Description: 快速再生生命
+			}
+
+			Overamped: {
+				DisplayName: 电流过载
+				Description: 你身上的所有头发飞起来了
+			}
+
+			PlasmaRodFried: {
+				DisplayName: 灼伤
+				Description: 被强力的等离子冲击磁化
+			}
+
+			ScourgePoison: {
+				DisplayName: 灾虫毒素
+				Description: 对内部器官极快地造成伤害
+			}
+
+			WulfrumDroidBuff: {
+				DisplayName: 钨钢无人机
+				Description: 钨钢无人机会保护你
+			}
+
+			CrabSpiritBuff: {
+				DisplayName: 泥蟹精
+				Description: 只有超高速的移动才能击中这壳
+			}
+
+			FungalSurge: {
+				DisplayName: 真菌涌动
+				Description: 所有属性大幅提升
+			}
+
+			InfestationDOT: {
+				DisplayName: 感染！
+				Description: 肌腱结构形状移位
+			}
+
+			InkyCapGuardianBuff: {
+				DisplayName: 墨帽守卫
+				Description: 只是个小可爱蘑菇
+			}
+
+			InkyCapSpores: {
+				DisplayName: 墨帽孢子
+				Description: 提升生命再生
+			}
+
+			WarpPodFleshWeaving: {
+				DisplayName: 血肉交织
+				Description: 血肉转化为孢子，孢子转化为血肉
+			}
+
+			Potted: {
+				DisplayName: 罐子
+				Description: 你的粘液化血肉在诅咒的罐子中晃荡
+			}
+
+			TarsMark: {
+				DisplayName: 焦油标记
+				Description:
+					'''
+					焦油仍在你的血管中流动……
+					所有伤害降低
+					'''
+			}
+
+			InsatiableHunger: {
+				DisplayName: 喂饱饥饿
+				Description:
+					'''
+					再加强所有食物增益提供的属性
+					你现在不会再喷吐出更多的食物了……
+					'''
+			}
+
+			TinyScourgePetBuff: {
+				DisplayName: 幼年灾虫
+				Description: 容易做井底之蛙
+			}
+
+			BrambleMinionBuff: {
+				DisplayName: 风滚草风暴
+				Description: 风滚草会保护你
+			}
+
+			MarniteLiftBuff: {
+				DisplayName: 合成岩悬浮平台
+				Description: 你甚至……？
+			}
+
+			ArmoredSignathionBuff: {
+				DisplayName: 皇家战马
+				Description:
+					'''
+					这道幻影仍然穿着海洋王国的独特服饰
+					冲刺时提升矛类武器的伤害
+					'''
+			}
+
+			GhostlySeasaddleBuff: {
+				DisplayName: 速龙海马坐骑
+				Description: ……这是只侏儒种，还是说瑙提螺斯骑乘的其实是一个巨型个体？？？
+			}
+
+			LittleDragonfishBuff: {
+				DisplayName: 小龙鱼
+				Description: 与大型海龙无关
+			}
+
+			OpulentInjectionBuff: {
+				Description: 你变强了，但你在不断失去生命值和速度！
+				DisplayName: 过量注射
+			}
+
+			GeodecornBuff: {
+				DisplayName: 斯梅伯
+				Description: 斯梅伯正在跟着你
+			}
+
+			SludgeSlapNPCDebuff: {
+				DisplayName: 污泥
+				Description: 沾满了黏糊糊的污泥
+			}
+
+			SludgeSlapSlimelingBuff: {
+				DisplayName: 史莱姆
+				Description: 忠诚但胆小的仆从
+			}
+
+			GemChimesNPCDebuff: {
+				DisplayName: 共振
+				Description: 以危险的频率震动
+			}
+
+			WhiskedDebuff: {
+				DisplayName: 搅动
+				Description: 增加坠落伤害
+			}
+
+			BrandAmbassadorBuff: {
+				DisplayName: 品牌大使
+				Description: 钨钢敌怪的伤害减半，且攻击间隔更长
+			}
+
+			ElectrifiedBloodBuff: {
+				DisplayName: 感点血液
+				Description: 受伤时放电反击
+			}
+
+			DrownedScripturesNPCDebuff: {
+				DisplayName: 深渊印记
+				Description: 它将降临……
+			}
+
+			Encased: {
+				DisplayName: 包裹
+				Description: 你被包裹在一块冰里
+				SetBonusDescription:
+					'''
+					你被包裹在一块冰里
+					魔力再生增加
+					'''
+			}
+
+			YoblinBucketBuff: {
+				DisplayName: 约布林
+				Description: 上吧约布林！
+			}
+		}
+	}
+}

@@ -1,0 +1,65 @@
+EntryTitle.CooldownDisplay: ""
+EntryTooltip.CooldownDisplay: ""
+
+FablesConfig: {
+	DisplayName: Main Config
+
+	SectionTitle: {
+		Graphics: Visual Effects
+		UI: User Interface
+	}
+
+	VanillaCooldownDisplay: {
+		Tooltip: Makes potion sickness and chaos state display in the cooldown rack instead of the buff list
+		Label: "[i:{0}] Cooldown Display For Vanilla Debuffs"
+	}
+
+	CooldownDisplay: {
+		Tooltip: ""
+		Label: Cooldown Display
+	}
+
+	ChromaticAbberationMultiplier: {
+		Tooltip: Strength multiplier for the chromatic abberation VFX used by some items.
+		Label: "[i:{0}] Chromatic Abberation VFX Multiplier"
+	}
+
+	ScreenshakeMultiplier: {
+		Tooltip: Strength multiplier for screenshake effects from the mod.
+		Label: "[i:{0}] Screenshake Multiplier"
+	}
+
+	FluidSimVFXEnabled: {
+		Tooltip: Whether or not to use smoke simulation VFX, which may incur a performance cost for users with lower end GPUs
+		Label: "[i:{0}] Use Smoke/Mist VFX"
+	}
+
+	ParticleLimit: {
+		Tooltip: Maximum amount of particles that can exist at once. Might cause telegraphs to be less visible if lowered too much
+		Label: "[i:{0}] Maximum Particle Count"
+	}
+
+	BossIntroCardsActivated: {
+		Tooltip: Toggles the introduction card VFX that appears when a boss spawns
+		Label: "[i:{0}] Boss Intro Cards"
+	}
+}
+
+CalCompatConfig: {
+	DisplayName: Calamity Compatibility
+
+	UseCalamityMusic: {
+		Tooltip: If the Calamity Music Mod is enabled, plays the Calamity OST equivalent of the respective Fables track, if one exists
+		Label: "[i:{0}] Use Calamity Music"
+	}
+
+	ReplaceCalamity: {
+		Tooltip: Remove Calamity content that has a Fables equivalent. Calamity items that use replaced content in their recipes will be able to use the matching Fables items
+		Label: "[i:{0}] Remove Duplicate Calamity Content"
+	}
+
+	RemoveCalamityLoreFluff: {
+		Tooltip: Removes Calamity items that may contradict Fables lore (Lore items for now, potentially others in the future)
+		Label: "[i:{0}] Remove Lore Items"
+	}
+}

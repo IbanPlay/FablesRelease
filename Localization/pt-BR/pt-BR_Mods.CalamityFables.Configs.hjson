@@ -1,0 +1,65 @@
+// EntryTitle.CooldownDisplay: ""
+// EntryTooltip.CooldownDisplay: ""
+
+FablesConfig: {
+	DisplayName: Configuração Principal
+
+	SectionTitle: {
+		Graphics: Efeitos Visuais
+		UI: Interface de Usuário
+	}
+
+	VanillaCooldownDisplay: {
+		Tooltip: Faz efeitos como Enjoo de Poção e Estado de Caos aparecerem em exibições de cooldown customizadas ao invés da lista de efeitos
+		Label: "[i:{0}] Exibição do Cooldown para Efeitos Negativos do Vanilla"
+	}
+
+	CooldownDisplay: {
+		Tooltip: ""
+		Label: Estilo do Cooldown
+	}
+
+	ChromaticAbberationMultiplier: {
+		Tooltip: Multiplicador da Força de Aberração Cromática utilizada por alguns itens.
+		Label: "[i:{0}] Multiplicador de Aberração Cromática"
+	}
+
+	ScreenshakeMultiplier: {
+		Tooltip: Multiplicador da Força do efeito de Screenshake do Mod.
+		Label: "[i:{0}] Multiplicador de Screenshake"
+	}
+
+	FluidSimVFXEnabled: {
+		// Tooltip: Whether or not to use smoke simulation VFX, which may incur a performance cost for users with lower end GPUs
+		// Label: "[i:{0}] Use Smoke/Mist VFX"
+	}
+
+	ParticleLimit: {
+		Tooltip: O Límite de partículas em um instante, pode fazer ataques serem menos perceptíveis se deixado muito baixo.
+		Label: "[i:{0}] Limite de Partículas"
+	}
+
+	BossIntroCardsActivated: {
+		Tooltip: Ativa/Desativa as Cenas de Introdução de Chefes que ocorrem quando um chefe aparece.
+		Label: "[i:{0}] Cenas de Introdução de Chefes"
+	}
+}
+
+CalCompatConfig: {
+	DisplayName: Compatibilidade com Calamity
+
+	UseCalamityMusic: {
+		Tooltip: Se o Calamity Music Mod estiver ativado, reproduz o Trilha Sonora do Calamity equivalente à respectiva Trilha do Fables, se houver
+		Label: "[i:{0}] Utilizar Trilha Sonora Calamity"
+	}
+
+	ReplaceCalamity: {
+		Tooltip: Remove o conteúdo do Calamity que tem um equivalente no Fables. Os itens do Calamity que usam o conteúdo substituído em suas receitas poderão usar os itens correspondentes do Fables
+		Label: "[i:{0}] Remover conteúdos duplicados"
+	}
+
+	RemoveCalamityLoreFluff: {
+		Tooltip: Remove itens do Calamity que possam contradizer a lore do Fables (itens de lore por enquanto, potencialmente outros no futuro)
+		Label: "[i:{0}] Remover Itens de Lore"
+	}
+}

@@ -1,0 +1,22 @@
+ChaosState: Enfriamiento de Teletransporte
+PotionSickness: Enfriamiento de Curación
+Electrocells: Enfriamiento de la Descarga de Electrocélula
+PeculiarPotLife: Durabilidad de la Vasija Peculiar
+WarpPod: Enfriamiento de la Vaina de Teletransporte
+WarriorsAmphora: Enfriamiento del Teletransporte de Muerte
+WulfrumBastionRecharge: Enfriamiento del Bastión de Wulfrum
+WulfrumBastionDurability: Durabilidad de la Armadura de Poder
+WulfrumRoverDriveDurability: Durabilidad de la Matríz Protectora
+WulfrumRoverDriveRecharge: Recarga de la Matríz Protectora
+ShroomHookpointTimer: Tiempo de vida del Enganche Champiñón
+SyringeReload: Enfriamiento de la Jeringa
+EncasedHits: Durabilidad del Bloque de Hielo
+EncasedCooldown: Enfriamiento del Bloque de Hielo
+
+SettingOption: {
+	Label: "Estilo de Enfriamiento: "
+	Fancy: Elegante
+	Square: Cuadrado
+	Compact: Compacto
+	Disabled: Oculto
+}

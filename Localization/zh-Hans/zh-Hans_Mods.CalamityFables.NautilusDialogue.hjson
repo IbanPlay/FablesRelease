@@ -1,0 +1,79 @@
+ExampleForLocalizers: <d:0.3>d tag，或者这么写<delay:1></d>，是用来一个字一个字慢慢蹦的</d>。用来一字一顿地强调。注意，中文的一字一顿比英文慢不少，有的地方里面的时间可能得写长点。前面的汉化者找作者要求了中文省略号不能从中间断行的特性，一般排版应该是中文省略号更好看，但是如果省略号需要在一字一顿中间，就还是得换成六个点。<c:FF0000>十六进制颜色居然也得拿这一套实现。</c><s:1.4>s tag是字号缩放乘数，<size:0.7>嵌套的时候是覆盖而不是乘算，</s>注意中文写太小容易看不清，一些放大的地方局部字体大小之间的显著性也需要重新把握一下。</s>然后<a:FromTop>appear tag说的是文字出现时的动画</a>，而<m:Shake>movement tag</m>说的则是文字持续显示时出现的动画；动画指令列表在CharacterDisplacements.cs这个文件里。<s:2>各种标签都可以<s:4>嵌套</s>，这样就可以少打几个。</s>所有标签都按首字母识别，用<s:1.3>、<size:1.3>或者<spaghetti:1.3>都是一样的！以及，如果要持续到一整段结尾的话，所有标签都不需要手动结束。
+CharacterName: 瑙提螺斯爵士
+Asleep: <s:1.8><d:0.17><a:FromTop>......
+IntroWakeup: 呃？<d:0.6> </d><s:1.3><m:Empathis>哦！怎么搞的，敬礼！</s></m>很荣幸能在这么阴险的洞穴下面，遇到一位<c:afdc14><s:1.2>地表的居民</c></s>……
+IntroSecond: 也许，你会不会碰巧见过一支<c:2cdcff>大部队</c>啊？就是像我这样的士兵？我已经脱离队伍很久了……
+IntroThird: <d:0.25><s:1.1>......</s></d>没有啊？<d:0.4> </d><m:SmallShake><s:1.2>哈！</s></m>行吧。 那么再等一段时间大概也不会怎么样……
+IntroFourth: 无论如何，那些<d:0.04><s:1.2><m:SmallShake><c:f74d4d>敌人</c></m></s></d>还得有一阵子才会再打回来……
+PostIntroDuelProposition: 你看着挺精神的，有干劲。 我现在反正也是闲着，也许你<d:0.4>——</d>你能不能来跟我这条老干巴鱼比划比划，我们打个乐呵，<c:ffd144><s:1.3><m:Empathis>比试一架？
+RandomPreDefeatTextbox1: <m:SmallWave><d:0.03><s:0.7>......那些<c:f74d4d><s:0.9>烧杀抢掠的魔鬼</c></s>很快就会回来……我得做好准备……
+RandomPreDefeatTextbox2: 我不能再让我的<c:2cdcff>战友</c>失望了……<d:0.05><m:SmallWave>我需要变强。
+RandomPreDefeatTextbox3: 你来我这枯墓里看我，我很感激，不过我不会离开的。我必须把这儿看守好，防着<c:f74d4d><m:Empathis>他们</m></c>哪一天回到这里来，把那些事情做完。
+RandomPreDefeatTextbox4: 告诉你，我可是<c:2cdcff>海洋王国</c>皇家卫队的一员，外面都有不少人出钱买我这颗项上鱼头<d:0.2>......！</d>唉呀，砍掉我的头也不是什么容易事！
+FirstFightTextbox: <s:1.2><m:SmallShake>啊！</s></m> 我这把老骨头也很久没有实战了，但我一直在严格训练<d:0.6>！</d><c:ffe59b><d:0.1><s:1.3><a:FromTop><m:Shake>预备！<d:0.2><s:1.5><c:ffd144>起手式！
+RandomPostDefeatTextbox1: 我已经很久没有再去记时间了。老天注定了我就是守在这里的命，所以我把这些功夫都花在训练上了！
+RandomPostDefeatTextbox2: <d:0.1><s:1.1><m:SmallShake>哇！</d></s></m>我俩打的这一架把我这骨架子在这口洞穴里散得到处都是……谢天谢地，它们也不会一直就这么散着！
+RandomPostDefeatTextbox3: 请原谅我也许会反反复复叨叨……鬼魂是这样的，只会重复旧习惯。
+RandomPostDefeatTextbox4: 亲身经历了一下你这身手，我看你肯定还有大好的前途啊！<m:Empathis><s:1.1><d:0.08>日后他人问起，<s:1.2><d:0.1>你就说是我教的！
+RandomPostDefeatTextbox5: 你把我骨架子上的灰都震掉了，我可要谢谢你！我都不知道我这脑壳里居然进了这么多沙子！
+RandomPostDefeatTextbox6: 尽管跟水流拂过鳞片的感觉不太一样，但是<m:SmallWave>战斗真爽，像活过来了一样！
+RandomPostDefeatTextbox7: <s:1.1><d:0.03><c:28dcdc>辛伽锡恩？</c></d></s>他是我勇敢的战马。<m:SmallShake><s:0.9>他其实已经证明了自己<d:0.06>......</d></s></m>比我还要忠诚很多。我很有幸得此良伴。
+RandomPostDefeatTextbox8: <s:1.2><m:SmallShake>你说地表的墓碑上写的<d:1>是</d><s:1.5><m:Shake><d:0.3>啥？？？
+LongTimeNoSee1: <d:0.3><s:1.2><m:SmallShake>噢！</m></s></d>我们又见面了，朋友。我能感受到你已经变得更强了。这个世界一定给了你许多试炼的机会吧……
+LongTimeNoSee2: 我注意到你在不断的寻找更好更强大的武器！在下不过是个<c:af0616><d:0.05><s:1.1>网斗士</s></d></c>，可叹的是我的捕网早已朽烂！
+DuelWinTextbox1: 你现在并没有称手的武器……待你寻得称手的兵器，你我再战不迟。
+DuelWinTextbox2: 啊，不要为短暂的失败而踌躇失落。唯有经历挫败，方能愈发坚毅。
+DuelWinTextbox3: 不要沮丧，每个人都曾失败过！败给<c:28dcdc><s:1.1><d:0.15>辛伽锡恩</d></s></c>和在下，何耻之有？毕竟他和我是心意相通的搭档。
+DuelLoseTextbox1: <c:ffd144><s:1.2><m:SmallWave>准备好再来一次了吗？</m></s></c>这次定要叫<m:Shake><s:1.1>你</m></s>大败而归！
+DuelLoseTextbox2: 好久没有打过<s:1.2><m:Wave><d:0.3>这么</m></s></d>酣畅淋漓的战斗了！那，要不要再多比试比试？
+DuelLoseTextbox3: 已经回来再战了？老哥，像你这样投入的战士真少见呢！
+DuelLoseTextbox4: 哈！跟你战斗真刺激，这种感觉<d:0.1>......</d>我逃走的时候，我差点以为以后再也不会有了！
+NohitTextbox1: <m:Shake><d:0.12><s:1.5>你躲过了我的全部攻击？！？</m></d></s>这要是在当年，你就去那些大竞技场参加那些<c:af0616>见血的运动项目</c>，光凭这个你就能名利双收……
+NohitTextbox2: ……我甚至无法动你一根毫毛……熟能生巧，太神奇了！
+NohitTextboxRare: <d:0.17><s:2.5><a:FromTop>泰拉瑞亚——瑙提螺斯无伤
+OutmatchedTextbox1: <m:SmallShake>你这是什么武器，强到过分了！！这样我们还怎么做对练呢？！？
+OutmatchedTextbox2: <m:Shake><d:0.5><s:1.1>呸！</s></d></m>你倒是满意了，我可练了个寂寞<d:0.03><s:0.6>......<d:0.08>不过，也没什么。
+ProgressionDesertScourge: <m:SmallShake><s:1.1>啊！</s></m>你杀死了那些<m:SmallShake>恐怖轰隆声</m>的源头？我这一身枯骨倒是不能吃，不过就算是这口洞穴被震塌了，那也还有大麻烦喽，所以还是谢谢啦！
+ProgressionHardmode: 我对冥界的联系其实很微弱，不过即使是我，也能感觉到最近有些灵魂变得非常不安宁。<s:0.85>要我猜的话，这件事情跟你也有关系吧。
+DoppelgangerEasterEgg: <m:SmallShake><s:1.1>噗！</s></m>好，好，好，你穿上我的衣服，我差点没认出来呢。而且……你看啊，如此奇特的头盔；那些棱角分明的特征<d:0.12>......</d><s:1.1><m:SmallShake>啊！</s></m>算了，我最近总有这种奇怪的想法。
+LoreWhoAreYou1: <m:SmallWave><s:1.1>我是<s:1.2><c:2cdcff>瑙提螺斯爵士</c></s>，<c:2cdcff><s:1.2><d:0.03>海之骑士</d></s></c>，效忠于大<c:2cdcff><s:1.2>海洋王国</s></c>的统治者，<c:2cdcff><s:1.2>海王阿米迪亚斯</s></c>！
+LoreWhoAreYou2: 你不知道？我的天，你这是从多远的地方来的啊！
+LoreWhatAreYouDoing: ……我正要去训练呢，外敌环伺啊。那些<d:0.06><m:SmallShake><c:f74d4d>杀人犯</c></m></d>一定会回来的<d:0.2>......</d><d:0.1>是啊，那些<d:0.15><c:f74d4d>卑鄙的混蛋</c></d>……还会回来，而这一次……好吧，我已经下定决心了。
+LoreWhyHere: 我<d:0.5>-</d>，额，好吧。独处能帮助我更加专注，你懂的。我不仅要锻炼我的身体，还有我的意志！<d:0.1>为了……</d>审视内心，找到自己的<d:0.15>......</d>软弱之处。
+LorePreDefeatWhatNow1: <d:0.04><s:3><a:FromTop>……
+LorePreDefeatWhatNow2: ……哼！你真是个爱管闲事的家伙。哈哈，好吧，或许是我太习惯<d:0.05><s:1.1><c:28dcdc>辛伽锡恩</d></s></c>的安稳的陪伴了。
+LorePreDefeatWhatNow3: 若你能<c:ffd144>在决斗中击败我，</c>我就告诉你更多！<d:0.5>-</d>向我证明你的实力，你的正直，你才有资格传承的我的故事！
+LoreWhatReallyHappened1: <d:2> </d><m:SmallShake><s:1.3><d:0.2>......</d><d:0.1>我知道<c:2cdcff>王国</c>已经沦陷。</m></d></s><d:0.04>……虽未亲眼见证结局，但当我逃离时，沸腾的海水已灼伤我的皮肤。
+LoreWhatReallyHappened2: <d:0.05>而那些<d:0.1><s:1.1><c:f74d4d>入侵者</c></s></d><d:0.05>……！！ </d>他们并非血肉之躯！！是我们的同胞，逝去的亡者！不仅有士兵，而是所有死去的人<d:0.05><m:SmallShake>是亲人、朋友、孩童、我的……
+LoreWhatReallyHappened3: <m:SmallShake><s:1.6><d:1.2>......</s></d></m><d:0.04>啊……<s:1.1><c:2cdcff>阿米迪亚斯王</c></s><d:0.6>……
+LoreWhatReallyHappened4: 若我当时坚持到最后该多好！！这悔恨至今啃噬着我的骨髓！！ <m:SmallShake>正是它将我束缚在这可悲的洞穴！！
+LoreWhatHappenedToYou1: <d:0.04>逃亡时我躲进这些当时仍在海底的洞窟。那些<s:1.1><d:0.1><c:f74d4d>不死者</c></d></s>周身缠绕着即便水下仍不会熄灭的地狱之火，我猜它们会一直燃烧直到海水干涸为止。
+LoreWhatHappenedToYou2: 我们一族短期内离水尚可生存，但灾难将我困在此地，很快便彻底干涸。
+LoreSanity1: <d:0.06>我不敢说自己没疯过。</d><d:0.04>我曾无数次梦到那场战役。那些为保护民众而倒下的人，突然自燃，加入了<c:f74d4d>死灵军团</c>……
+LoreSanity2: <d:0.04>在那些噩梦里，我——我分不清自己为哪方而战。但万幸或不幸的是，每当我在洞窟醒来...总会记起自己逃亡至此，孤独消逝的现实。
+LorePostDefeatWhatNow1: 我很迷茫<d:0.15>......</d> 但我会继续呆在这里<d:0.15>......</d> 尽管这并不是我的选择。
+LorePostDefeatWhatNow2: 洋流的歌声早已被虫鸣取代，逝去的时光永不归来。<d:0.4>......</d><m:SmallShake>岁月更迭，我不过是过往的余响。
+LorePostDefeatWhatNow3: <d:0.4><s:3><a:FromTop>……
+LorePostDefeatWhatNow4: 请原谅我如此消沉！若因这悲伤故事将你赶走，我会愧疚难当。
+LorePostDefeatWhatNow5: <m:Shake><s:1.5><d:0.06><c:afdc14>就让你</c>! 来代替我前进吧！
+LorePostDefeatWhatNow6: 一想到你将不断成长蜕变，我便感到莫大慰藉。
+LorePostDefeatWhatNow7: 去看看大千世界，忘记我这条老鱼的悲伤吧，就像我曾经做的那样！
+LorePostDefeatWhatNow8: 无论如何，你都要收下这枚<c:2cdcff>皇家吊坠</c>作为羁绊的见证！虽然它并不值钱，但我希望他能提醒你常回来看看我！
+LoreWhatsUp1: 唉，除了你的造访，这里一如既往乏善可陈。
+LoreWhatsUp2: 嗯<d:0.2>……</d>对了，你有看见我的族人吗？我很想知道是否有同胞幸存……
+
+Buttons: {
+	StartFightPreDefeat: 挑战
+	StartFightPostDefeat: 对练
+	StartFightHypedUp1: 太棒了！
+	StartFightHypedUp2: 放马过来吧！
+	LoreButtonPreDefeat: 你是谁？
+	LoreButtonWhatHappened: 之前发生了什么？
+	WhyHerePreDefeat: 你为什么在这儿？
+	WhatAreYouDoingPreDefeat: 你在这里干什么？
+	WhatHappenedPostDefeat: 你这是经历了什么？
+	HowDidYouStaySanePostDefeat: 你是怎么保持理智的？？
+	WhatNowPreDefeat: 那现在怎么办？
+	WhatNowPostDefeat: 那现在怎么办？
+	WhatsUpPostDefeat: 咋了？
+}

@@ -1,0 +1,79 @@
+ExampleForLocalizers: <d:0.5>The d tag, or <delay:1></d> are tags used to indicate the time between letters. Used for empathis, usually</d>. <c:FF0000>The c tag is the color tag, uses a hex code.</c> <s:3> the s tag, or <size:0.2>size tag</s> changes the font size multiplier.</s>. The <a:FromTop> appear tag denotes animations used by characters when appearing </a>, and similarly, the <m:Shake> movement tag</m> denotes the movement of the text after it has appeared; The keys for the potential animations can be found in CharacterDisplacements.cs. <s:2> Tags can be <s:4>nested</s>, for convenience </s>. As a note, all tags only care about the first letter used, so you could use <s:1>, <size:1>, or <spaghetti:1>, and they all would work! Also, you're not obligated to close tags that trail at the end of a setence. You just have to close them if you want to prevent them from interfering with the rest of the setence
+CharacterName: Sir Nautilus
+Asleep: <s:1.8><d:0.2><a:FromTop>. . .
+IntroWakeup: Mh?<d:0.6> </d><s:1.1><m:Empathis>Oh! Why, salutations! </s></m>What luck to find <c:afdc14><s:1.1>a surface-dweller</c></s> in these treacherous depths...
+IntroSecond: Perchance, have you come across a <c:2cdcff>battalion</c> of soldiers like myself? I have been separated from them for quite some time...
+IntroThird: <d:0.25><s:1.1>... </s></d>You have not?<d:0.4> </d><m:SmallShake><s:1.1>Hah!</s></m> Of course. I suppose waiting a bit longer wouldn't hurt anyone...
+IntroFourth: After all, there is still time before <d:0.04><s:1.1><m:SmallShake><c:f74d4d>the enemy</c></m></s></d> strikes back...
+PostIntroDuelProposition: Say, you seem vivacious and full of spirit. I have time to spare <d:0.4>-</d> would you, perhaps, humor an old fish with <c:ffd144><s:1.1><m:Empathis>a friendly duel?
+RandomPreDefeatTextbox1: <m:SmallWave><d:0.03><s:0.6>...those <c:f74d4d><s:0.65>marauding devils</c></s> may soon return... I must prepare...
+RandomPreDefeatTextbox2: I cannot let my <c:2cdcff>companions</c> down again...<d:0.05><m:SmallWave> I must become stronger.
+RandomPreDefeatTextbox3: I appreciate that you have unsealed my tomb, but I shall not be going anywhere. I must stand guard in case <c:f74d4d><m:Empathis>they</m></c> come back to finish what they started.
+RandomPreDefeatTextbox4: As part of the royal guards of the <c:2cdcff>Sea Kingdom</c>, my head would be quite the prize<d:0.2>...!</d> Alas, taking my head would be no easy feat!
+FirstFightTextbox: <s:1.1><m:SmallShake>Ah!</s></m> These old bones have not seen battle in a long time, but I have still been training rigorously!<d:0.6> </d><c:ffd144><d:0.04><s:1.3><a:FromTop><m:Shake>En garde!
+RandomPostDefeatTextbox1: I stopped keeping track of time long ago. Fate saw it fit that I would never leave, so I put my mind to training instead!
+RandomPostDefeatTextbox2: <d:0.04><s:1.1><m:SmallShake>WOW!</d></s></m> That bout of ours scattered my bones all about the cavern... Thankfully, they never stay apart for long!
+RandomPostDefeatTextbox3: Forgive me if I happen to repeat myself... Ghosts tend to fall into old habits.
+RandomPostDefeatTextbox4: Having experienced your fighting skills firsthand, I can tell you have a grand future ahead of you! <m:Empathis><s:1.1><d:0.03>If anyone asks, I was your instructor!
+RandomPostDefeatTextbox5: Have I thanked you for shaking all the dust off my bones yet? I had not realized how much sand was clogging up my skull!
+RandomPostDefeatTextbox6: Even if it does not match the feeling of water on my scales, <m:SmallWave>the thrill of dueling makes me feel so alive!
+RandomPostDefeatTextbox7: <s:1.1><d:0.03><c:28dcdc>Signathion?</c></d></s> He is my brave steed. <m:SmallShake><s:0.9>He has shown<d:0.13>...</d></s></m> far more loyalty than I. I am glad to have him with me.
+RandomPostDefeatTextbox8: <s:1.2><m:SmallShake>The grave on the surface said <s:1.5><m:Shake><d:0.15>WHAT???
+LongTimeNoSee1: <d:0.05><s:1.1><m:SmallShake>Oh! </m></s></d>We meet again, friend. I can sense that you have grown much stronger. The world must provide you plenty of opportunities for training...
+LongTimeNoSee2: I see you are constantly finding better and stronger weapons! Unfortunately for me, I was only trained as a <c:af0616><d:0.05><s:1.1>retiarius</s></d></c>, and alas, my net has rotted away!
+DuelWinTextbox1: Your equipment may be lacking... Find yourself a more worthy weapon, and we can duel again.
+DuelWinTextbox2: Ah, do not feel too bad about losing our duel. Improvement can only come after experiencing loss.
+DuelWinTextbox3: Do not feel down, everyone has their losses! Losing to <c:28dcdc><s:1.1><d:0.04>Signathion</d></s></c> and me is nothing to be ashamed of! After all, we work in perfect tandem.
+DuelLoseTextbox1: <c:ffd144><s:1.1><m:SmallWave>Ready for a rematch?</m></s></c> I'll be sure to kick <m:Shake>your</m> bucket this time!
+DuelLoseTextbox2: It's been forever since I've had a fight <s:1.2><m:Wave>THIS</m></s> exhilarating! Say, would you like to spar once more?
+DuelLoseTextbox3: Already back for more? Fighters as devoted as you are a rarity, my friend!
+DuelLoseTextbox4: Ha! Fighting you has been a thrill, this feeling<d:0.2>...</d> once I had fled, I had thought I would never be blessed by it again!
+NohitTextbox1: <m:Shake><d:0.04><s:1.5>You managed to dodge all of my attacks?!?</m></d></s> You could have made a living off the fame and riches from participating in the <c:af0616>blood sports</c> of the colosseum, back in the days...
+NohitTextbox2: ...I couldn't even manage to land a single hit on you... Practice truly does make perfect!
+NohitTextboxRare: <d:0.05><s:2.5><a:FromTop>Terraria - Nautilus No Damage
+OutmatchedTextbox1: <m:SmallShake>Your weaponry is giving you an unfair advantage!! How is one supposed to train under these circumstances?!?
+OutmatchedTextbox2: <m:Shake><d:0.05><s:1.1>Pah!</s></d></m> I hope you do not feel satisfaction from your victory, it was hardly earned <d:0.04><s:0.6> ...No hard feelings, though.
+ProgressionDesertScourge: <m:SmallShake><s:1.1>Ah!</s></m> Have you slain the source of those <m:SmallShake>dreadful rumbles</m>? These bones of mine aren’t fit for a meal, but it would be quite the conundrum if this cavern collapsed, so you have my thanks!
+ProgressionHardmode: My connection to the afterlife is rather tenuous, but even I can tell the spirits have become quite rambunctious as of late. <s:0.8> If I were to guess, you probably have some part in that affair.
+DoppelgangerEasterEgg: <m:SmallShake><s:1.1>Mmph!</s></m> Well, well, well, I hardly recognized you, wearing my armor. And... say, what a peculiar helmet; those chiseled features<d:0.15>... </d><s:1.1><m:SmallShake>Ah!</s></m> Never mind me, such odd thoughts cross my mind at times.
+LoreWhoAreYou1: <m:SmallWave><s:1.1>I am <s:1.2><c:2cdcff>Sir Nautilus</c></s>, a <c:2cdcff><s:1.2><d:0.03>Knight of the Sea</d></s></c> serving under <c:2cdcff><s:1.2>King Amidias</s></c>, ruler of the great <c:2cdcff><s:1.2>Sea Kingdom</s></c>!
+LoreWhoAreYou2: It is unfamiliar to you? My, you must have traveled from quite far away!
+LoreWhatAreYouDoing: ...I am on leave to train, as I must be prepared for the encroaching threat. Those <d:0.06><m:SmallShake><c:f74d4d>murderers</c></m></d> will certainly return<d:0.4>...</d><d:0.04> yes, those <d:0.05><c:f74d4d>vile bastards</c></d>... they will return, and this time... Well, I have steeled myself.
+LoreWhyHere: I<d:0.5>-</d>er, well. This solitude allows me to focus, you see. I must train not only my body, but also my mind! <d:0.1>To... </d>To look within myself, and see where I am<d:0.15>...</d> weak.
+LorePreDefeatWhatNow1: <d:0.04><s:3><a:FromTop>...
+LorePreDefeatWhatNow2: ...Hmph! You are quite the nosy fellow. Haha, well, perhaps I have grown too accustomed to <d:0.05><s:1.1><c:28dcdc>Signathion</d></s></c>’s quiet company.
+LorePreDefeatWhatNow3: I will impart more information if you can <c:ffd144>defeat me in a duel!</c><d:0.5>-</d> Prove to me with your strength, your integrity, that you are the right one to pass on my tale!
+LoreWhatReallyHappened1: <d:2> </d><m:SmallShake><s:1.3><d:0.2>...</d><d:0.1>I know that the <c:2cdcff>Kingdom</c> has fallen. </m></d></s><d:0.04>...I never saw the outcome of the battle myself, but even as I fled, my skin blistered in the boiling water.
+LoreWhatReallyHappened2: <d:0.05>And the <d:0.1><s:1.1><c:f74d4d>invaders</c></s></d><d:0.05>...!! </d>They were not of flesh and blood!! They were our own, our fallen! Not only soldiers, but all of our dead! <d:0.05><m:SmallShake> Family, friends, children... my...
+LoreWhatReallyHappened3: <m:SmallShake><s:1.6><d:1.2>...</s></d></m><d:0.04> Oh... <s:1.1><c:2cdcff>King Amidias </c></s><d:0.6>...
+LoreWhatReallyHappened4: If only I had remained loyal to the end!! My very bones still ache with regret!! <m:SmallShake>It is what ties me to this wretched cavern!!
+LoreWhatHappenedToYou1: <d:0.04>When I fled, I escaped to these caverns, still beneath the ocean at the time. Those... <s:1.1><d:0.1><c:f74d4d>undead</c></d></s>, were wreathed in hellfire that blazed even underwater. I imagine that they burned until the water evaporated.
+LoreWhatHappenedToYou2: Our kind can manage without water for a short period, but the destruction also trapped me here, and soon, I dried out.
+LoreSanity1: <d:0.06>I cannot say that I did not go mad. </d><d:0.04>There have been times I dreamt, reliving memories of that battle. Those who fell protecting our people, bursting into flame to join the <c:f74d4d>ranks of the undead</c>...
+LoreSanity2: <d:0.04>I—I could not tell on which side I fought in those nightmares. But for better or worse, when I wake up in this cavern... I remember that I had fled, and died here instead.
+LorePostDefeatWhatNow1: I am rather uncertain<d:0.15>...</d> but I shall remain here<d:0.15>...</d> not that I have much choice in the matter.
+LorePostDefeatWhatNow2: The song of the ocean’s currents has long since been replaced by the chitter of insects, and there is nothing that can bring it back<d:0.4>...</d><m:SmallShake> the times have changed and I am a relic of the past.
+LorePostDefeatWhatNow3: <d:0.4><s:3><a:FromTop>...
+LorePostDefeatWhatNow4: Pardon me for getting so gloomy! I would not be able to bear the thought of driving you away because of my sob story.
+LorePostDefeatWhatNow5: <m:Shake><s:1.5><d:0.06><c:afdc14>You</c>! For me, continue onwards!
+LorePostDefeatWhatNow6: I feel great solace in knowing that you will continue to grow and change.
+LorePostDefeatWhatNow7: See what there is to see, and forget this old fish’s sorrows, as I have!
+LorePostDefeatWhatNow8: Anyhow, please take this <c:2cdcff>royal medallion</c> as a token of our bond! It’s not much, but I hope it reminds you to pay me a visit from time to time!
+LoreWhatsUp1: Well, apart from your visits, it unfortunately remains quite uneventful here.
+LoreWhatsUp2: Hmmm<d:0.2>...</d> say, have you met any of my kin? I am quite eager to know if any of them remain...
+
+Buttons: {
+	StartFightPreDefeat: Challenge
+	StartFightPostDefeat: Spar
+	StartFightHypedUp1: Hell yeah!
+	StartFightHypedUp2: Let's go!
+	LoreButtonPreDefeat: Who're you?
+	LoreButtonWhatHappened: What happened?
+	WhyHerePreDefeat: Why here?
+	WhatAreYouDoingPreDefeat: What are you doing?
+	WhatHappenedPostDefeat: What happened to you?
+	HowDidYouStaySanePostDefeat: How'd you stay sane??
+	WhatNowPreDefeat: What now?
+	WhatNowPostDefeat: What now?
+	WhatsUpPostDefeat: What's up?
+}

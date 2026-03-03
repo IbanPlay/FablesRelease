@@ -1,0 +1,209 @@
+ItemTooltipExtras: {
+	ComicallySlowSpeed: Comically slow
+	CannotCrit: Cannot critically strike
+	SludgeSlapSlimelingDamage: "{0} damage per Slimeling"
+	ToxicBlowpipeAcidExplosionDamage: "{0} damage per acid detonation"
+	FanaticalMaskTendrilDamage: "{0} damage from Blood Tendril"
+	ResonanceDamage: "{0} damage per Resonance"
+	TornElectrosacFullyChargedDamage: Fully charged throws deal {0} extra damage in an AoE
+	AmpstringBowElectricFieldDamage: "{0} damage per electric field tick"
+	DetonationDamage: "{0}-{1} damage per detonation"
+	StormlionWhipTickDamage: "{0} damage while hooked"
+	DrownedScripturesHorrorDamage: "{0}-{1} damage from Abyssal Horror"
+}
+
+ArmorSetBonus: {
+	MarniteArchitect: {
+		Title: Marnite Lift - You can summon a lift under your feet to reach higher up
+		Tooltip1: The lift gets summoned when the mount hotkey gets pressed [c/D4C870:without any mounts equipped]
+		Tooltip2: Using the Up and Down keys can change the lift's height
+	}
+
+	DesertProwler: {
+		Title: Dust Devil - Running on the ground swirls up a dust devil around you
+		Tooltip1: When the dust devil is fully charged, you can perform a charged sandstorm jump by jumping and holding UP
+		Tooltip2: During the boosted jump, gain an extra {0}% ranged damage
+	}
+
+	Sailfish: {
+		Title: Royal Steed - You can call forth a royal jousting Velocicampus to ride upon
+		Tooltip1: The steed gets summoned when the mount hotkey gets pressed [c/be9137:without any mounts equipped]
+		Tooltip2: "{0}% increased melee critical strike chance when riding the mount"
+		Tooltip3: Spears and jousting lances gain an extra {0} damage boost
+	}
+
+	Wulfrum: {
+		Title: Wulfrum Bastion - Double tap {0} while dismounted to equip wulfrum power armor
+		Tooltip1: While the armor is active your defensive stats are increased, but you can only use the integrated fusion cannon
+		Tooltip2: Calling down the armor consumes one piece of [c/b0e97a:wulfrum metal scrap], and the armor will lose durability faster when hit
+		ExpandCannonInfo: Hold SHIFT to see the stats of the fusion cannon
+	}
+
+	IceHat: Mana Condensation - Greatly increased mana regeneration while encased
+}
+
+SirNautilusPhase1Name: Nautilus and Signathion
+HeatHazeSprite: Mirage Sprite
+
+MapIcons: {
+	SealedChamber: Sealed Chamber
+	WarpPod: Warp Pod
+}
+
+ModMenus.ElysiumMenu: Gilded Neverland
+
+WorldgenTasks: {
+	VanityTrees: Performing esoteric forestry
+	SealedChamber: Staining a sanctuary with blood
+	DesertGraveyard: Burying the fallen
+	ScourgeFossils: Drying up sealife
+	Hookstaff: Rustling mycelium
+	WulfrumScrapyard: Discarding broken machinery
+	CleanupPass: Tidying up decorations
+	DebugDesertWorld: The Rapture
+}
+
+DesertGravestones: {
+	Nautilus: In memory of Sir Nautilus and his willing sacrifice for the safe escape of King Amidias. May the currents bring him peacefully to the great sea beyond.
+	Inscription1: In honor of those who lost their lives defending the Kingdom and her people.
+	Inscription2: May the soldiers of the Sea Kingdom find eternal rest beneath these bloodied sands.
+	Inscription3: This burial site marks the last stand of the Sea Kingdom's army.
+	Inscription4: Here lie not only warriors, but fathers, mothers, sons and daughters. With all our hearts we pray this be their true, final rest.
+	Inscription5: Deep beneath this cemetery lies the ruined Azure City, buried by sand, and the ashes of those who fought and died with it.
+	Inscription6: May those who come after ensure the bravery of the warriors who fought, and the cruelty of the torment that befell us, is not forgotten.
+	Inscription7: In memory of those whose courage never wavered, even when faced with a hopeless enemy.
+	Inscription8: No corpses lie in these graves, rather, they rest far below. By the ruins of the city they defended, this cross shall stand and say they dwell among their own.
+	Inscription9: May {0}'s courageous heart find rest in the great sea beyond.
+	Inscription10: Our ray of sunshine, {0}, taken from us too soon.
+	Inscription11: A gentle soul born into cruel times.
+	Inscription12: So long as we live on, {0}'s legacy does not end here.
+	Inscription13: May you sleep peacefully under the seabed.
+	Inscription14: Here lies {0}, a shining star extinguished, by the terrible depths.
+	Inscription15: We will meet again as stars, one day.
+	Name1: Anemone
+	Name2: Abzu
+	Name3: Baleen
+	Name4: Tridacna
+	Name5: Cobalt
+	Name6: Glaucus
+	Name7: Levy
+	Name8: Duke Sharptail
+	Name9: Triton
+	Name10: Azurite
+	Name11: Bermuda
+	Name12: Spiralia
+	Name13: Aculeatus
+	Name14: Ventricosus
+	Name15: Pharida
+	Name16: Oegope
+	Name17: Taonii
+	Name18: Platycon
+	Name19: Janolus
+	Name20: Costasiella
+	Name21: Elysia
+	Name22: Caiman
+	Name23: Argus
+	Name24: Officer Mora
+	Name25: Homar
+	Name26: Diasetos
+	Name27: Sebae
+	Name28: Aurea
+	Name29: Oro
+	Name30: Acantha
+	Name31: Conoa
+}
+
+DeathMessages: {
+	DesertScourgeChungry: {
+		1: "{0} became pulp for orange juice."
+		2: "{0} is the bait now."
+		3: "{0} became a nice snack."
+		4: "{0} was seasoning for the main course."
+	}
+
+	DesertScourgeSkullCrush: {
+		1: "{0} was mauriced."
+		2: Gravity was a calamity to {0}'s kingdom.
+		3: "[i:{1}][i:{1}][i:{1}] {0} [i:{1}][i:{1}][i:{1}]"
+		4: "{0} got boned."
+		5: "{0} fell victim to Newton�s law of gravity."
+	}
+
+	DesertScourgeAntlionSpit: "{0} was melted away."
+
+	DesertScourgeElectroblast: {
+		1: "{0} had a death to ponder."
+		2: "{0} had quite the shocking experience."
+		3: "{0} will have quite the electricity bill this month."
+	}
+
+	CrabulonSpores: {
+		1: "{0} became part of the mycelial hive mind."
+		2: The mushroom caves deemed {0} as a fitting new host.
+		3: "{0} erupted into spores."
+		4: "{0} has been assimilated."
+		5: "{0} will make for a nice ceiling ornament."
+	}
+
+	CrabulonDropSlam: {
+		1: "{0} got flattened into a mushroom flavored pancake."
+		2: "{0} became mushroom fertilizer."
+		3: Crabulon accelerated {0}'s untimely decomposition.
+		4: "{0} did not have mush room to dodge."
+	}
+
+	CrabulonClaw: {
+		1: "{0} is feeling blue."
+		2: "{0} may end up stirred into a healing potion someday."
+		3: "{0} forfeited their body to the mushroom caves."
+		4: "{0} has been harvested."
+	}
+
+	SandTwisterFall: {
+		1: "{0} made a deal with the dust devil."
+		2: "{0} got screwed up."
+		3: "{0} got it twisted."
+		4: The sandman laid {0} to rest.
+	}
+
+	OpulentSelfInjection: {
+		1: "{0} has a newfound fear of needles."
+		2: "{0} was a victim of their own malpractice."
+	}
+
+	OpulentInjection: {
+		1: "{0} has a newfound fear of needles."
+		2: "{0} was a victim of {1}'s malpractice."
+	}
+
+	OpulentOverdose: {
+		1: "{0} forgot to read the side effects."
+		2: "{0} got a taste of their own medicine."
+		3: "{0}'s organs exploded."
+	}
+}
+
+OpulentDartgunNurseDialogue: {
+	1: You did this entirely to yourself.
+	2: There's just some problems I can't fix.
+	3: This isn't a rehab clinic.
+}
+
+BiomeGravestones: {
+	Default: Regular Graves
+	Disabled: No Graves
+	BiomeMatching: Matches Biome
+	Random: Random Style
+	Desert: Sandstone Graves
+	Snow: Icy Graves
+	Jungle: Jungle Graves
+	Hell: Ashen Graves
+	Corruption: Corrupt Graves
+	Crimson: Crimson Graves
+	Hallow: Pearlstone Graves
+	Sky: Sky Graves
+	Beach: Palmwood Graves
+	GlowingMushroom: Mycelial Graves
+}
+
+Misc.or: or

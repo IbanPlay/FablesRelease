@@ -1,0 +1,65 @@
+EntryTitle.CooldownDisplay: ""
+EntryTooltip.CooldownDisplay: ""
+
+FablesConfig: {
+	DisplayName: Основная конфигурация
+
+	SectionTitle: {
+		Graphics: Настройки визуальных эффектов
+		UI: Пользовательский интерфейс
+	}
+
+	VanillaCooldownDisplay: {
+		Tooltip: Отображает дебаффы «{$BuffName.PotionSickness}» и «{$BuffName.ChaosState}» в панели интерфейса с перезарядками вместо списка баффов
+		Label: "[i:{0}] Отображение перезарядки ванильных дебаффов"
+	}
+
+	CooldownDisplay: {
+		Tooltip: ""
+		Label: Отображение перезарядки
+	}
+
+	ChromaticAbberationMultiplier: {
+		Tooltip: Множитель силы эффекта хроматической аберрации, используемого некоторыми предметами
+		Label: "[i:{0}] Сила эффекта хроматической аберрации"
+	}
+
+	ScreenshakeMultiplier: {
+		Tooltip: Множитель силы эффектов дрожания экрана из этого мода
+		Label: "[i:{0}] Сила дрожания экрана"
+	}
+
+	FluidSimVFXEnabled: {
+		// Tooltip: Whether or not to use smoke simulation VFX, which may incur a performance cost for users with lower end GPUs
+		// Label: "[i:{0}] Use Smoke/Mist VFX"
+	}
+
+	ParticleLimit: {
+		Tooltip: Максимальное количество частиц, которое может существовать одновременно. Снижение этого значения меньше значения по умолчанию делает телеграфы атак боссов менее заметными.
+		Label: "[i:{0}] Максимальное количество частиц"
+	}
+
+	BossIntroCardsActivated: {
+		Tooltip: Включает анимированные вступительные заставки при появлении боссов
+		Label: "[i:{0}] Вступительные заставки боссов"
+	}
+}
+
+CalCompatConfig: {
+	DisplayName: Совместимость с Calamity
+
+	UseCalamityMusic: {
+		Tooltip: Если установлен Calamity Music Mod, то вся музыка Fables будет заменена на соответствующие треки из Calamity (при их наличии)
+		Label: "[i:{0}] Использовать саундтрек из Calamity"
+	}
+
+	ReplaceCalamity: {
+		Tooltip: Удаляет контент Calamity, аналоги которого есть в Fables. Предметы Calamity, для создания которых необходимы заменённые предметы, будут использовать аналоги из Fables.
+		Label: "[i:{0}] Удалить повторяющийся контент из Calamity"
+	}
+
+	RemoveCalamityLoreFluff: {
+		Tooltip: Удаляет предметы Calamity, которые могут противоречить лору Fables (в настоящее время к таким относятся предметы-истории, но возможно и что-то ещё в будущем)
+		Label: "[i:{0}] Удалить предметы с лором"
+	}
+}

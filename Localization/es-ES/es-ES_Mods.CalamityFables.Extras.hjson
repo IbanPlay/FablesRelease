@@ -1,0 +1,209 @@
+ItemTooltipExtras: {
+	ComicallySlowSpeed: Cómicamente lento
+	CannotCrit: No puede hacer daño crítico
+	SludgeSlapSlimelingDamage: "{0} de daño por Slimeling"
+	ToxicBlowpipeAcidExplosionDamage: "{0} de daño por explosión ácida"
+	FanaticalMaskTendrilDamage: "{0} de daño por Tentáculo de Sangre"
+	ResonanceDamage: "{0} de daño por Resonancia"
+	TornElectrosacFullyChargedDamage: Lanzamientos completamente cargados hacen un extra {0} de daño en AdE
+	AmpstringBowElectricFieldDamage: "{0} de daño por tic del campo eléctrico"
+	DetonationDamage: "{0}-{1} de daño por detonación"
+	StormlionWhipTickDamage: "{0} de daño al estar enganchado"
+	DrownedScripturesHorrorDamage: "{0}-{1} de daño por el Horror Abisal"
+}
+
+ArmorSetBonus: {
+	MarniteArchitect: {
+		Title: Ascensor de Marnita - Puedes invocar un ascensor debajo tuyo para alcanzar más alto
+		Tooltip1: El ascensor es invocado al presionar la tecla de montura [c/D4C870:sin tener una montura equipada]
+		Tooltip2: Usar las teclar Arriba y Abajo cambian la altura del ascensor
+	}
+
+	DesertProwler: {
+		Title: Diablillo de Polvo - Correr en el suelo arremolina un diablillo de polvo alrededor de ti
+		Tooltip1: Cuando el diablillo de polvo está completamente cargado, puedes hacer un salto cargado de arena saltando y manteniendo ARRIBA
+		Tooltip2: Durante el salto, ganas un extra {0}% de daño a distancia
+	}
+
+	Sailfish: {
+		Title: Montura Real - Puedes llamar a un Velocicampo Real de Justas para montar
+		Tooltip1: La montura es invocada al presionar la tecla de montura [c/be9137:sin tener una montura equipada]
+		Tooltip2: Incrementa la probabilidad de ataque crítico cuerpo a cuerpo en un {0}% cuando montas
+		Tooltip3: Las lanzas y las lanzas de justas reciben una bonificación extra de {0} de daño
+	}
+
+	Wulfrum: {
+		Title: Bastión de Wulfrum - Pulsa dos veces {0} sin estar montado para equipar la armadura de poder de wulfrum
+		Tooltip1: Mientras la armadura está activa tus estadísticas defensivas son incrementadas, pero solo puedes usar el cañón de fusión integrado
+		Tooltip2: Usar la armadura consume una pieza de [c/b0e97a:chatarra de wulfrum], y la armadura perderá durabilidad más rapido al ser golpeada
+		ExpandCannonInfo: Presiona SHIFT para ver las estadísticas del cañón de fusión
+	}
+
+	IceHat: Condensación de Maná - Aumenta considerablemente la regeneración de maná al encerrarse
+}
+
+SirNautilusPhase1Name: Nautilo y Signatión
+HeatHazeSprite: Duendecillo Espejismo
+
+MapIcons: {
+	SealedChamber: Cámara Sellada
+	WarpPod: Vaina de Teletransporte
+}
+
+ModMenus.ElysiumMenu: Nunca Jamás Dorado
+
+WorldgenTasks: {
+	VanityTrees: Realizando silvicultura esotérica
+	SealedChamber: Manchando un santuario con sangre
+	DesertGraveyard: Enterrando a los caídos
+	ScourgeFossils: Secando vida marina
+	Hookstaff: Moviendo el micelio
+	WulfrumScrapyard: Descartando maquínaria rota
+	CleanupPass: Ordenando las decoraciones
+	DebugDesertWorld: El Juicio
+}
+
+DesertGravestones: {
+	Nautilus: En memoria de Sir Nautilo y su sacrificio por el escape del Rey Amidias. Que las corrientes lo lleven al Gran Mar del más allá.
+	Inscription1: En honor a quienes perdieron la vida defendiendo al Reino y su gente
+	Inscription2: Que los soldados del Reino del Mar encuentren descanso eterno bajo estas arenas.
+	Inscription3: Este entierro marca la última batalla del ejército del Reino del Mar.
+	Inscription4: Aquí yacen no sólo guerreros, sino también padres, madres, hijos e hijas. Con nuestros corazones rezamos para que este sea su descanso final y eterno.
+	Inscription5: En las profundidades de este cementerio yacen las ruinas de Ciudad Azul, enterradas por la arena y las cenizas de aquellos que pelearon y murieron con ella.
+	Inscription6: Que aquellos que vengan después se aseguren de que la valentía de los guerreros que pelearon, y la crueldad de la tormenta que nos ocurrió, no se olvide nunca.
+	Inscription7: En memoria de aquellos cuyo coraje nunca flaqueó, incluso al encararse con un enemigo sin esperanza.
+	Inscription8: En estas tumbas no yace ningún cuerpo, sino que descansan en lo profundo. Junto a las ruinas de la ciudad que defendieron, esta cruz estará en pie y dirá que viven entre los suyos.
+	Inscription9: Que el corazón valiente de {0} encuentre descanso en el gran mar del más allá.
+	Inscription10: Nuestro rayo de sol, {0}, que nos quitaron demasiado pronto.
+	Inscription11: Un alma gentil nacida en tiempos crueles.
+	Inscription12: Mientras vivamos, el legado de {0} no termina aquí.
+	Inscription13: Que descanses en paz en el fondo marino.
+	Inscription14: Aquí yace {0}, una estrella brillante extinguida por las terribles profundidades.
+	Inscription15: Algún día nos volveremos a ver, como estrellas.
+	Name1: Anemona
+	Name2: Abzu
+	Name3: Baleen
+	Name4: Tridacna
+	Name5: Cobalto
+	Name6: Glaucus
+	Name7: Levy
+	Name8: Duque Colafilo
+	Name9: Tritón
+	Name10: Azurita
+	Name11: Bermuda
+	Name12: Spiralia
+	Name13: Aculeatus
+	Name14: Ventricosus
+	Name15: Pharida
+	Name16: Oegope
+	Name17: Taonii
+	Name18: Platycon
+	Name19: Janolus
+	Name20: Costasiella
+	Name21: Elysia
+	Name22: Caimán
+	Name23: Argus
+	Name24: Oficial Mora
+	Name25: Homar
+	Name26: Diasetos
+	Name27: Sebae
+	Name28: Aurea
+	Name29: Oro
+	Name30: Acantha
+	Name31: Conoa
+}
+
+DeathMessages: {
+	DesertScourgeChungry: {
+		1: "{0} se volvió pulpa para jugo de naranja."
+		2: "{0} es el cebo ahora."
+		3: "{0} se volvió un bocadillo."
+		4: "{0} era condimento para el plato principal."
+	}
+
+	DesertScourgeSkullCrush: {
+		1: A {0} lo mauriciaron.
+		2: La gravedad fue una calamidad para el reino de {0}.
+		3: "[i:{1}][i:{1}][i:{1}] {0} [i:{1}][i:{1}][i:{1}]"
+		4: Le metieron el hueso a {0}
+		5: "{0} fue víctima de la ley de gravedad de Newton."
+	}
+
+	DesertScourgeAntlionSpit: "{0} se derritió."
+
+	DesertScourgeElectroblast: {
+		1: "{0} tiene una muerte en la que pensar."
+		2: "{0} tuvo una experiencia muy impactante."
+		3: "{0} tendrá que pagar más por la luz este mes."
+	}
+
+	CrabulonSpores: {
+		1: "{0} se volvió parte de la mente colmena micelial."
+		2: Las cuevas champiñón consideraron a {0} un huésped apropiado.
+		3: "{0} estalló en esporas."
+		4: Asimilaron a {0}.
+		5: "{0} hace de buen adorno en el techo."
+	}
+
+	CrabulonDropSlam: {
+		1: Aplastaron a {0} en una tortilla de champiñón.
+		2: "{0} se volvió fertilizador para champiñón."
+		3: Crabulón aceleró la decomposición de {0}.
+		4: "{0} no tenía musgo lugar para esquivar."
+	}
+
+	CrabulonClaw: {
+		1: "{0} se siente azul."
+		2: "{0} terminará en una poción curativa algún día."
+		3: "{0} le dió su cuerpo a las cuevas champiñón."
+		4: Cosecharon a {0}.
+	}
+
+	SandTwisterFall: {
+		1: "{0} hizo un trato con el diablillo de polvo."
+		2: Atornillaron a {0}.
+		3: Revolvieron a {0}.
+		4: El Hombre de Arena dejó descansar a {0}.
+	}
+
+	OpulentSelfInjection: {
+		1: "{0} le tiene un nuevo miedo a las agujas."
+		2: "{0} fue víctima de su propia negligencia."
+	}
+
+	OpulentInjection: {
+		1: "{0} le tiene un nuevo miedo a las agujas."
+		2: "{0} fue víctima de la negligencia de {1}."
+	}
+
+	OpulentOverdose: {
+		1: "{0} se olvidó de leer los efectos secundarios."
+		2: "{0} probó su propia medicina."
+		3: Los órganos de {0} explotaron.
+	}
+}
+
+OpulentDartgunNurseDialogue: {
+	1: Tú te hiciste esto sin ayuda de nadie.
+	2: Hay problemas que no puedo arreglar.
+	3: No soy una clínica de rehabilitación.
+}
+
+BiomeGravestones: {
+	Default: Tumbas Normales
+	Disabled: Sin Tumbas
+	BiomeMatching: Se Ajusta Al Bioma
+	Random: Estilo Aleatorio
+	Desert: Tumbas de Arenisca
+	Snow: Tumbas Congeladas
+	Jungle: Tumbas de la Jungla
+	Hell: Tumbas Cenizas
+	Corruption: Tumbas Corruptas
+	Crimson: Tumbas Carmesí
+	Hallow: Tumbas Perladas
+	Sky: Tumbas Celestiales
+	Beach: Tumbas de Palma
+	GlowingMushroom: Tumbas Miceliales
+}
+
+Misc.or: o

@@ -1,0 +1,22 @@
+ChaosState: Cooldown de Teleporte
+PotionSickness: Cooldown de Cura
+Electrocells: Cooldown Descarga Celular
+PeculiarPotLife: Durabilidade do Pote Peculiar
+WarpPod: Cooldown de Broto Metamorfisador
+WarriorsAmphora: Cooldown do Teletransporte Pos-mórte
+WulfrumBastionRecharge: Cooldown de Homem de Wulfrum
+WulfrumBastionDurability: Durabilidade da Armadura
+WulfrumRoverDriveDurability: Durabilidade da Matriz Protetora
+WulfrumRoverDriveRecharge: Recarga da Matriz Protetora
+ShroomHookpointTimer: Duração do ponto de gancho de Cogumelo
+SyringeReload: Recarga de Siringa
+EncasedHits: Durabilidade do Cubo de Gelo
+EncasedCooldown: Cooldown do Cubo de Gelo
+
+SettingOption: {
+	Label: "Estilo de Cooldown: "
+	Fancy: Bonito
+	Square: Quadrado
+	Compact: Compacto
+	Disabled: Desativado
+}

@@ -1,0 +1,209 @@
+ItemTooltipExtras: {
+	ComicallySlowSpeed: 滑稽慢速
+	CannotCrit: 无法暴击
+	// SludgeSlapSlimelingDamage: "{0} damage per Slimeling"
+	// ToxicBlowpipeAcidExplosionDamage: "{0} damage per acid detonation"
+	// FanaticalMaskTendrilDamage: "{0} damage from Blood Tendril"
+	// ResonanceDamage: "{0} damage per Resonance"
+	TornElectrosacFullyChargedDamage: 完全充能时扔出造成{0}点额外范围伤害
+	AmpstringBowElectricFieldDamage: 每电场帧造成{0}点伤害
+	DetonationDamage: 每次引爆造成{0}至{1}点伤害
+	StormlionWhipTickDamage: 钩住时造成{0} 伤害
+	DrownedScripturesHorrorDamage: 深渊咒物造成{0}-{1} 伤害
+}
+
+ArmorSetBonus: {
+	MarniteArchitect: {
+		Title: 合成岩悬浮平台 - 你可以在脚下召唤一个悬浮平台以够到更高的地方
+		Tooltip1: 悬浮平台会在按下坐骑按键时被召唤，[c/D4C870:前提是没有装备任何坐骑]
+		Tooltip2: 使用上下键以改变悬浮平台的高度
+	}
+
+	DesertProwler: {
+		Title: 沙尘旋风 - 在地面上奔跑时会在你周围卷起一阵沙尘旋风
+		Tooltip1: 当沙尘旋风完全充能后，你可以在按住上键的同时跳跃进行一次充能沙尘跳跃
+		Tooltip2: 在强化跳跃期间获得额外{0}%远程伤害加成
+	}
+
+	Sailfish: {
+		Title: 皇家战马 - 你可以召唤一只皇家速龙海马来骑乘
+		Tooltip1: 战马会在按下坐骑按键时被召唤，[c/be9137:前提是没有装备任何坐骑]
+		Tooltip2: 骑乘时会增加{0}%近战暴击率
+		Tooltip3: 矛和骑枪会获得{0}额外伤害加成
+	}
+
+	Wulfrum: {
+		Title: 钨钢阵线 - 不在坐骑上时双击下键以装备钨钢重型装甲
+		Tooltip1: 当能量装甲激活时，你只能使用聚变炮，但防御力提升
+		Tooltip2: 召唤装甲消耗一块[c/b0e97a:钨钢金属废料]，且装甲被击中时会更快失去耐久
+		ExpandCannonInfo: 按住SHIFT视察聚变炮的属性
+	}
+
+	IceHat: 魔力凝聚-被包裹时大幅增加魔力再生
+}
+
+SirNautilusPhase1Name: 瑙提螺斯与辛伽锡恩
+HeatHazeSprite: 幻影之灵
+
+MapIcons: {
+	SealedChamber: 密室
+	WarpPod: 扭曲孢子荚
+}
+
+ModMenus.ElysiumMenu: 镀金梦幻岛
+
+WorldgenTasks: {
+	VanityTrees: 正在表演神秘林业
+	SealedChamber: 正在用血液玷污圣地
+	DesertGraveyard: 正在埋葬逝者
+	ScourgeFossils: 正在晒干海洋生物
+	Hookstaff: 正在搅动菌丝
+	WulfrumScrapyard: 正在丢弃破损机器
+	CleanupPass: 正在整理装饰品
+	DebugDesertWorld: 海底城市
+}
+
+DesertGravestones: {
+	Nautilus: 谨以此纪念瑙提螺斯爵士以及他掩护阿米迪亚斯国王逃生所作出的牺牲。愿水流带他平静地安息于远处的大海。
+	Inscription1: 谨以此纪念那些为了保护王国及其子民而献出生命的人。
+	Inscription2: 愿海洋王国的士兵在这片染血黄沙下永远安息。
+	Inscription3: 此墓地遗址标记着海洋王国军队的最后一战。
+	Inscription4: 这里埋葬的不仅是战士，更是父亲，母亲，儿子和女儿。我们衷心祈祷这里是他们真正的最终安息之处。
+	Inscription5: 这片墓地下方深处掩埋着被黄沙覆盖的Azure City废墟，以及那些与之并肩战斗直至死亡的人。
+	Inscription6: 愿后来者铭记战士们的英勇和我们所遭受的残酷折磨。
+	Inscription7: 谨以此纪念那些，即使面对毫无胜算的强敌，也不动摇勇气的人。
+	Inscription8: 这些墓碑中并没有遗体，而是长眠于更深的地下。在他们守卫的城市废墟旁，这十字架将屹立不倒并表明他们共同安息于此。
+	Inscription9: 愿{0}勇敢的心在远处的大海中安息。
+	Inscription10: 我们的阳光，{0}，被过早地带走了。
+	Inscription11: 一个出生于乱世的温柔灵魂。
+	Inscription12: 只要我们活着，{0}的遗赠就不会终结于此。
+	Inscription13: 愿你在海底安然入睡。
+	Inscription14: "{0}长眠于此，一颗被恐怖深渊吞噬的闪耀之星。"
+	Inscription15: 终有一天我们会像星辰一样再次相遇。
+	Name1: Anemone
+	Name2: Abzu
+	Name3: Baleen
+	Name4: Tridacna
+	Name5: Cobalt
+	Name6: Glaucus
+	Name7: Levy
+	Name8: Duke Sharptail
+	Name9: Triton
+	Name10: Azurite
+	Name11: Bermuda
+	Name12: Spiralia
+	Name13: Aculeatus
+	Name14: Ventricosus
+	Name15: Pharida
+	Name16: Oegope
+	Name17: Taonii
+	Name18: Platycon
+	Name19: Janolus
+	Name20: Costasiella
+	Name21: Elysia
+	Name22: Caiman
+	Name23: Argus
+	Name24: Officer Mora
+	Name25: Homar
+	Name26: Diasetos
+	Name27: Sebae
+	Name28: Aurea
+	Name29: Oro
+	Name30: Acantha
+	Name31: Conoa
+}
+
+DeathMessages: {
+	DesertScourgeChungry: {
+		1: "{0}变成了橙汁的果肉。"
+		2: "{0}现在是鱼饵了。"
+		3: "{0}变成了美味小吃。"
+		4: "{0}成为了主菜的佐料。"
+	}
+
+	DesertScourgeSkullCrush: {
+		// 1: "{0} was mauriced."
+		2: 重力对{0}的王国来说是场灾难。
+		3: "[i:{1}][i:{1}][i:{1}] {0} [i:{1}][i:{1}][i:{1}]"
+		4: "{0}被骨头击中了。"
+		5: "{0}成为了牛顿引力定律的牺牲品。"
+	}
+
+	DesertScourgeAntlionSpit: "{0}已被熔化。"
+
+	DesertScourgeElectroblast: {
+		1: "{0}需要考虑下死亡。"
+		2: "{0}有相当震惊的经历。"
+		3: "{0}这个月的电费将会很高。"
+	}
+
+	CrabulonSpores: {
+		1: "{0}变成了真菌意志的一部分。"
+		2: 蘑菇洞穴将{0}视为新的契合宿主。
+		3: "{0}爆发成孢子了。"
+		4: "{0}已被同化。"
+		5: "{0}将成为不错的天花板装饰。"
+	}
+
+	CrabulonDropSlam: {
+		1: "{0}被压扁成了蘑菇味煎饼。"
+		2: "{0}变成了蘑菇肥料。"
+		3: 菌生蟹加速了{0}的分解。
+		4: "{0}没有空间躲避了。"
+	}
+
+	CrabulonClaw: {
+		1: "{0}感觉很蓝受。"
+		2: "{0}某天可能会被搅拌进治疗药水。"
+		3: "{0}的身体留在了蘑菇洞穴。"
+		4: "{0}已被收割。"
+	}
+
+	SandTwisterFall: {
+		1: "{0} 与尘魔达成了协议。"
+		2: "{0} 搞砸了。"
+		3: "{0} 变得一团糟。"
+		4: 睡魔让 {0} 安息了。
+	}
+
+	OpulentSelfInjection: {
+		1: "{0} 对针头产生了恐惧。"
+		2: "{0} 成为了自己玩忽职守的受害者。"
+	}
+
+	OpulentInjection: {
+		// 1: "{0} has a newfound fear of needles."
+		// 2: "{0} was a victim of {1}'s malpractice."
+	}
+
+	OpulentOverdose: {
+		1: "{0} 忘记了读副作用说明。"
+		2: "{0} 自食其果了。"
+		3: "{0}的器官迸裂了。"
+	}
+}
+
+OpulentDartgunNurseDialogue: {
+	1: 你完全是自作自受
+	2: 有些问题我没法解决。
+	3: 这儿可不是康复诊所。
+}
+
+BiomeGravestones: {
+	Default: 普通墓碑
+	Disabled: 不掉落墓碑
+	BiomeMatching: 匹配生物群落
+	Random: 随机样式
+	Desert: 沙岩墓碑
+	Snow: 冰雪墓碑
+	Jungle: 丛林墓碑
+	Hell: 灰烬墓碑
+	Corruption: 腐化墓碑
+	Crimson: 猩红墓碑
+	Hallow: 珍珠石墓碑
+	Sky: 天空墓碑
+	Beach: 棕榈木墓碑
+	GlowingMushroom: 真菌墓碑
+}
+
+// Misc.or: or

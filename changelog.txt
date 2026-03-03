@@ -1,0 +1,16 @@
+*** 0.1.16 Hotfix Changelogs ***
+
+== Gameplay fixes ==
+- Fixed desert scourge quantum tunnelling into another dimension while performing its hungry lunge attack in master mode
+- Fixed a bug which allowed you to avoid getting the tar mark debuff from peculiar pot if you exited the pot using the blizzard hat's ability
+- Crabulon despawns if you recall out while it's doing its husk drop attack, instead of chasing you back to your spawn to crush you
+
+== Visual/Audio fixes ==
+- Fixed the custom dust effects from the toxic blowpipe not rendering properly
+- Fixed pontiff's piper trying to summon its squid minion while on the main menu character selection screen, potentially making them fail to load if Calamity is enabled
+- Fixed blizzard and sandstorm sprites rendering weirdly in the bestiary
+- Fixed blizzard and sandstorm sprite in a bottle vanity not flipping with gravity potion
+- Added a sound for the dust devil summoned by the sandstorm sprite
+
+== Localization fixes ==
+- Added Portuguese localization for content added in the yoblin patch, alongside fixes to translations for existing content

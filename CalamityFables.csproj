@@ -1,0 +1,13 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>CalamityFables</AssemblyName>
+	<LangVersion>13.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+	  <Reference Include="NetEasy">
+		  <HintPath>lib\NetEasy_v0.1.8.dll</HintPath>
+	  </Reference>
+  </ItemGroup>
+</Project>

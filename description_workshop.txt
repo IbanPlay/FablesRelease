@@ -1,0 +1,21 @@
+Calamity Fables is a new standalone ground-up reimagining of the popular Calamity Mod. It's made by a group of former developers, including the previous lead artist, as well as other familiar faces in the community. We hope to add ideas that we (the former developers) couldn't see through during our time developing Calamity. 
+
+This mod is NOT a Calamity Addon. It is heavily recommended to play it without the original Calamity mod to get the intended experience. However, if you do decide to use both mods, there are systems to ensure some level of compatibility. If the Calamity mod is enabled, Fables will patch out any duplicate content (Content replacement is fully configurable and can be turned off if desired). 
+
+This mod is focused on quality over quantity, each piece of content being polished to meet our high standards. We plan to integrate a lot of environmental storytelling and immerse players in living, dynamic storylines.
+
+This mod is still in beta, but at the moment adds 3 major boss fights, 2 new structures and general fancy world generation changes, a stylish dialogue UI for its quest NPC, and many miscellaneous items, creatures, and other changes!
+
+Go discuss the mod in our official discord server! https://discord.gg/cJvy4cUXna
+
+Team Credits (Current developers)
+Battle Bee, Chromadisc, Daim, Enreden, GabeHasWon, GramOfSalt, Gavran, IbanPlay, Kambing, Lunatix, MarieArk, Mayhemm, Moonburn, Omanora, Phupperbat, Piky, Pixlgray, Pkpseudo, Popo, RoverdriveX, Runefield, Sabi, Salvati, Sbubby, Skeletony, Sok, Spooktacular, Splet, Zach
+
+Team Credits (Testing team)
+AmmyanDocCiesh, Afzofa, Citrus, Cloud, Darwin, Enderpikmin, Gobiidae, Ian1KV, Lyre, Margakis, Mello Mochi, Minari, Niorin, Schmizz, Tomat, Vinh, YuH, Yuyutsu
+
+Team Credits (Translations)
+Enderpikmin (Spanish), Home of Foxes (Chinese), Nana Team (Russian), Yetaloz (Portuguese)
+
+Team Credits (Past developers and contributors)
+Lucille Karma, Mrrp, Vaikyia, JaceDaDorito

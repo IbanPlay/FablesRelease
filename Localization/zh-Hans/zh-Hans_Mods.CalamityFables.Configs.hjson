@@ -1,0 +1,65 @@
+EntryTitle.CooldownDisplay: ""
+EntryTooltip.CooldownDisplay: ""
+
+FablesConfig: {
+	DisplayName: 主要配置
+
+	SectionTitle: {
+		Graphics: 视觉效果
+		UI: 用户界面
+	}
+
+	VanillaCooldownDisplay: {
+		Tooltip: 药水疾病和混乱状态会显示在冷却槽中而不是减益列表。
+		Label: "[i:{0}] 原版减益冷却显示"
+	}
+
+	CooldownDisplay: {
+		Tooltip: ""
+		Label: 冷却显示
+	}
+
+	ChromaticAbberationMultiplier: {
+		Tooltip: 一些物品使用的色差视效的强度乘数。
+		Label: "[i:{0}] 色差视效乘数"
+	}
+
+	ScreenshakeMultiplier: {
+		Tooltip: 模组中屏幕震动效果的强度乘数。
+		Label: "[i:{0}] 震屏乘数"
+	}
+
+	FluidSimVFXEnabled: {
+		Tooltip: 是否启用烟雾模拟视觉特效，它可能会增加低端显卡的性能负担。
+		Label: "[i:{0}] 启用烟雾/雾气视觉特效"
+	}
+
+	ParticleLimit: {
+		Tooltip: 同时可存在的最大粒子数量。如果数量太低可能会导致预警线可见度降低。
+		Label: "[i:{0}] 最大粒子数"
+	}
+
+	BossIntroCardsActivated: {
+		Tooltip: 开启/关闭Boss生成时出现的介绍卡片。
+		Label: "[i:{0}] Boss介绍卡片"
+	}
+}
+
+CalCompatConfig: {
+	DisplayName: 灾厄适配
+
+	UseCalamityMusic: {
+		Tooltip: 如果开启灾厄音乐模组，会播放Fables曲目对应的灾厄曲目（如果有的话）
+		Label: "[i:{0}] 使用灾厄音乐"
+	}
+
+	ReplaceCalamity: {
+		Tooltip: 移除有Fables等替的灾厄内容。配方中被取代的灾厄物品也可用Fables中对应的物品制作。
+		Label: "[i:{0}] 移除重复的灾厄内容"
+	}
+
+	RemoveCalamityLoreFluff: {
+		Tooltip: 移除可能与Fables传说冲突的灾厄物品（当前仅包括传颂之物，将来可能有其他的）
+		Label: "[i:{0}] 移除传颂之物"
+	}
+}

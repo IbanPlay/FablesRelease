@@ -1,0 +1,21 @@
+ObtentionMessage: "Nuevo Recuerdo obtenido: "
+
+Names: {
+	NautilusPendant: Colgante Real
+	Test: Colgante de Prueba
+}
+
+Descriptions: {
+	NautilusPendant: Otorgado a los miembros del Escuadrón Real Rémora.
+	Test: Test test debug hello
+}
+
+NameColors: {
+	NautilusPendant: FFCC41
+	Test: FF0900
+}
+
+TabNames: {
+	Open: Recuerdos
+	Close: Cerrar
+}

@@ -1,0 +1,22 @@
+ChaosState: 传送冷却
+PotionSickness: 治疗冷却
+Electrocells: 电细胞放电冷却
+PeculiarPotLife: 古怪罐子耐久
+WarpPod: 扭曲孢子荚传送冷却
+WarriorsAmphora: 死亡位置传送冷却
+WulfrumBastionRecharge: 钨钢转换冷却
+WulfrumBastionDurability: 钨钢转换中
+WulfrumRoverDriveDurability: 保护矩阵耐久
+WulfrumRoverDriveRecharge: 保护矩阵充能
+ShroomHookpointTimer: 蘑菇勾点剩余时间
+SyringeReload: 装填注射器
+EncasedHits: 冰块耐久
+EncasedCooldown: 冰块冷却
+
+SettingOption: {
+	Label: 冷却样式：
+	Fancy: 精致
+	Square: 方形
+	Compact: 袖珍
+	Disabled: 隐藏
+}

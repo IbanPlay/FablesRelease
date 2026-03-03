@@ -1,0 +1,209 @@
+ItemTooltipExtras: {
+	ComicallySlowSpeed: Ridiculement lent
+	CannotCrit: Incapable de coups critiques
+	// SludgeSlapSlimelingDamage: "{0} damage per Slimeling"
+	// ToxicBlowpipeAcidExplosionDamage: "{0} damage per acid detonation"
+	// FanaticalMaskTendrilDamage: "{0} damage from Blood Tendril"
+	// ResonanceDamage: "{0} damage per Resonance"
+	TornElectrosacFullyChargedDamage: Les lancers chargés explosent pour {0} de dégats supplémentaires aux alentours
+	AmpstringBowElectricFieldDamage: Le champ éléctrique inflige {0} de dégats à répétition
+	DetonationDamage: Les détonations infligent de {0} à {1} de dégats"
+	// StormlionWhipTickDamage: "{0} damage while hooked"
+	// DrownedScripturesHorrorDamage: "{0}-{1} damage from Abyssal Horror"
+}
+
+ArmorSetBonus: {
+	MarniteArchitect: {
+		Title: Cric de Marnite - Vous pouvez déployer un cric sous vos pieds pour atteindre plus haut
+		Tooltip1: Le cric est deployé lorsque vous essayez d'invoquer votre monture [c/D4C870:sans avoir une monture déjà équipée]
+		Tooltip2: Utilisez la touche Haut et Bas pour changer la hauteur du cric
+	}
+
+	DesertProwler: {
+		Title: Tourbillion de sable - Courrir sur le sol entraîne une tornade de sable avec vous
+		Tooltip1: Lorsque le tourbillion est complêtement chargé, vous pouvez performer un saut propulsé en sautant avec la touche Haut appuyée
+		Tooltip2: Pendant la duration du saut propulsé, vous gagnez {0}% de dégâts a distance supplémentaires
+	}
+
+	Sailfish: {
+		Title: Destrier Royal - Vous pouvez invoquer un vélocicampe de joute royale
+		Tooltip1: Le destrier est invoqué lorsque vous essayez d'invoquer votre monture [c/be9137:sans avoir une monture déjà équipée]
+		Tooltip2: Le destrier approte {0}% de chances de coup critique de mêlée
+		Tooltip3: Les lances gagnent {0} de dégâts supplémentaires sur le vélocicampe
+	}
+
+	Wulfrum: {
+		Title: Bastion de Wulfrum - Appuyez deux fois sur Bas pour equipper une exosquelette Wulfrum (tant que vous n'êtes pas sur une monture)
+		Tooltip1: Pendant que l'exosquelette est actif vos défenses sont fortifiées, mais vous ne pouvez utiliser que le cannon à fusion intégré
+		Tooltip2: Equipper l'exosquelette requiert une pièce de [c/b0e97a:ferraile Wulfrum], et l'exosquelette perdra de la durabilité plus rapidement quand vous recevez des coups
+		ExpandCannonInfo: Maintenez SHIFT pour voir les statistiques du cannon à fusion
+	}
+
+	// IceHat: Mana Condensation - Greatly increased mana regeneration while encased
+}
+
+SirNautilusPhase1Name: Nautilus et Signathion
+// HeatHazeSprite: Mirage Sprite
+
+MapIcons: {
+	SealedChamber: Chambre Ensevelie
+	WarpPod: Gousse de téléportation
+}
+
+ModMenus.ElysiumMenu: Enluminure d'un Paradis Perdu
+
+WorldgenTasks: {
+	VanityTrees: Foresterie ésotérique
+	SealedChamber: Teinture d'une chambre secrète ensanglantée
+	DesertGraveyard: Derniers hommages
+	ScourgeFossils: Asséchement de monstres marins
+	Hookstaff: Agitation du mycélium
+	WulfrumScrapyard: Recyclage des machines cassées
+	CleanupPass: Remise en ordre des décorations
+	DebugDesertWorld: La fin des temps
+}
+
+DesertGravestones: {
+	Nautilus: À la mémoire de Messire Nautilus et de son sacrifice volontaire pour sécuriser la fuite du roi Amidias. Que les courants l'amènent paisiblement vers la grande mer de l'au-delà.
+	Inscription1: En l'honneur de ceux qui ont perdu leur vie en défendant le Royaume et ses habitants.
+	Inscription2: Que les soldats du Royaume de Triton trouvent leur ultime repos enlisés dans ces sables ensanglantés.
+	Inscription3: Ce lieu de sépulture marque le baroud d'honneur de l'armée du Royaume de Triton.
+	Inscription4: Ici reposent non seulement des guerriers, mais aussi des pères, des mères, des fils et des filles. De tout notre cœur, nous prions pour que ce soit leur véritable et ultime repos.
+	Inscription5: Dans les profondeurs, en dessous de ce cimetière, se trouvent les ruines de la Ville d'Azure, ensevelie par le sable et les cendres de ceux qui on donné leur vies pour elle.
+	Inscription6: Que ceux qui viendront après nous veillent à ce que la bravoure des guerriers qui ont combattu et la cruauté de la malédiction qui nous a frappés ne soient pas oubliées.
+	Inscription7: A la mémoire du courage inébranlable de ceux qui ont fait face à un combat sans espoir.
+	Inscription8: Vous ne trouverez aucun cadavre sous ces tombes; ceux ci lisent plusieurs lieues en soutterain. Parmi les ruines de la ville qu'ils ont défendu, cette stèle se dressera et affirmera, ils reposent parmi les leurs.
+	Inscription9: Que la bravoure de {0} puisse trouver un repos mérité dans la grande mer de l'au-delà.
+	Inscription10: Notre rai de soleil trop tôt eteint, {0}.
+	Inscription11: Une âme trop douce pour des temps cruels.
+	Inscription12: Tant que nous vivrons, l'héritage de {0} persistera
+	Inscription13: Repose en paix, sous des vagues calmes.
+	Inscription14: Ici lise {0}, une étoile aveuglante étouffée par ces terribles abîmes.
+	Inscription15: On se retrouvera parmi les étoiles, un jour.
+	Name1: Anéone
+	Name2: Abzu
+	Name3: Fanon
+	Name4: Tridacna
+	Name5: Cobalt
+	Name6: Glaucus
+	Name7: Lévi
+	Name8: Duc de Fine-nageoire
+	Name9: Céto
+	Name10: Azurite
+	Name11: Bermude
+	Name12: Spiralia
+	Name13: Aculeatus
+	Name14: Ventricosus
+	Name15: Pharida
+	Name16: Oegope
+	Name17: Taonii
+	Name18: Platycon
+	Name19: Janolus
+	Name20: Costasiella
+	Name21: Elysia
+	Name22: Caiman
+	Name23: Argus
+	Name24: Officier Mora
+	Name25: Homar
+	Name26: Diasetos
+	Name27: Sebae
+	Name28: Aurea
+	Name29: Oro
+	Name30: Acantha
+	Name31: Conoa
+}
+
+DeathMessages: {
+	DesertScourgeChungry: {
+		1: "{0} est devenu un steak haché"
+		2: L'appât, c'était {0} depuis le début!
+		3: "{0} est devenu un gentil casse-croûte."
+		4: "{0} est l'entrée pour le plat principal."
+	}
+
+	DesertScourgeSkullCrush: {
+		1: "{0} a été aplati."
+		2: La gravité s'est prouvée être une fin catastrophique pour la fable de {0}.
+		3: "[i:{1}][i:{1}][i:{1}] {0} [i:{1}][i:{1}][i:{1}]"
+		4: "{0} s'est fait poutrer."
+		5: "{0} est une nouvelle victime des lois de la gravité de Newton."
+	}
+
+	DesertScourgeAntlionSpit: "{0} à fondu en lambeaux."
+
+	DesertScourgeElectroblast: {
+		1: "{0} s'est fait carboniser."
+		2: "{0} a eu le choc de sa vie."
+		3: "{0} n'aura pas l'opportunité de payer la facture d'éléctricité."
+	}
+
+	CrabulonSpores: {
+		1: "{0} a rejoint le réseau mycélien."
+		2: Les cavernes champignon on décrété que {0} est un hôte convenable.
+		3: "{0} a éclaté en un million de spores."
+		4: "{0} s'est fait assimiler."
+		5: "{0} fera une jolie décoration pour le plafond."
+	}
+
+	CrabulonDropSlam: {
+		1: "{0} s'est fait aplatir en un pancake au champignons."
+		2: "{0} est devenu de l'engrais a champignon."
+		3: Crabulon a expédié la décomposition inévitable de {0}.
+		4: "{0} n'est pas le champignon de l'esquive."
+	}
+
+	CrabulonClaw: {
+		1: "{0} a les blues."
+		2: Un de ces jours, {0} finira par se faire concoter dans une potion de soin.
+		3: "{0} a confié ses organes aux cavernes luisantes."
+		4: "{0} a été récolté."
+	}
+
+	SandTwisterFall: {
+		// 1: "{0} made a deal with the dust devil."
+		// 2: "{0} got screwed up."
+		// 3: "{0} got it twisted."
+		// 4: The sandman laid {0} to rest.
+	}
+
+	OpulentSelfInjection: {
+		// 1: "{0} has a newfound fear of needles."
+		// 2: "{0} was a victim of their own malpractice."
+	}
+
+	OpulentInjection: {
+		// 1: "{0} has a newfound fear of needles."
+		// 2: "{0} was a victim of {1}'s malpractice."
+	}
+
+	OpulentOverdose: {
+		// 1: "{0} forgot to read the side effects."
+		// 2: "{0} got a taste of their own medicine."
+		// 3: "{0}'s organs exploded."
+	}
+}
+
+OpulentDartgunNurseDialogue: {
+	// 1: You did this entirely to yourself.
+	// 2: There's just some problems I can't fix.
+	// 3: This isn't a rehab clinic.
+}
+
+BiomeGravestones: {
+	Default: Pierres tombales normales
+	Disabled: Pas de pierres tombales
+	BiomeMatching: En accordance avec le biome
+	Random: Style aléatoire
+	Desert: Pierres tombales de grès
+	Snow: Pierres tombales glacées
+	Jungle: Pierres tombales en acajou
+	Hell: Pierres tombales en frêne
+	Corruption: Pierres tombales corrompues
+	Crimson: Pierres tombales carmines
+	Hallow: Pierres tombales nacrées
+	Sky: Pierres tombales celestes
+	Beach: Pierres tombales en palmier
+	GlowingMushroom: Pierres tombales ycéliennes
+}
+
+// Misc.or: or

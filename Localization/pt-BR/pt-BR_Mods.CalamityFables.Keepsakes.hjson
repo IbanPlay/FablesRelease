@@ -1,0 +1,21 @@
+// ObtentionMessage: "New Keepsake obtained: "
+
+Names: {
+	NautilusPendant: Pendente Real
+	Test: Test Pendant
+}
+
+Descriptions: {
+	NautilusPendant: Dado aos membros do Esquadrão Real Rêmora.
+	Test: Test test debug hello
+}
+
+NameColors: {
+	NautilusPendant: FFCC41
+	Test: FF0900
+}
+
+TabNames: {
+	Open: Lembranças
+	Close: Fechar
+}
