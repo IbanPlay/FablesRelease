@@ -1,6 +1,6 @@
-#FablesRelease
+# FablesRelease
 
-This is the public repository of the latest Calamity Fables release.
+This is a public repository containing the source of the latest Calamity Fables public release
 
 ---
 
